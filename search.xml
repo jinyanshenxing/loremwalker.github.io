@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2Fnote%2F2018%2F07-31%2F4a17b156.html</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[2018年7月26日 星期四 晴]]></title>
     <url>%2Fnote%2F2018%2F07-26%2Fb8602775.html</url>
     <content type="text"><![CDATA[]]></content>
@@ -16,7 +11,7 @@
   <entry>
     <title><![CDATA[2018年7月25日 星期三 晴]]></title>
     <url>%2Fnote%2F2018%2F07-25%2F97d656f7.html</url>
-    <content type="text"><![CDATA[一张速写关于她的，我不太想说她是谁，简直是个笑话；两张关于我的自画像，也许我没天分；太久褪色泛黄，太久太久不会出现我要的明天…]]></content>
+    <content type="text"><![CDATA[一张速写关于她的，我不太想说她是谁，简直是个笑话；两张关于我的自画像，也许我没天分；太久褪色泛黄，太久太久不会出现看到的明天…]]></content>
       <categories>
         <category>日记</category>
       </categories>
