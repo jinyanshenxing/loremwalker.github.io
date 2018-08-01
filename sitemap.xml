@@ -2,16 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://loremwalker.github.io/note/2018/07-25/97d656f7.html</loc>
+    <loc>https://loremwalker.github.io/note/2018/08-01/d56f6920.html</loc>
     
-    <lastmod>2018-07-31T23:33:08.173Z</lastmod>
+    <lastmod>2018-08-01T14:25:50.345Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://loremwalker.github.io/note/2018/07-31/48fac66c.html</loc>
+    
+    <lastmod>2018-08-01T06:07:04.973Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://loremwalker.github.io/note/2018/03-09/55b3a5a.html</loc>
+    
+    <lastmod>2018-08-01T05:53:59.698Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://loremwalker.github.io/note/2018/02-26/5e7d6b37.html</loc>
     
-    <lastmod>2018-07-26T14:13:56.000Z</lastmod>
+    <lastmod>2018-08-01T05:53:45.004Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://loremwalker.github.io/note/2018/02-25/13e45bd.html</loc>
+    
+    <lastmod>2018-08-01T05:53:35.997Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://loremwalker.github.io/note/2018/02-26/bafc086b.html</loc>
+    
+    <lastmod>2018-08-01T05:53:30.142Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://loremwalker.github.io/note/2018/07-25/97d656f7.html</loc>
+    
+    <lastmod>2018-08-01T05:43:14.802Z</lastmod>
     
   </url>
   
@@ -30,35 +65,7 @@
   </url>
   
   <url>
-    <loc>https://loremwalker.github.io/note/2018/02-26/bafc086b.html</loc>
-    
-    <lastmod>2018-07-26T14:13:56.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://loremwalker.github.io/note/2018/02-25/13e45bd.html</loc>
-    
-    <lastmod>2018-07-26T14:13:56.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://loremwalker.github.io/note/2018/06-21/d2475f08.html</loc>
-    
-    <lastmod>2018-07-26T14:13:56.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://loremwalker.github.io/note/2018/03-09/55b3a5a.html</loc>
-    
-    <lastmod>2018-07-26T14:13:56.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://loremwalker.github.io/about/index.html</loc>
     
     <lastmod>2018-07-26T14:13:56.000Z</lastmod>
     
@@ -79,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://loremwalker.github.io/photo/index.html</loc>
+    <loc>https://loremwalker.github.io/about/index.html</loc>
     
     <lastmod>2018-07-26T14:13:56.000Z</lastmod>
     
@@ -87,6 +94,13 @@
   
   <url>
     <loc>https://loremwalker.github.io/tags/index.html</loc>
+    
+    <lastmod>2018-07-26T14:13:56.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://loremwalker.github.io/photo/index.html</loc>
     
     <lastmod>2018-07-26T14:13:56.000Z</lastmod>
     
