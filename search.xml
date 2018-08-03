@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[2018年8月3日 星期五 阴转暴雨]]></title>
+    <url>%2Fnote%2F2018%2F08-03%2Fbd789af5.html</url>
+    <content type="text"><![CDATA[久久不能平静，当我说出这句话时，其实也已经平静了。没亲身或身旁其他人体会过的，也基本上感知不到话里隐藏着背后的故事所蕴藏的深层次的含义。多去自己想想为什么这么说，为什么这么做，问问他们。 每一个人都有不同的使命，每一个阶段都有不同的成长周期，上代使命已完成与下一代期望值的落差的冲突。要么顺应上代的使命继续下去，要么就从现在去改变让它更好点…]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[阅读《maven实战》（其一）]]></title>
     <url>%2Fnote%2F2018%2F08-03%2Fe21123d2.html</url>
     <content type="text"><![CDATA[在阅读了第一章有关于maven的简介，提取下maven的几段原文： 缺乏文档是理解和使用maven的一个主要障碍 使用maven最高效的方式永远是命令行，ide在自动化构建方面有天生缺陷 没有maven的中央仓库将不得不去开源项目首页下载链接，这不是更费事吗？ maven是用来管理项目的，清理、编译、打包、以及一些定义的过程本身就是复杂的事情 可以说这也是阅读了书中第一章内容的初识maven的总结]]></content>
