@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://loremwalker.github.io/note/2018/08-03/e21123d2.html</loc>
+    
+    <lastmod>2018-08-03T01:54:31.060Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://loremwalker.github.io/note/2018/08-02/9f13a3c0.html</loc>
     
     <lastmod>2018-08-02T13:28:35.180Z</lastmod>
@@ -107,7 +114,7 @@
   </url>
   
   <url>
-    <loc>https://loremwalker.github.io/photo/index.html</loc>
+    <loc>https://loremwalker.github.io/archives/index.html</loc>
     
     <lastmod>2018-07-26T14:13:56.000Z</lastmod>
     
@@ -121,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://loremwalker.github.io/archives/index.html</loc>
+    <loc>https://loremwalker.github.io/photo/index.html</loc>
     
     <lastmod>2018-07-26T14:13:56.000Z</lastmod>
     

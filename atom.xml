@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-08-02T13:28:35.180Z</updated>
+  <updated>2018-08-03T01:54:31.060Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阅读《maven实战》（其一）</title>
+    <link href="https://loremwalker.github.io/note/2018/08-03/e21123d2.html"/>
+    <id>https://loremwalker.github.io/note/2018/08-03/e21123d2.html</id>
+    <published>2018-08-03T01:06:35.000Z</published>
+    <updated>2018-08-03T01:54:31.060Z</updated>
+    
+    <content type="html"><![CDATA[<p>在阅读了第一章有关于maven的简介，提取下maven的几段原文：</p><ul><li>缺乏文档是理解和使用maven的一个主要障碍</li><li>使用maven最高效的方式永远是命令行，ide在自动化构建方面有天生缺陷</li><li>没有maven的中央仓库将不得不去开源项目首页下载链接，这不是更费事吗？</li><li>maven是用来管理项目的，清理、编译、打包、以及一些定义的过程本身就是复杂的事情</li></ul><p>可以说这也是阅读了书中第一章内容的初识maven的总结</p>]]></content>
+    
+    <summary type="html">
+    
+      hello maven!
+    
+    </summary>
+    
+      <category term="笔记" scheme="https://loremwalker.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="maven" scheme="https://loremwalker.github.io/tags/maven/"/>
+    
+  </entry>
   
   <entry>
     <title>2018年8月2日 星期四 晴转暴雨</title>
