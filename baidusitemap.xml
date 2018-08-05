@@ -4,11 +4,29 @@
 
     
   <url>
-    <loc>https://loremwalker.github.io/note/2018/08-05/541a711f.html</loc>
-    <lastmod>2018-08-05T04:49:19.039Z</lastmod>
+    <loc>https://loremwalker.github.io/note/2018/08-05/d207cf0a.html</loc>
+    <lastmod>2018-08-05T08:22:05.929Z</lastmod>
     <data>
         <display>
-        <title>2018年8月5日 星期日 晴（其二）</title>
+        <title>阅读《maven实战》（其二）</title>
+        <pubTime>2018-08-05T05:40:46.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="笔记" url="https://loremwalker.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://loremwalker.github.io/note/2018/08-05/541a711f.html</loc>
+    <lastmod>2018-08-05T07:04:23.047Z</lastmod>
+    <data>
+        <display>
+        <title>2018年8月5日 星期日 暴雨（其二）</title>
         <pubTime>2018-08-05T04:17:40.000Z</pubTime>
         
          
@@ -23,10 +41,10 @@
     
   <url>
     <loc>https://loremwalker.github.io/note/2018/08-05/260675a5.html</loc>
-    <lastmod>2018-08-05T04:15:02.682Z</lastmod>
+    <lastmod>2018-08-05T07:04:12.783Z</lastmod>
     <data>
         <display>
-        <title>2018年8月5日 星期日 晴（其一）</title>
+        <title>2018年8月5日 星期日 暴雨（其一）</title>
         <pubTime>2018-08-05T03:40:12.000Z</pubTime>
         
          
@@ -346,6 +364,7 @@
     </url>
 
     
+    
   <url>
     <loc>https://loremwalker.github.io/note/2018/06-21/d2475f08.html</loc>
     <lastmod>2018-07-26T14:13:56.000Z</lastmod>
@@ -363,6 +382,5 @@
     </data>
     </url>
 
-    
     
 </urlset>

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[2018年8月5日 星期日 晴（其二）]]></title>
+    <title><![CDATA[阅读《maven实战》（其二）]]></title>
+    <url>%2Fnote%2F2018%2F08-05%2Fd207cf0a.html</url>
+    <content type="text"><![CDATA[了解到一个新的win命令echo %java_home%，打印出环境变量java_home的路径。顺便也下载配置了maven，m2_home和配置java环境其实也是差不多的。mvn -v检查maven的安装情况及环境配置是否正确。升级maven的话，仅仅只需将环境变量改动即可。设置代理的话编辑~/.m2/settings.xml，如果没有该文件，则复制%m2_home%/conf/setting.xml 安装m2eclipse书中提供设置location属性的网址 http://m2eclipse.sonatype.org/site/m2e 已经失效，替换成 http://download.eclipse.org/technology/m2e/releases 即可；除了核心组件，与svn进行集成的组件网址 http://m2eclipse.sonatype.org/sites/m2e-extras 又失效了，因为Eclipse4.3以上已自带了。 不要使用ide内嵌的maven，与当前配置的maven版本保持一致，preferences-&gt;maven-&gt;installations-&gt;add，选择m2_home路径，勾选这外部maven。]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年8月5日 星期日 暴雨（其二）]]></title>
     <url>%2Fnote%2F2018%2F08-05%2F541a711f.html</url>
     <content type="text"><![CDATA[很多很多不确定的过往，用理想化的或是多个不同角度的分析似乎都能找到合理解释及原因，但下一次呢？是否还是准确无误呢？我感觉只能是争取这最大化机率的过程，自然规律可变因素实在太多，结果真的是无法预测，尽心尽力去做事，能否成功还得听其自然。 这是我最珍爱的的两件，为什么当时就机缘巧合的就接触到了呢？为什么现在却成我的珍爱了呢？好久好久了吧…（那时的我还不怎么内向）我问过曾经在我家嬉戏两小无猜的欧研利（曾经那也只是曾经…）：我们俩这么认识在一起的？当时…嗯…其实直到现在…呃…我也不清楚，反正就这么莫名其妙的好上了…过去的毕竟真的都过去了…还是着眼现在吧！ 当时也没像现在的智能手机…留住照片的话，我不知道是遗憾还是伤害呢？我不知道她是谁了，真的不知道她是谁了，真的就像失忆了一样，一起合影过反正长的其实挺像的，特别是当我写日记回想从前你那微笑的样子…]]></content>
       <categories>
@@ -9,7 +17,7 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[2018年8月5日 星期日 晴（其一）]]></title>
+    <title><![CDATA[2018年8月5日 星期日 暴雨（其一）]]></title>
     <url>%2Fnote%2F2018%2F08-05%2F260675a5.html</url>
     <content type="text"><![CDATA[生活中实在充满了太多欺骗，当时餐桌上的酿豆腐与海带丝，从盒饭店里带来的酿豆腐味道不怎么样，放冰箱一天后，也蒸个不冷不热，当时实在太饿了，吃的味道还不错，夹了一些海带丝，瞬间感觉不对劲于是问了我爸是不是放了醋？（对酸菜极端反感）结果得到的回答居然是放了像是醋一样的黑酱油，真的当我是白痴？一看的确是醋…有时连亲人都是不可信的，唉！我能信谁呢？除了杨金鑫，恐怕就我自己了… 饭后买了一瓶糖水（实在太爱甜了），喝了一会看着莎拉漫画书，不多久肚子痛一整天，整个人都不好了…才想起来我所忽视的细节，就是带回来的酿豆腐在店里冰冻了几天呢？剩下的又冰冻了一下还是没蒸多久半冷半热的。这些细节的重要往往却选择性的忽略或是完全的不知… 现在也是觉得怀疑的重要性，不断的揣测，尽管很累很麻烦，但它不是一件坏事了。]]></content>
       <categories>
