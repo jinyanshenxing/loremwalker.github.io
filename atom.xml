@@ -57,11 +57,11 @@
   </entry>
   
   <entry>
-    <title>阅读《maven实战》（其三）</title>
+    <title>《maven实战》笔记（其三）</title>
     <link href="https://loremwalker.github.io/note/2018/08-05/9f196c58.html"/>
     <id>https://loremwalker.github.io/note/2018/08-05/9f196c58.html</id>
     <published>2018-08-05T10:08:59.000Z</published>
-    <updated>2018-08-06T02:03:51.931Z</updated>
+    <updated>2018-08-06T13:08:31.895Z</updated>
     
     <content type="html"><![CDATA[<p>一个与maven不太相关的话题，idea是挺好用的…效率提升太多了。pom.xml是文档对象模型配置文件，定义了项目的基本信息，用于描述项目如何构建依赖。</p><p>groupId、artifactId、version是任何一个maven项目的最基本的坐标：</p><ul><li>groupId定义了项目的所属组，如:公司mycom有一个为myapp的项目，com.mycom.myapp</li><li>artifactId定义了项目在组中的唯一ID，可能会为不同的子项目分配artifactId，如：myapp-web</li><li>version指定myapp项目的版本1.0-SNAPSHOT，snapshot为快照，说明项目还在开发中</li><li>name声明了一个对于用户更为友好的项目名称，方便信息交流。</li></ul><p>为helloworld的pom添加依赖，scope为依赖范围，如果在主代码中用import junit代码，就会造成编译错误，如果不声明则默认complie，表示依赖对主代码和测试代码都有效。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&lt;dependencies&gt;</span><br><span class="line">     &lt;dependency&gt;</span><br><span class="line">         &lt;groupId&gt;junit&lt;/groupId&gt;</span><br><span class="line">         &lt;artifactId&gt;junit&lt;/artifactId&gt;</span><br><span class="line">         &lt;version&gt;4.11&lt;/version&gt;</span><br><span class="line">         &lt;scope&gt;test&lt;/scope&gt;</span><br><span class="line">     &lt;/dependency&gt;</span><br><span class="line"> &lt;/dependencies&gt;</span><br></pre></td></tr></table></figure></p><p>一个典型的单元测试包含三个步骤：①准备测试数据、②执行要测试的数据、③检查结果；测试用例编写完毕之后就可以调用maven执行测试：<code>mvn clean test</code>，不幸的是：<br><a href="https://cwiki.apache.org//confluence/display/MAVEN/LifecyclePhaseNotFoundException" target="_blank" rel="noopener">https://cwiki.apache.org//confluence/display/MAVEN/LifecyclePhaseNotFoundException</a><br>提供的链接已有问题解决方案，maven的再安装和插件的安装与更新。</p><p><code>compiler:compile</code>是compiler插件的compile目标，执行顺序<code>mvn clean compile</code>-&gt;<code>mvn clean test</code>-&gt;<code>mvn clean package</code>-&gt;<code>mvn clean install</code></p><p>HelloWorld类有一个main方法，默认打包生成的jar是不能够直接运行的，为了生成可执行jar，需要借助maven-shade-plugin，配置该插件如下：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">&lt;build&gt;</span><br><span class="line">    &lt;plugins&gt;</span><br><span class="line">        &lt;plugin&gt;</span><br><span class="line">            &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;</span><br><span class="line">            &lt;artifactId&gt;maven-shade-plugin&lt;/artifactId&gt;</span><br><span class="line">            &lt;version&gt;1.2.1&lt;/version&gt;</span><br><span class="line">            &lt;executions&gt;</span><br><span class="line">                &lt;execution&gt;</span><br><span class="line">                    &lt;phase&gt;package&lt;/phase&gt;</span><br><span class="line">                    &lt;goals&gt;</span><br><span class="line">                        &lt;goal&gt;shade&lt;/goal&gt;</span><br><span class="line">                    &lt;/goals&gt;</span><br><span class="line">                    &lt;configuration&gt;</span><br><span class="line">                        &lt;transformers&gt;</span><br><span class="line">                            &lt;transformer implementation=&quot;org.apache.maven.plugins.shade.resource.ManifestResourceTransformer&quot;&gt;</span><br><span class="line">                                &lt;mainClass&gt;com.juvenxu.mvnbook.helloworld.HelloWorld&lt;/mainClass&gt;</span><br><span class="line">                            &lt;/transformer&gt;</span><br><span class="line">                        &lt;/transformers&gt;</span><br><span class="line">                    &lt;/configuration&gt;</span><br><span class="line">                &lt;/execution&gt;</span><br><span class="line">            &lt;/executions&gt;</span><br><span class="line">        &lt;/plugin&gt;</span><br><span class="line">    &lt;/plugins&gt;</span><br><span class="line">&lt;/build&gt;</span><br></pre></td></tr></table></figure><p>hello-world-1.0-SNAPSHOT.jar和original-hello-world-1.0-SNAPSHOT.jar，前者是带有MainClass的jar，后者是原始的jar。</p><p>基本目录结构和pom.xml文件称之为骨架，<code>archetype:generate</code>生成骨架速度慢的令人发指，下载下来会发现Maven提供的archetype有上千多种，其实有时候只是想创建一个quickStart项目模板，实在不需要花时间下载这个archetype-catalog.xml，<code>archetype:generate -DarchetypeCatalog=internal</code>使用archetype插件内置的catalog就够了。</p><p>A Maven 2 project already exists in the directory x:\hello\hd 删除多余的骨架生成目录；Unable to add module to the current project as it is not of packaging type ‘pom’删除根目录的pom.xml</p><p>骨架生成完之后，idea导入项目之前配置 appearance &amp; behavior-&gt;menus and toolbar-&gt;main menu-&gt;add afther-&gt;other-&gt;import project，之后再导入项目。</p>]]></content>
     
@@ -79,11 +79,11 @@
   </entry>
   
   <entry>
-    <title>阅读《maven实战》（其二）</title>
+    <title>《maven实战》笔记（其二）</title>
     <link href="https://loremwalker.github.io/note/2018/08-05/d207cf0a.html"/>
     <id>https://loremwalker.github.io/note/2018/08-05/d207cf0a.html</id>
     <published>2018-08-05T05:40:46.000Z</published>
-    <updated>2018-08-05T10:10:42.494Z</updated>
+    <updated>2018-08-06T13:08:18.722Z</updated>
     
     <content type="html"><![CDATA[<p>了解到一个新的win命令<code>echo %java_home%</code>，打印出环境变量<code>java_home</code>的路径。顺便也下载配置了maven，<code>m2_home</code>和配置java环境其实也是差不多的。<code>mvn -v</code>检查maven的安装情况及环境配置是否正确。升级maven的话，仅仅只需将环境变量改动即可。设置代理的话编辑~/.m2/settings.xml，如果没有该文件，则复制<code>%m2_home%/conf/setting.xml</code></p><p>安装m2eclipse书中提供设置location属性的网址 <a href="http://m2eclipse.sonatype.org/site/m2e" target="_blank" rel="noopener">http://m2eclipse.sonatype.org/site/m2e</a> 已经失效，替换成 <a href="http://download.eclipse.org/technology/m2e/releases" target="_blank" rel="noopener">http://download.eclipse.org/technology/m2e/releases</a> 即可；除了核心组件，与svn进行集成的组件网址 <a href="http://m2eclipse.sonatype.org/sites/m2e-extras" target="_blank" rel="noopener">http://m2eclipse.sonatype.org/sites/m2e-extras</a> 又失效了，因为Eclipse4.3以上已自带了。</p><p>不要使用ide内嵌的maven，与当前配置的maven版本保持一致，preferences-&gt;maven-&gt;installations-&gt;add，选择<code>m2_home</code>路径，勾选这外部maven。</p>]]></content>
     
@@ -201,11 +201,11 @@
   </entry>
   
   <entry>
-    <title>阅读《maven实战》（其一）</title>
+    <title>《maven实战》笔记（其一）</title>
     <link href="https://loremwalker.github.io/note/2018/08-03/e21123d2.html"/>
     <id>https://loremwalker.github.io/note/2018/08-03/e21123d2.html</id>
     <published>2018-08-03T01:06:35.000Z</published>
-    <updated>2018-08-03T01:54:31.060Z</updated>
+    <updated>2018-08-06T13:08:43.386Z</updated>
     
     <content type="html"><![CDATA[<p>在阅读了第一章有关于maven的简介，提取下maven的几段原文：</p><ul><li>缺乏文档是理解和使用maven的一个主要障碍</li><li>使用maven最高效的方式永远是命令行，ide在自动化构建方面有天生缺陷</li><li>没有maven的中央仓库将不得不去开源项目首页下载链接，这不是更费事吗？</li><li>maven是用来管理项目的，清理、编译、打包、以及一些定义的过程本身就是复杂的事情</li></ul><p>可以说这也是阅读了书中第一章内容的初识maven的总结</p>]]></content>
     
