@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-08-06T05:59:53.015Z</updated>
+  <updated>2018-08-06T06:23:12.254Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018年8月6日 星期一 阴转晴</title>
+    <link href="https://loremwalker.github.io/note/2018/08-06/b2a886dc.html"/>
+    <id>https://loremwalker.github.io/note/2018/08-06/b2a886dc.html</id>
+    <published>2018-08-06T06:09:41.000Z</published>
+    <updated>2018-08-06T06:23:12.254Z</updated>
+    
+    <content type="html"><![CDATA[<p>概念上的误区对骨架生成的项目感到不理解，随后将萨拉的头像换了一只在窗内看阴雨天的猫，写了一篇关于本人博客的随笔，紧接着又写了今天的日记，其实写这篇日记是测试一下博文置顶功能是否成功实现；现在我只想躺在床上睡觉，好梦春梦白日梦，没有梦也罢，但愿不是噩梦…夜晚照常看书吧，就这样。</p>]]></content>
+    
+    <summary type="html">
+    
+      这一天的所做的闲事...
+    
+    </summary>
+    
+      <category term="日记" scheme="https://loremwalker.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>空间？最后还是选择了博客</title>
@@ -407,30 +427,6 @@
     
     
       <category term="hexo" scheme="https://loremwalker.github.io/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo搭建next主题</title>
-    <link href="https://loremwalker.github.io/note/2018/02-25/13e45bd.html"/>
-    <id>https://loremwalker.github.io/note/2018/02-25/13e45bd.html</id>
-    <published>2018-02-25T12:02:40.000Z</published>
-    <updated>2018-08-01T05:53:35.997Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="入门前提"><a href="#入门前提" class="headerlink" title="入门前提"></a>入门前提</h2><ol><li><a href="https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git" target="_blank" rel="noopener">git安装</a></li><li><a href="https://help.github.com/articles/connecting-to-github-with-ssh/" target="_blank" rel="noopener">配置SSH说明</a></li></ol><h2 id="Hexo快速入门"><a href="#Hexo快速入门" class="headerlink" title="Hexo快速入门"></a>Hexo快速入门</h2><ol><li><a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="noopener">hexo安装</a></li><li><a href="https://hexo.io/zh-cn/docs/deployment.html" target="_blank" rel="noopener">hexo部署</a></li><li><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="noopener">hexo主题安装</a></li><li><a href="https://help.github.com/articles/error-permission-denied-publickey/" target="_blank" rel="noopener">Permission denied (publickey)问题</a></li><li><a href="http://blog.csdn.net/u013647382/article/details/47832559" target="_blank" rel="noopener">git push输入密码的问题</a></li></ol><h2 id="NexT轻松上手"><a href="#NexT轻松上手" class="headerlink" title="NexT轻松上手"></a>NexT轻松上手</h2><ol><li><a href="http://theme-next.iissnan.com/theme-settings.html" target="_blank" rel="noopener">next主题配置</a>  </li><li><a href="http://theme-next.iissnan.com/third-party-services.html" target="_blank" rel="noopener">next第三方服务</a>  </li><li><a href="https://github.com/iissnan/hexo-theme-next/wiki" target="_blank" rel="noopener">next项目wiki</a>  </li></ol><h2 id="备份"><a href="#备份" class="headerlink" title="备份"></a>备份</h2><ul><li><a href="https://loremwalker.github.io/note/2018/02-26/bafc086b.html">Hexo备份并推送到Github</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      hexo框架快速入门，next主题轻松上手
-    
-    </summary>
-    
-      <category term="笔记" scheme="https://loremwalker.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="hexo" scheme="https://loremwalker.github.io/tags/hexo/"/>
-    
-      <category term="next" scheme="https://loremwalker.github.io/tags/next/"/>
     
   </entry>
   
