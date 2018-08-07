@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-08-07T04:12:28.284Z</updated>
+  <updated>2018-08-07T04:18:39.684Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://loremwalker.github.io/note/2018/08-07/471d5337.html"/>
     <id>https://loremwalker.github.io/note/2018/08-07/471d5337.html</id>
     <published>2018-08-07T02:45:34.000Z</published>
-    <updated>2018-08-07T04:12:28.284Z</updated>
+    <updated>2018-08-07T04:18:39.684Z</updated>
     
-    <content type="html"><![CDATA[<p>硬编码，而硬编码就是将程序中的外部变量值，使用赋值语句写死在程序中。更换数据库时，对代码修改、重新编译、打包、上线等操作会造成了浪费人力及时间，而且经常变动容易导致数据的不稳定会引发安全隐患，jdbc对数据库频繁连接与关闭操作会造成资源上的浪费，十分影响数据库性能。</p><p>综上所述总结下jdbc开发模式中存在的缺陷：</p><ul><li>连接参数，sql 语句的硬编码</li><li>数据库频繁连接与断开</li><li>查询结果集取数据的硬编码</li></ul><p>mybatis采用配置文件动态管理sql语句，并含有输入、输出映射以及数据库连接池配置的持久层框架。</p><p><img src="http://p0.cdn.img9.top/ipfs/QmcLmEj5oW9BgETedGh4jHGqf9uCTmHRh1gs9mHkgJD8Gm?0.png" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p>硬编码，而硬编码就是将程序中的外部变量值，使用赋值语句写死在程序中。更换数据库时，对代码修改、重新编译、打包、上线等操作会造成浪费时间与人力，而且经常变动容易导致数据的不稳定会引发安全隐患，jdbc对数据库频繁连接与关闭操作会造成资源上的浪费，十分影响数据库性能。</p><p>综上所述总结下jdbc开发模式中存在的缺陷：</p><ul><li>连接参数，sql 语句的硬编码</li><li>数据库频繁连接与断开</li><li>查询结果集取数据的硬编码</li></ul><p>mybatis采用配置文件动态管理sql语句，并含有输入、输出映射以及数据库连接池配置的持久层框架。</p><p><img src="http://p0.cdn.img9.top/ipfs/QmcLmEj5oW9BgETedGh4jHGqf9uCTmHRh1gs9mHkgJD8Gm?0.png" alt=""></p>]]></content>
     
     <summary type="html">
     
