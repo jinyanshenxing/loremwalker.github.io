@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://loremwalker.github.io/note/2018/08-09/4fbd8d28.html</loc>
+    <lastmod>2018-08-09T15:13:26.964Z</lastmod>
+    <data>
+        <display>
+        <title>cz 4 project</title>
+        <pubTime>2018-08-09T14:52:06.000Z</pubTime>
+        
+        <tag>project</tag>
+         
+         
+           
+             
+              <breadCrumb title="对话" url="https://loremwalker.github.io/categories/%E5%AF%B9%E8%AF%9D/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://loremwalker.github.io/note/2018/08-09/151caddf.html</loc>
     <lastmod>2018-08-09T11:27:12.241Z</lastmod>
     <data>
@@ -24,26 +44,6 @@
 
     
   <url>
-    <loc>https://loremwalker.github.io/note/2018/08-09/770bbfef.html</loc>
-    <lastmod>2018-08-09T04:22:06.742Z</lastmod>
-    <data>
-        <display>
-        <title>mybatis笔记（其二）</title>
-        <pubTime>2018-08-09T00:24:40.000Z</pubTime>
-        
-        <tag>mybatis</tag>
-         
-         
-           
-             
-              <breadCrumb title="笔记" url="https://loremwalker.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://loremwalker.github.io/note/2018/08-06/f0b3744e.html</loc>
     <lastmod>2018-08-07T15:12:11.480Z</lastmod>
     <data>
@@ -55,86 +55,6 @@
            
              
               <breadCrumb title="随笔" url="https://loremwalker.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://loremwalker.github.io/note/2018/08-05/9f196c58.html</loc>
-    <lastmod>2018-08-07T15:04:46.706Z</lastmod>
-    <data>
-        <display>
-        <title>《maven实战》笔记（其三）</title>
-        <pubTime>2018-08-05T10:08:59.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="笔记" url="https://loremwalker.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://loremwalker.github.io/note/2018/08-07/471d5337.html</loc>
-    <lastmod>2018-08-07T04:18:39.684Z</lastmod>
-    <data>
-        <display>
-        <title>mybatis笔记（其一）</title>
-        <pubTime>2018-08-07T02:45:34.000Z</pubTime>
-        
-        <tag>mybatis</tag>
-         
-         
-           
-             
-              <breadCrumb title="笔记" url="https://loremwalker.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://loremwalker.github.io/note/2018/08-03/e21123d2.html</loc>
-    <lastmod>2018-08-06T13:08:43.386Z</lastmod>
-    <data>
-        <display>
-        <title>《maven实战》笔记（其一）</title>
-        <pubTime>2018-08-03T01:06:35.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="笔记" url="https://loremwalker.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://loremwalker.github.io/note/2018/08-05/d207cf0a.html</loc>
-    <lastmod>2018-08-06T13:08:18.722Z</lastmod>
-    <data>
-        <display>
-        <title>《maven实战》笔记（其二）</title>
-        <pubTime>2018-08-05T05:40:46.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="笔记" url="https://loremwalker.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
           
         </display>
     </data>
@@ -482,7 +402,6 @@
     </url>
 
     
-    
   <url>
     <loc>https://loremwalker.github.io/note/2018/06-21/d2475f08.html</loc>
     <lastmod>2018-07-26T14:13:56.000Z</lastmod>
@@ -500,5 +419,6 @@
     </data>
     </url>
 
+    
     
 </urlset>
