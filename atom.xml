@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-08-10T09:42:04.921Z</updated>
+  <updated>2018-08-11T09:55:07.526Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018年8月11日 星期六 晴</title>
+    <link href="https://loremwalker.github.io/note/2018/08-11/9ba55efd.html"/>
+    <id>https://loremwalker.github.io/note/2018/08-11/9ba55efd.html</id>
+    <published>2018-08-11T08:41:14.000Z</published>
+    <updated>2018-08-11T09:55:07.526Z</updated>
+    
+    <content type="html"><![CDATA[<p>我也体会到好心当作驴肝肺的原因了，当然不是以我的角度来说的，而是站在网友的立场来说的。首先，一开始从微信转到qq向我发来“成长靠自己，发展来谭州”的链接标语。接着，向我发来消息：“我朋友同学公司招聘，可以了解一下，是做网络教育的”。</p><p>已经很明显了，是潭州这恶名昭彰的培训机构，看着她发来的链接，我无语了好一会…之后她又接着发来：“怎么，你是不打算找工作了？”。于是我问道：“你把一个培训机构推荐给我是什么意思？”，她是这样向我解释的：“他们是培训老师又不是要你去培训，之前都是从助理开始的，然后再做讲师”。</p><p>一个培训机构可以说连小型项目流程都达不了标，就某些水准也只能是唬小孩。在我看来，多数培训机构除了能锻炼传销的口才，其实别无他用，真正的经验真是寥寥无几；我立马想到她是不是已有将完成的好处来把我卖了？也直接明说了这一点，她的回答是卖我还这个没必要。</p><p>接触社会已有一年多了，我觉得她是不可能不知道培训套路的，而又向我推荐培训机构…即使是好心帮我（我觉得这概率相当低，其实她可以完全不在乎这并不关己的事），她没有把向我的推荐当作是自己一个找工作的过程，可以看出推荐给我很是随便，这也致使其会忽略这些关键细节因素，认为我的推荐就是在帮你。</p><p>这也就是我上文一开始提到好心当作驴肝肺的原因了，当然，我也并不认为这是她的好心…某些情感因素的存在，使我很容易忽视客观事实细节而冒然行事，存在这些多余的感情，对我来说也是件很无聊的事!</p>]]></content>
+    
+    <summary type="html">
+    
+      今天的日记并不一定记录的是今天的事...
+    
+    </summary>
+    
+      <category term="日记" scheme="https://loremwalker.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>user project 2</title>
@@ -394,30 +414,6 @@
     <summary type="html">
     
       这是对next主题的一次重新定义
-    
-    </summary>
-    
-      <category term="笔记" scheme="https://loremwalker.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="hexo" scheme="https://loremwalker.github.io/tags/hexo/"/>
-    
-      <category term="next" scheme="https://loremwalker.github.io/tags/next/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>next简单seo优化</title>
-    <link href="https://loremwalker.github.io/note/2018/02-26/5e7d6b37.html"/>
-    <id>https://loremwalker.github.io/note/2018/02-26/5e7d6b37.html</id>
-    <published>2018-02-26T13:52:25.000Z</published>
-    <updated>2018-08-01T05:53:45.004Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="设置站点地图"><a href="#设置站点地图" class="headerlink" title="设置站点地图"></a>设置站点地图</h2><ol><li><p>安装<code>sitemap</code>站点地图自动生成插件</p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-sitemap --save</span><br></pre></td></tr></table></figure></li><li><p>在站点配置文件中末尾添加</p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sitemap:</span><br><span class="line"> path: sitemap.xml</span><br></pre></td></tr></table></figure></li><li><p>站点配置文件url修改为你的网址域名，<code>hexo g</code>之后，在站点根目录的<code>/public</code>生成<code>sitemap.xml</code>文件  </p></li></ol><a id="more"></a><ol><li>在<code>/source</code>中新建文件<code>robots.txt</code>如下（allow,disallow看需求）：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">User-agent: *</span><br><span class="line">Allow: /</span><br><span class="line">Allow: /about/</span><br><span class="line"></span><br><span class="line">Disallow: /archives/</span><br><span class="line">Disallow: /categories/</span><br><span class="line">Disallow: /tags/</span><br><span class="line">Disallow: /photo/</span><br><span class="line"></span><br><span class="line">Disallow: /vendors/</span><br><span class="line">Disallow: /js/</span><br><span class="line">Disallow: /css/</span><br><span class="line">Disallow: /fonts/</span><br><span class="line">Disallow: /vendors/</span><br><span class="line">Disallow: /fancybox/</span><br><span class="line"></span><br><span class="line">Sitemap: https://yourWebSite/sitemap.xml</span><br></pre></td></tr></table></figure></li></ol><p><code>hexo g -d</code>生成并部署<br>说明：</p><ul><li>robots.txt（统一小写）是一种存放于网站根目录下的ASCII编码的文本文件，它的作用是告诉搜索引擎此网站中哪些内容是可以被爬取的，哪些是禁止爬取的。</li><li>Allow字段的值即为允许搜索引擎爬区的内容，可以对应到主题配置文件中的menu目录配置，如果菜单栏还有其他选项都可以按照格式自行添加。</li></ul><h2 id="将站点提交至Google"><a href="#将站点提交至Google" class="headerlink" title="将站点提交至Google"></a>将站点提交至Google</h2><ol><li><a href="https://www.google.com/webmasters/" target="_blank" rel="noopener">google search console</a>,添加站点域名</li><li>站点验证选择备用验证,将给出的标签复制到<code>\themes\hexo-theme-next\layout\_partials\head.swig</code>中</li><li><code>robots.txt</code>测试工具并测试</li><li>站点地图提交域名中的<code>sitemap.xml</code>文件</li><li>google抓取工具，将需要给谷歌收录的url网页进行<code>抓取</code>操作，并请求编入索引</li></ol><h2 id="修改文章链接"><a href="#修改文章链接" class="headerlink" title="修改文章链接"></a>修改文章链接</h2><p>HEXO默认的文章链接形式为domain/year/month/day/postname，默认就是一个四级url，并且可能造成url过长，对搜索引擎是十分不友好的，推荐安装hexo-abbrlink<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure></p><p>然后配置<code>_config.yml</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">permalink: note/:year/:month_:day/:abbrlink.html</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32  # 算法：crc16(default) and crc32</span><br><span class="line">  rep: hex    # 进制：dec(default) and hex</span><br></pre></td></tr></table></figure></p><p>之后部署一下好了</p><h2 id="添加nofollow标签"><a href="#添加nofollow标签" class="headerlink" title="添加nofollow标签"></a>添加<code>nofollow</code>标签</h2><p>nofollow标签是由谷歌领头创新的一个反垃圾链接的标签，并被ecosia.org、bing(US)等各大搜索引擎广泛支持，引用nofollow标签的目的是：用于指示搜索引擎不要追踪（即抓取）网页上的带有nofollow属性的任何出站链接，以减少垃圾链接的分散网站权重。<br><strong>对<code>\themes\next\layout_partials\footer.swig</code>中的如下部分：</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&#123;&#123; __(&apos;footer.powered&apos;, </span><br><span class="line">&apos;&lt;a class=&quot;theme-link&quot; href=&quot;http://hexo.io&quot;&gt;Hexo&lt;/a&gt;&apos;) &#125;&#125;</span><br></pre></td></tr></table></figure></p><p>修改为<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;&#123; __(&apos;footer.powered&apos;, </span><br><span class="line">&apos;&lt;a class=&quot;theme-link&quot; </span><br><span class="line">    href=&quot;http://hexo.io&quot; rel=&quot;external nofollow&quot;&gt;</span><br><span class="line">    Hexo&lt;/a&gt;&apos;) &#125;&#125;</span><br></pre></td></tr></table></figure></p><p>以及将这部分<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a class=&quot;theme-link&quot; href=&quot;https://github.com/iissnan/hexo-theme-next&quot;&gt;</span><br></pre></td></tr></table></figure></p><p>修改为<br> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;a class=&quot;theme-link&quot; </span><br><span class="line">    href=&quot;https://github.com/iissnan/hexo-theme-next&quot;</span><br><span class="line">    rel=&quot;external nofollow&quot;&gt;</span><br></pre></td></tr></table></figure></p><p> <strong>对<code>\themes\next\layout_macro\sidebar.swig</code>中的如下部分：</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href=&quot;&#123;&#123; link &#125;&#125;&quot; target=&quot;_blank&quot;&gt;&#123;&#123; name &#125;&#125;&lt;/a&gt;</span><br></pre></td></tr></table></figure></p><p>修改为<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href=&quot;&#123;&#123; link &#125;&#125;&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;&#123;&#123; name &#125;&#125;&lt;/a&gt;</span><br></pre></td></tr></table></figure></p><p>以及将下面代码<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href=&quot;http://creativecommons.org/licenses/&#123;&#123; theme.creative_commons &#125;&#125;/4.0&quot;</span><br><span class="line">    class=&quot;cc-opacity&quot; </span><br><span class="line">    target=&quot;_blank&quot;&gt;</span><br></pre></td></tr></table></figure></p><p> 修改成<br> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href=&quot;http://creativecommons.org/licenses/&#123;&#123; theme.creative_commons &#125;&#125;/4.0&quot;</span><br><span class="line">    class=&quot;cc-opacity&quot; </span><br><span class="line">    target=&quot;_blank&quot; </span><br><span class="line">    rel=&quot;external nofollow&quot;&gt;</span><br></pre></td></tr></table></figure></p><h2 id="相关阅读"><a href="#相关阅读" class="headerlink" title="相关阅读"></a>相关阅读</h2><p> <a href="http://imweb.io/topic/5682938b57d7a6c47914fc00" target="_blank" rel="noopener">SEO优化实战</a></p>]]></content>
-    
-    <summary type="html">
-    
-      基于Google收录站点，对next进行简单seo优化
     
     </summary>
     
