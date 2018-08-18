@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-08-18T05:48:33.766Z</updated>
+  <updated>2018-08-18T10:27:21.936Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>36，这...</title>
+    <link href="https://loremwalker.github.io/note/2018/08-18/d948a4d7.html"/>
+    <id>https://loremwalker.github.io/note/2018/08-18/d948a4d7.html</id>
+    <published>2018-08-18T10:17:29.000Z</published>
+    <updated>2018-08-18T10:27:21.936Z</updated>
+    
+    <content type="html"><![CDATA[<p>这错的，40题的及格线，我才只对18题共36分…</p><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="http://p2.cdn.img9.top/ipfs/QmSBfeEHeMkFXS1ejAdJFRMbRigkaXf7EMoVJGDd1NmUoa?2.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="http://p3.cdn.img9.top/ipfs/QmVa5z4U9Hjo1qajx2yoAD1vuRUXec4LieyVfHM3s8ZnYj?3.png" alt=""></div></div><div class="group-picture-row"></div></div></div>]]></content>
+    
+    <summary type="html">
+    
+      ...
+    
+    </summary>
+    
+      <category term="随想曲" scheme="https://loremwalker.github.io/categories/%E9%9A%8F%E6%83%B3%E6%9B%B2/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>混乱不堪的demo</title>
     <link href="https://loremwalker.github.io/note/2018/08-18/bebf72ba.html"/>
     <id>https://loremwalker.github.io/note/2018/08-18/bebf72ba.html</id>
     <published>2018-08-18T04:59:52.000Z</published>
-    <updated>2018-08-18T05:48:33.766Z</updated>
+    <updated>2018-08-18T10:16:28.674Z</updated>
     
     <content type="html"><![CDATA[<p>既然是做个人博客项目，那么一开始从哪里入手呢？从百度上下载仿写了一份需求分析文档，在实际刚建表的过程中，主外键的关联约束的知识忘得一干二净…写起来真是满满的痛苦，崩溃！那之后该用什么框架进行起手呢？是 ssh ？还是 ssm ？ 如果是 ssm 的话又该怎样搭建？</p><p>看了一些博主的文章搭建起了 maven + ssm 的 helloworld ，然后写了一些jsp的片段，渣滓，杂碎！你怎么连 mybatis 校验用户登录信息这个最基本的功能都写不出！也是这个时候，我也开始了主动去看官方文档了，并不像我想象之中那么恐怖，甚至翻译成中文居然还不错…</p><p>当 jsp 页面跳转至 servlet 准备验证时， mybatis 各种报错，一个又一个的报错，已经没有动手解决的能力了。看着 StackOverflow 里的一些回答，也是昏昏沉沉，以一种解决态度无所谓似的，也不去想，只顾着像机器一般的做着做着。即使现在对待事物或是人与人之间已经麻木的我，依然还是凭感觉做事，fuckin’asshole ! </p><p>错吧错吧，反正解决了一个又是一个，而且每个错误对于我来说都相当的棘手；每次都忘记出错以后应该自己先想一遍，研究一下，然后再去百度等之类的；再来一看代码，我去，写的什么乱七八糟的，简直跟屎一样。</p>]]></content>
     
@@ -31,7 +51,7 @@
     
     </summary>
     
-      <category term="α" scheme="https://loremwalker.github.io/categories/%CE%B1/"/>
+      <category term="随想曲" scheme="https://loremwalker.github.io/categories/%E9%9A%8F%E6%83%B3%E6%9B%B2/"/>
     
     
   </entry>
@@ -396,26 +416,6 @@
     <summary type="html">
     
       日记还是抒情的多...
-    
-    </summary>
-    
-      <category term="日记" scheme="https://loremwalker.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2018年8月5日 星期日 暴雨（其一）</title>
-    <link href="https://loremwalker.github.io/note/2018/08-05/260675a5.html"/>
-    <id>https://loremwalker.github.io/note/2018/08-05/260675a5.html</id>
-    <published>2018-08-05T03:40:12.000Z</published>
-    <updated>2018-08-05T07:04:12.783Z</updated>
-    
-    <content type="html"><![CDATA[<p>生活中实在充满了太多欺骗，当时餐桌上的酿豆腐与海带丝，从盒饭店里带来的酿豆腐味道不怎么样，放冰箱一天后，也蒸个不冷不热，当时实在太饿了，吃的味道还不错，夹了一些海带丝，瞬间感觉不对劲于是问了我爸是不是放了醋？（对酸菜极端反感）结果得到的回答居然是放了像是醋一样的黑酱油，真的当我是白痴？一看的确是醋…有时连亲人都是不可信的，唉！我能信谁呢？除了杨金鑫，恐怕就我自己了…</p><p>饭后买了一瓶糖水（实在太爱甜了），喝了一会看着莎拉漫画书，不多久肚子痛一整天，整个人都不好了…才想起来我所忽视的细节，就是带回来的酿豆腐在店里冰冻了几天呢？剩下的又冰冻了一下还是没蒸多久半冷半热的。这些细节的重要往往却选择性的忽略或是完全的不知…</p><p>现在也是觉得怀疑的重要性，不断的揣测，尽管很累很麻烦，但它不是一件坏事了。</p>]]></content>
-    
-    <summary type="html">
-    
-      这一天没按计划来，大量的时间花在写随笔、日记、笔记上了，这一天的日常吧，谁又想得到呢？昨天的回忆
     
     </summary>
     

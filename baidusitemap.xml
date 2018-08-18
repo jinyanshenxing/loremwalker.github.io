@@ -4,8 +4,26 @@
 
     
   <url>
+    <loc>https://loremwalker.github.io/note/2018/08-18/d948a4d7.html</loc>
+    <lastmod>2018-08-18T10:27:21.936Z</lastmod>
+    <data>
+        <display>
+        <title>36，这...</title>
+        <pubTime>2018-08-18T10:17:29.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="随想曲" url="https://loremwalker.github.io/categories/%E9%9A%8F%E6%83%B3%E6%9B%B2/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://loremwalker.github.io/note/2018/08-18/bebf72ba.html</loc>
-    <lastmod>2018-08-18T05:48:33.766Z</lastmod>
+    <lastmod>2018-08-18T10:16:28.674Z</lastmod>
     <data>
         <display>
         <title>混乱不堪的demo</title>
@@ -14,7 +32,7 @@
          
            
              
-              <breadCrumb title="α" url="https://loremwalker.github.io/categories/%CE%B1/"/>
+              <breadCrumb title="随想曲" url="https://loremwalker.github.io/categories/%E9%9A%8F%E6%83%B3%E6%9B%B2/"/>
           
         </display>
     </data>
@@ -660,7 +678,6 @@
     </url>
 
     
-    
   <url>
     <loc>https://loremwalker.github.io/note/2018/06-21/d2475f08.html</loc>
     <lastmod>2018-07-26T14:13:56.000Z</lastmod>
@@ -678,4 +695,5 @@
     </data>
     </url>
 
+    
 </urlset>

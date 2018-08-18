@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[36，这...]]></title>
+    <url>%2Fnote%2F2018%2F08-18%2Fd948a4d7.html</url>
+    <content type="text"><![CDATA[这错的，40题的及格线，我才只对18题共36分…]]></content>
+      <categories>
+        <category>随想曲</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[混乱不堪的demo]]></title>
     <url>%2Fnote%2F2018%2F08-18%2Fbebf72ba.html</url>
     <content type="text"><![CDATA[既然是做个人博客项目，那么一开始从哪里入手呢？从百度上下载仿写了一份需求分析文档，在实际刚建表的过程中，主外键的关联约束的知识忘得一干二净…写起来真是满满的痛苦，崩溃！那之后该用什么框架进行起手呢？是 ssh ？还是 ssm ？ 如果是 ssm 的话又该怎样搭建？ 看了一些博主的文章搭建起了 maven + ssm 的 helloworld ，然后写了一些jsp的片段，渣滓，杂碎！你怎么连 mybatis 校验用户登录信息这个最基本的功能都写不出！也是这个时候，我也开始了主动去看官方文档了，并不像我想象之中那么恐怖，甚至翻译成中文居然还不错… 当 jsp 页面跳转至 servlet 准备验证时， mybatis 各种报错，一个又一个的报错，已经没有动手解决的能力了。看着 StackOverflow 里的一些回答，也是昏昏沉沉，以一种解决态度无所谓似的，也不去想，只顾着像机器一般的做着做着。即使现在对待事物或是人与人之间已经麻木的我，依然还是凭感觉做事，fuckin’asshole ! 错吧错吧，反正解决了一个又是一个，而且每个错误对于我来说都相当的棘手；每次都忘记出错以后应该自己先想一遍，研究一下，然后再去百度等之类的；再来一看代码，我去，写的什么乱七八糟的，简直跟屎一样。]]></content>
       <categories>
-        <category>α</category>
+        <category>随想曲</category>
       </categories>
   </entry>
   <entry>
