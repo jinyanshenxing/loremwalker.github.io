@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-08-19T02:31:25.150Z</updated>
+  <updated>2018-08-19T02:54:01.018Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>思考</title>
+    <link href="https://loremwalker.github.io/note/2018/08-19/67d01b1e.html"/>
+    <id>https://loremwalker.github.io/note/2018/08-19/67d01b1e.html</id>
+    <published>2018-08-19T02:49:53.000Z</published>
+    <updated>2018-08-19T02:54:01.018Z</updated>
+    
+    <content type="html"><![CDATA[<p>不断用我这愚蠢的脑子思考，目前我做这个事有什么好处呢？能得到什么呢？成功的概率又多大？不成功的话，又会怎样，会失去那些东西呢？资金成本是否会消耗过多，是否值得一试？该不该做？</p><p>别凭感觉什么都不想就乱来了，你个蠢货！</p>]]></content>
+    
+    <summary type="html">
+    
+      β
+    
+    </summary>
+    
+      <category term="随想曲" scheme="https://loremwalker.github.io/categories/%E9%9A%8F%E6%83%B3%E6%9B%B2/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>star</title>
+    <link href="https://loremwalker.github.io/note/2018/08-19/c9db5a14.html"/>
+    <id>https://loremwalker.github.io/note/2018/08-19/c9db5a14.html</id>
+    <published>2018-08-19T02:48:15.000Z</published>
+    <updated>2018-08-19T02:49:04.039Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>Situation: 事情是在什么情况下发生</li><li>Task: 你是如何明确你的任务的</li><li>Action: 针对这样的情况分析，你采用了什么行动方式</li><li>Result: 结果怎样，在这样的情况下你学习到了什么</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      star
+    
+    </summary>
+    
+      <category term="规约" scheme="https://loremwalker.github.io/categories/%E8%A7%84%E7%BA%A6/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>w5hh</title>
+    <link href="https://loremwalker.github.io/note/2018/08-19/1b416887.html"/>
+    <id>https://loremwalker.github.io/note/2018/08-19/1b416887.html</id>
+    <published>2018-08-19T02:39:34.000Z</published>
+    <updated>2018-08-19T02:46:53.432Z</updated>
+    
+    <content type="html"><![CDATA[<p>• Why 为什么要开发这个系统<br>• What 将要做什么<br>• When 什么时候做<br>• Who 某功能由谁来做<br>• Where 他们的机构组织位于何处<br>• How 如何完成技术与管理工作<br>• How much 各种资源分别需要多少</p>]]></content>
+    
+    <summary type="html">
+    
+      w5hh
+    
+    </summary>
+    
+      <category term="规约" scheme="https://loremwalker.github.io/categories/%E8%A7%84%E7%BA%A6/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>紧急关头，不要关心任何与我无关的事</title>
@@ -348,72 +408,6 @@
     <summary type="html">
     
       user2
-    
-    </summary>
-    
-      <category term="对话" scheme="https://loremwalker.github.io/categories/%E5%AF%B9%E8%AF%9D/"/>
-    
-    
-      <category term="project" scheme="https://loremwalker.github.io/tags/project/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>user project</title>
-    <link href="https://loremwalker.github.io/note/2018/08-10/2ce4dd8.html"/>
-    <id>https://loremwalker.github.io/note/2018/08-10/2ce4dd8.html</id>
-    <published>2018-08-10T04:01:42.000Z</published>
-    <updated>2018-08-10T04:31:58.527Z</updated>
-    
-    <content type="html"><![CDATA[<p>A:</p><p>[图片] 这是完善后的，下一步是不是来需求文档了？</p><p>B:</p><p>你这功能列表……</p><p>A:</p><p>还有哪些需要完善的地方？</p><p>B:</p><p>全部，你这分类除了你自己能看懂外，其他人该怎么看；相关的不扔在一起，不相关的却扔在一起，真是绝了</p><p>A:</p><p>是阿，除了我自己…可怎样让别人看懂呢？相关的不扔在一起？比如</p><p>B:</p><p>管理评论是不是管理员才有的功能？你一普通用户可以去管理别人的评论？</p><p>B:</p><p>这是你自己一个人的个人博客，你知道个人博客的意思吗？</p><p>为什么会有版主和管理员的区别？你真的知道你要做的是什么吗？</p><p>B:</p><p>这么说吧，你首先要确定的一点是，你这个项目，开发出来是要给哪些人用的</p><p>A:</p><p>一开始想给其他人用 现在是给我用</p><p>B:</p><p>你连实际用户都理不清的话，你这开发出来干什么？</p><p>B:</p><p>你如果是想做成一个csdn那样的多角色大型博客网站的话，那你这些分析可就更扯淡了</p><p>A:</p><p>也就是并不是想什么功能就是什么功能对吧</p><p>给别人用，需要什么；给我用，又需要什么；怎样才能给别人/我用。</p><p>B:</p><p>准确的说，你要先弄明白你这个项目的用户；然后对每个种类的用户，去设定他们可以进行什么操作，拥有或者能体验到哪些功能。</p><p>A:</p><p>明确是我 可我连自己都不明白</p><p>B:</p><p>用户不是一个实际的人，而是一群人的共同角色；当然这个群可以是只有你一个，就像你这个博主一样，也可以是多个，例如所有的用户</p><p>B:</p><p>因此，你现在的这个项目，其实目标受众目前可以定义为两个角色。一，博主/管理员，叫什么都好，他可以发布文章，以及管理后台的各个数据。二，读者/游客，怎么称呼都行，他们可以阅读你的文章以及发表相信的评论</p><p>A：</p><p>我可不可以参考下这个 但你也说过 如果只是照做的话 那还是demo  </p><p>B:</p><p>参考从来就不是什么问题，问题一直就是不理解的照搬</p><p>B:</p><p>不过你需要注意的一点，凡是你能搜到的这些需求分析，绝大多数是大学生的课程作业，好一点的是毕业设计更认真一些，更好一点的是研究生的设计更严谨和深刻。但是，对于实际工作开发而言，也是远远不够的。本科生的这个需求分析基本上就是垃圾，研究生好一点，但通常也不会好到哪去</p><p>B:</p><p>因此，你在阅读他们的这些文章时，别就直接把他们的内容当做标准答案和最优方案了，你要自己去思考，找出他们的不足并进行改善</p><p>B:</p><p>并且，你要注意一点的是，虽然一大堆都叫做’个人博客’，但其中实际的一些内容很多会偏离这个范围，写成了其他的东西，就像之前你把csdn这样的’社区’都能直接以为是个人博客这样。</p>]]></content>
-    
-    <summary type="html">
-    
-      user
-    
-    </summary>
-    
-      <category term="对话" scheme="https://loremwalker.github.io/categories/%E5%AF%B9%E8%AF%9D/"/>
-    
-    
-      <category term="project" scheme="https://loremwalker.github.io/tags/project/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>cz 4 project</title>
-    <link href="https://loremwalker.github.io/note/2018/08-09/4fbd8d28.html"/>
-    <id>https://loremwalker.github.io/note/2018/08-09/4fbd8d28.html</id>
-    <published>2018-08-09T14:52:06.000Z</published>
-    <updated>2018-08-09T15:18:45.270Z</updated>
-    
-    <content type="html"><![CDATA[<p>A:</p><p>我不想像他一样 工作两年curd 走人之后再找工作感觉跟我现在一样…</p><p>B:</p><p>作为一个程序员，时刻应该持有项目经理的意识，了解每个流程的细节，这点也是有益无害的；你如果不想的话，首先，你就不能去一个太差的公司，要是一个公司什么都没有，周围也都是一群用着10年前的技术每天划划水随便写点代码的人，我不觉得你有自觉去不断突破自己学习新的知识</p><p>B:</p><p>你要不断的去学习各种新的知识，不断的去突破自己，去挑战各种各样的未知，不断的冲破自己的舒适区；简单来说，在你认真学习的情况下，如果一个东西让你感觉不难，做起来很轻松，那么你就要小心了。</p><p>这时的你已经完全适应了这个阶段，就此继续下去的话，你的水平也就只能停留在这里了，这就是所谓的“舒适区”，一个会让你觉得舒服，不想动弹的区域</p><p>A:</p><p>也就是不难的话，就继续学习对吗 不怕吃多了不消化那种；说实话好多次就是这样…我也没有这危机意识…</p><p>B:</p><p>你把一个难点攻克完，使其对你感觉不难时，你觉得这你还没消化它吗？</p><p>A:</p><p>对哦 所以我那些重复搭建demo是相当没意义的，只是手熟的机器罢了</p><p>B:</p><p>就是这样，你再怎么反复搭建这同一个东西，它都没有让你感觉到棘手了，那么不就是说明你起码了解这一个东西怎么用了吗？</p><p>再怎么反复搭建，也不过是在自己的“舒适区”内反复滚动，做出一些让自己感动却没有卵用的功夫罢了</p><p>A: </p><p>现在我有个问题 是继续学mybatis 还是上项目呢？</p><p>B:</p><p>你觉得mybatis是你的舒适区了吗？你看着那本书，大多数地方都让你觉得棘手和一无所知吗？</p><p>A:</p><p>目前仅入门不是很难吧…除了手不熟之外，没有什么</p><p>B:</p><p>所以，那你就可以直接上手做项目了，不熟的地方，当你项目里碰到不懂的地方时自然就会要求你去弄熟了。</p><p>B：</p><p>说到这个，大到项目的命名，小到每个方法、每个变量的命名，其实都是一件十分重要的事，并不是你随便起一个名字都行的，那么你准备怎么命名你这个项目呢</p><p>A：</p><p>是哦，忽然想到开发好像可能命名都是规范的，每个人的思想不同（命令规则也不同）</p>]]></content>
-    
-    <summary type="html">
-    
-      comfort zone
-    
-    </summary>
-    
-      <category term="对话" scheme="https://loremwalker.github.io/categories/%E5%AF%B9%E8%AF%9D/"/>
-    
-    
-      <category term="project" scheme="https://loremwalker.github.io/tags/project/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>project and demo</title>
-    <link href="https://loremwalker.github.io/note/2018/08-09/151caddf.html"/>
-    <id>https://loremwalker.github.io/note/2018/08-09/151caddf.html</id>
-    <published>2018-08-09T10:07:14.000Z</published>
-    <updated>2018-08-09T11:27:12.241Z</updated>
-    
-    <content type="html"><![CDATA[<p>A：</p><p>ssm或者说maven项目的搭建之类的 是不是连背都必须给记下来；我也是一直是疑惑的，之前的ssh用过之后熟练了，但不久就只记得星点片点了…</p><p>B:</p><p>因为你压根不熟练。你开发的都是些什么东西就敢叫熟练了的吗？人写花了半年时间写了10万行代码，才勉强算是熟练，还是要不断使用才能对每个细节清楚；你想想你花了多少时间写了多少代码，对其中的每个细节每个实现是怎么样的，你能清楚多少呢？</p><p>A:</p><p>我能理解一些代码的含义，独立编写若不借助书本还是写不来，那我该怎样做呢？ 或者说你是怎样做的</p><p>B:</p><p>理解这些代码去看他们的源码实现</p><p>A:</p><p>而不是反复重新搭建项目，对吧？ 之前我就是这样</p><p>B:</p><p>你现在都不知道项目到底是什么，你那就是demo而已，一个项目是要有目的</p><p>A:</p><p>我之前重复搭建demo，除了手熟之外是没有意义的</p><p>B:</p><p>是的</p><p>A:</p><p>那该怎样变得有意义？</p><p>B:</p><p>做一个明确的产品。</p><p>因为做这个的时候，你能猜系统的搭建各个功能，其中也能遇上你完全未知的领域，去挑战完成它，你才能有进步；最简单的，全部都是由你开发的个人网站；没发布甚至不知道怎么发布，那你做出来更是毫无意义了。</p><p>B:</p><p>这么说吧，要是你能自己开发出这个网站，对里面的每个技术细节如何实现都了如指掌，那就真的十分厉害了，增删查改是你只要牵扯到数据库就必然有的。</p><p>A:</p><p>怎样区分项目和demo？</p><p>B:</p><p>区分项目和demo，就是项目，你会碰到很多很多你不知道的问题；而demo，你完全就是照着别人的教程去按部就班的写</p><p>B:</p><p>从开发和个人成长的角度来说，我就问你目前为止写的demo，存在几个触碰过你完全未知的领域，然后自己通过搜索或者思考解决了的？</p><p>A:</p><p>没有…</p><p>B:</p><p>而项目，他假如有一个功能是要求记录用户浏览文章和搜索记录，然后总结这些文章和记录的共同点，接着推送同样类型的文章给用户，用户还可以点击“不感兴趣”按钮，以减少某一类文章的推送</p><p>这功能就算你完全不知道该怎么做，但如果你计划中有这个功能的话，你就必须要想方设法的去实现它，而这个实习它的过程，就是一个突破自我的过程。</p><p>B:</p><p>你如果只是照着别人的项目做，怎么都只是demo。因为不具备独特性，除了让你学习相关知识外也没有其他目的性</p><p>B:</p><p>当然，我的意思并不是demo就毫无意义，demo也是十分重要的，因为它可以带你入门，让你清楚相关的内容大概有哪些，该如何使用，可以尽快让你对这些学习的内容有个大概的印象</p><p>A:</p><p>也就是一个主要的区别demo是不具备思考性的..</p><p>B:</p><p>可以这么说。因为你都是在按着别人已经做好的一个项目照着写，别人每个步骤为什么要这么做，不这么做会怎么样，你都不清楚。</p><p>B:</p><p>以及，你在学习别人的一些学习笔记或者问题解决方案时，也要注意去思考，不要照抄解决问题后就什么都不想了。在不清楚对方每行代码的意义时就直接照抄，这是大忌。你要多去思考，为什么这样会解决，是否有其他的解决方案，改变其中的某些代码会怎么样？当然，官方文档除外，毕竟官方自己写的API，当然拥有最终解释权</p><p>A:</p><p>项目的话 文档、uml 都是得自己来吗？</p><p>B:</p><p>其实也不是，毕竟全公司也不是就你一个人，还有产品经理他们。但是一些小公司的话，可能还真是这些都得你一个人做</p><p>A:</p><p>理解之后自己再想怎么去做xxx网站 对吧</p><p>B:</p><p>是的，你要去带有一个目的，然后自己从零开始建立一个项目</p><p>B:</p><p>你现在大概的内容应该熟悉了，你可以尝试自己从零开始做一个项目了</p><p>A:</p><p>可我mybatis springmvc 甚至 maven还不…入门…</p><p>B:</p><p>那就用你自己订一个项目把你这些全给融会贯通；遇到不知道的再去学，带有目的性的学习，会让你更加明白它的相关功能到底有什么用；或者我给你订一个项目——个人网站</p><p>A:</p><p>我现在好空白…</p><p>B:</p><p>个人网站你知道的吧，那今晚，你给我列出你这个博客应该有的功能。</p><p>B:</p><p>订功能时，不要去想怎么实现，你就假设这个博客是一个编程极其厉害的人，什么都会，什么都能做出来的人。因此，你不要给自己设下限制，凡是你想到的功能都可以记录上去。</p><p>B:</p><p>说道整理笔记，你整理时好歹带点自己的思考吧。别老是把我的聊天记录基本直接复制粘贴上去，我说的也只是我的一些看法，而我现在也才入职一年，不会全部都是对的。你要自己去分辨。</p>]]></content>
-    
-    <summary type="html">
-    
-      关于区分project与demo的对话
     
     </summary>
     
