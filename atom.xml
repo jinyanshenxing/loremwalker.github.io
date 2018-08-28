@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-08-27T17:38:27.877Z</updated>
+  <updated>2018-08-28T08:43:35.226Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018年8月28日 星期二 晴</title>
+    <link href="https://loremwalker.github.io/note/2018/08-28/6f0a78c1.html"/>
+    <id>https://loremwalker.github.io/note/2018/08-28/6f0a78c1.html</id>
+    <published>2018-08-28T07:13:34.000Z</published>
+    <updated>2018-08-28T08:43:35.226Z</updated>
+    
+    <content type="html"><![CDATA[<p>搭建项目初期，当在测试编码环境执行代码时，报出了一个令我可以说是一个令我意想不到的错误。HibernateQueryException: xxx is not mappad，这个实体并没有映射到，是什么原因呢？</p><ul><li>dataSource、sessionFactory 配置没问题阿，mappingLocations 没什么不对阿</li><li>Dep.hbm.xml 映射配置也是对的</li><li>ebug 、log4j 我的天，我肏他妈的还是一样，一点一点的调试追踪到报错也是没什么分别的</li></ul><p>左思右想还是觉得没什么不对的，有什么不对吗？好像没什么不对吧，偏偏这个地方却又报错了，什么意思？百度了半天结果也没用上，消耗了大量的时间和精力，很是犯困也很无奈。不过，在写这篇日记时，发现我的素养确实低到极点了，和初学者的确差不了两样。</p><p>在比对了源码之后，是不是环境问题阿，存在版本的差异问题阿？idea？eclipse？在eclipse上是可以运行的，idea却不行，奇了怪了，什么原因阿？难道 spring 加载 hibernate 映射文件的方式有问题吗？idea 与 eclipse 表现形式（结构）的差异在哪里呢？</p><p>最后将 mappingLocations 属性处把路径<code>/</code>替换成<code>.</code>就行了，费了半天的功夫得到了无奈可笑低价值的真理，细究之后还是idea与eclipse两者包与文件夹的概念。当然我也发现了我自身的一些严重问题：</p><ul><li>常常复制粘贴各种报错的信息直接百度，不爱多去想想错误的根源在哪</li><li>遇到问题时容易着急，当百度解决不了时只是各种无奈的挠头，很少去想其他解决办法</li><li>我始终不愿去尝试枚举各种错误的各种可能性，只是看一遍代码然后否决了这种可能性</li><li>很少会用大脑想想为什么会错？报错是什么意思？报错的根本原因是什么？以及通过怎样的方式查找？</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      这个错误是有意义的，活该成多年的半路白痴。
+    
+    </summary>
+    
+      <category term="true" scheme="https://loremwalker.github.io/categories/true/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>一个人的时候</title>
@@ -63,7 +83,7 @@
     <published>2018-08-23T07:18:18.000Z</published>
     <updated>2018-08-25T00:36:04.645Z</updated>
     
-    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="security">  <div class="input-container">  <input type="password" class="form-control" id="pass" placeholder="勇敢面对现在的事实去改变吧 相信你能做到" />    <label for="pass">勇敢面对现在的事实去改变吧 相信你能做到</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1/T0yB3oR0UtFehpSjj2CqKBRPdDxgdEkxx3uBKncWmwZrtZxUMEtQ/zlqurTlF1OygEHTr1RW8ckUQosQ6n15jHa9QBjl+nUexNhlwE3cw2UyKDUo7Q6t7vjpAzgv5ayxxiQI4nfGhbYsKvrFcSg2ySNuIIumnOfiTT/+HCcPm1sHzr94FgYrOjlNi39WRvvYKAaastV8qMswyQQRd1lM01jQPtcqqzbu57M6E3m6bna19d3wYysIPjv5aJUvEg4nOlLoNb3zU3nHi99IhnpBcH0GY+bAJ0PfYOFqERv3IbzhWaIHadC8qfsC6IVgmAj8weKOsAvpukG8MmIUC3X+ip0Clg2loG2FQm35uti4+g25SugAh3+WVscvMohBpLv9BcFFMbj2emcH0YzL+YRW1QUzfpY1Df+8rsvHVNkSiU9eEsQ4q6jJWayL/R/YsEYh30wFN6xGuKA7j01KXDs4wK6stpuv9mKYRbFfBIWFCIAX587hAw/58SGJ0b3ti9HD+muQExuKkRc6kik07/oSCjYzI3xmssMV5UWn1+77w/sNk/hm9YRMMQQHRU+HBR76UUB2wjQZeKKvkkvOwTzHi/1voAVadge1WnjO6UcTpRVKh1f5/cUArALH1sBzAQefiIuX3Amh71fqmsVjLNh15cMcOADBUuPwJ9rgOg4E2S00zSCgTE+ANn3h7MaG9FLSQpJ59rmeHcZo3Uf8OAYSm+lZeMsX8UDvYTzBGPRsxSE+0oNPgbu/lY5vG8XbatI3mB19E0VfjrmNXWyMvCysj/DAMW+NDQKZoRH/iT8WS7HMWbnD1cVpqo+m4eCZEK1f35IDiUKtOlVNPW/VuPq6tT2zT9DYe839ratVucvZC0kyWeJWyjNrM+T0ceZpNHMya30umEWRmKvZMsyJvm1Xm2C2+pD/fJU8czqq11xim4SDlujoLnxV8+cokfcoqdJu2qdQlI33Prs2+/VbZAJMuUZ0SjGJbcCyFxC/tpRpM1yFRqc981qvXSySxhvNPLbOMfgv/zw1kbvgdnWBNV6ZGGpqGyDyumpj6swv5kTrQ4lLucpXp99RCYw20rmX+D85+TfnbH3qarNx63mknZ4lB7B+o5Deo3+k9fyMyi9OErNLYE+3Wp1Ab/MJ8iXpVM4xsnpCnmqBajDo3b2mSunmSq1HguHwKY8dqqeJP+W91U7l51VNyh1KLnjeWRirM04c+41otSHbBJwZP/2SuAMUkryvD3ToK5oGxc0eC6kKRgiY04lcGZayY</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="security">  <div class="input-container">  <input type="password" class="form-control" id="pass" placeholder="勇敢面对现在的事实去改变吧 相信你能做到" />    <label for="pass">勇敢面对现在的事实去改变吧 相信你能做到</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+uSKfAlS2Wd+aeuLQujhByD89hZQ0f+p7uTWiDtGeq40ZoLzo+55QbukvbBtvoCUeUgEWtZAFdFHcbgIITBp46iDJUzTLbg1jPsXagasMyRC0RLyqkMKeJ+6T+dTEraRZtYk88USKyID6mIqnCswjaqPM81+i6Xd2i78444eNKuScakpqi/fMyywmgQDtXY7Yf+lzql0veXsjyb+c9yhb/BRp4ywm40k5c+pUkzrUygbOaDluyTgnZPxtMVAzrL+KalVC6wV5qFE8fjmMqT48MWK95MAAwiKEh2AFkp4rZXtYU+QfdoXEyt08N5S3tAy5Ldsdm3Nkk5TaJVefmNog/KILpopv5aqcSuGU9usMJobusp0abz+Z7kRFA/kYuWTzjKXK12J3OpUPT0fMyjuhwDqF9ZzxoGpp99uQJRPgpuKiObGpkZ3iPbIgi8Z8LzPihiHDP2HGAfJ686xqX/gyQ7aNzrXLXOjHbwujij+NF3NbSUyQQvJvCDIuG/SvQ9+gKOut9Gpylln5sIHVnmpOLHmPxmUJUI3131YAl9eTYTzXO3WtNOXnXuKmrhJQ1vjPbbL69Y+9ppJpKGCKOSknJl7kiiZ21Uu/Rh+Q5vcP+ybCehUC16+MvIGCTEMczIG7d53g2JjAziVi7PAfsk7R6wXcNWQ3V/pAuwUcDma0BuIaWGGCc9f00XV2HSAna/145Ijre3khUKsq6wnkvxuJy89IVsV674EAaTRNEucMUr8ZM7wMKM5xoLRwl51kIPqKvOUkhUWeKQAbZm4EyBYJNShg65zvKnFDES+kID6k848QN4CuxXM6nis/jh1+zCTOTd7Doj6+r0THYbfIzwLUxjB97OONOlDEFLPKzQMsOApP0g/cTp2NNmAsywYK+bTvBj4Z9Jc3dRYM7JSyXiz2Gs59b9MOZIVhHvd4ZhVysdPg5433gbwjDTxlUJgkCF0vnGDUGmOle7PMp8MaanGVb6LXK+JbVsrkI4XvzQ0gv3pspAt0y3kbIK9J9CyF38eLFcxu50C0tFFsHryzkonJ/nB3B3N1Uty9863pjNxqc80eSYM1Mjh0bTHSMSefRA9rVjpD20z9ccdPhth+tqytpluhlAWLuA0f3+7C6l2VJCYHsUZsgGUEMAGE71KI5+OTtHP8ppBYdEgyCdEOQdVjKgLbQhYkPRv1R6Gc8E14Dfh+ArBfnYfgDZEicW93mt+9lXAhY0BUhCS8pNUMeiI/NESMbLAc/mOwFqjbfd7UAkjO8yccDdC/b</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
@@ -388,26 +408,6 @@
     <summary type="html">
     
       确定？不确定？不确定？确定？
-    
-    </summary>
-    
-      <category term="日记" scheme="https://loremwalker.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2018年8月3日 星期五 阴转暴雨</title>
-    <link href="https://loremwalker.github.io/note/2018/08-03/bd789af5.html"/>
-    <id>https://loremwalker.github.io/note/2018/08-03/bd789af5.html</id>
-    <published>2018-08-03T02:58:56.000Z</published>
-    <updated>2018-08-03T05:07:16.975Z</updated>
-    
-    <content type="html"><![CDATA[<p>久久不能平静，当我说出这句话时，其实也已经平静了。没亲身或身旁其他人体会过的，也基本上感知不到话里隐藏着背后的故事所蕴藏的深层次的含义。多去自己想想为什么这么说，为什么这么做，问问他们。</p><p>每一个人都有不同的使命，每一个阶段都有不同的成长周期，上代使命已完成与下一代期望值的落差的冲突。要么顺应上代的使命继续下去，要么就从现在去改变让它更好点…又件事特别重要，但就是没办法认真去做。比如说：英语特别的重要，人人都懂，都是这样，做到的真是少之又少。</p><p>是啊，有些道理要自己感悟，自己感悟到了之后也不一定会去积极的改变它，我们听过很多道理，却依然过不好一生，也许该明白的迟早也会明白，不明白的说了也白说，或许还是能存有保持着希望。</p><p>根据我戒烟酒与槟榔成功后的经验来看，应该是我没有用一个真正认知与意识还有行动去对待它，挑战它。</p><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/d2/b7/fE6JgJub_o.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/f7/d4/450UCriS_o.jpg" alt=""></div></div><div class="group-picture-row"></div></div></div>]]></content>
-    
-    <summary type="html">
-    
-      心情不好时，总会在雨天...
     
     </summary>
     
