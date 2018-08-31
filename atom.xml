@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-08-30T18:14:05.429Z</updated>
+  <updated>2018-08-31T16:35:00.754Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>致静雯的一封信</title>
+    <link href="https://loremwalker.github.io/note/2018/08-31/1919bb2d.html"/>
+    <id>https://loremwalker.github.io/note/2018/08-31/1919bb2d.html</id>
+    <published>2018-08-31T15:49:29.000Z</published>
+    <updated>2018-08-31T16:35:00.754Z</updated>
+    
+    <content type="html"><![CDATA[<p>亲爱的静雯:</p><p>已是深夜入九月了，此时想起了你，的确有些无聊呃。我们相聚的时间很短暂，其实我很多话想对你说，可能你不是太懂。</p><p>在选择方向朝上发展时，是否对得起自己的选择呢？不管怎么说，也是你让我继续下去的理由和信念。当然我还没写完，不止这些，这段时间非常忙，尽量写吧</p>]]></content>
+    
+    <summary type="html">
+    
+      这封信的时间很长，
+    
+    </summary>
+    
+      <category term="致静雯的一封信" scheme="https://loremwalker.github.io/categories/%E8%87%B4%E9%9D%99%E9%9B%AF%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>对猫狗队列的再解</title>
@@ -123,7 +143,7 @@
     <published>2018-08-23T07:18:18.000Z</published>
     <updated>2018-08-25T00:36:04.645Z</updated>
     
-    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="security">  <div class="input-container">  <input type="password" class="form-control" id="pass" placeholder="勇敢面对现在的事实去改变吧 相信你能做到" />    <label for="pass">勇敢面对现在的事实去改变吧 相信你能做到</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX19GBIZ0S/o3qj3pozpGp2Uo2rqh+2WQHIFD97IhCgGDL8fLirqG74OtkAWlKBfnL8YFur79uGJkoRrEOZLL7PWzVHEHwnSAQ47oak5zUyJxoxxlEBHXx852VZS8dJKKfpLaXWbbjdYwIVMutYRrk3gpOZ0fBwT+KQNeB+bqq60dtB6mqsViLFgs6Ttbps5RbbdLE5y+0acugy8jrYRtr38zfERs7wBP2MxQSTonRfPf2IfvCYW6HLQiLFHvMbt+zdoUJmWQ21VUwPnJALlSTVFmza6/DzJdEy3utCTOyPyYgUv5kYCPZaJwp+GkvcJq6Yjufiw8Ditej0gSpt9QJerbLwGga6e8BI2gD8pgOYBdg2xzKkSJBU60/2RGCBvIcCeF0afmPW9VtiSRkhUXXBg8/8AezjFozJiMDh9/dM6Q3q4E2kvhkTbNaB33iUU6A/mwHU0+/TJN82A7o/T+7Q0KjvvihPDIF4tFtwFdcB8s7leQJlhj8Qifdwh9qCNUUnOlCiuuUIv2DOJDAVWv6ArGN8wRC26etdeUGVdblt19/d8kl7GKnsYhpDeVNU9jzhuN3CmREECmWBDYPMuijqxJYr958mA+vaZtSAQbo65yhzw+d4wNFnAlollVhbUERUrmpRGbajvbhhCNTXRZ8VRShCaIh1kni3Rx1cTXUw6TBgC+jBttrMW+9ZOoPY5wnKQzi4C49V8HZ53ntIulx+mu1wB6yb46AuFoqxFU/w0Wp0tz+uRATzbyC5Cl+rBEmXIo7QblCKAYdyTAo9SfpQSGjpx4rxztA7g6P7b2tJW2dFj5waquZd0HODvQyecuwuNaNTOjdR5XeT5LkX35XNIJOIrwM1+X9UylXPh5tNXpqLynwpWrg8ppkCPnEbt0dN0KJgVOxEeIM21CvdcBhbCBbKVqgjJcRlBTj4nBcb7+9zYQTA4CuCZ+SNnLyHQFXxt7VOqFbQeMMtCdms8xiQ2xZonfx5Qd/C7ke9C3QJxzYG88XF4uAd2AUD2tflopobzZ9omXXA7BYNlA2kQocG0QtFDOZc6lT63SyfzudAfFtZ0fhravv6AAbrxNPi+w7CJ467RYpsd1ohrEBcqkxGcaPYqH9GYMtg6hl8oRj1V3oboFxQ2eUO4Mxxi9zRfmvFGJQihchlT2XFb/amg0HLNs4FTlkOWsTnSBEHIQ9fRJP3/4zclmo06SFbYYkT/d7eOXx0mkB9vaK9IEcFdOEEc250ZHcoaa3dO6+x1OQmOt/2WS0HZaJMLq</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="security">  <div class="input-container">  <input type="password" class="form-control" id="pass" placeholder="勇敢面对现在的事实去改变吧 相信你能做到" />    <label for="pass">勇敢面对现在的事实去改变吧 相信你能做到</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+W0kYIs+Ct1SYMmbwIY7qlGFTttkg9jGXfgHA6fmja5r4oeUWj0xMRb1IWDY1QuECzwp6wJ9vn5BWhxZdmf/VQFiQ41H02gykVGgeaD8vi6XTlSvXWOwGlAReojEHGqX4g7EpjRTGfOsNd3VtJMd847zjSVtp/EqQQlHo2RUr6Ae4d9hdepD8F8CaM9nuryuhVLG40wHekRj0zOoLl1rDSiRAAw9llg+s6vpvi07XP5U2GdB2+uhg1kn9S7F1x5W9VfPaFNFedQxWxQXn7g5d7nBzXTF4OUt9bPJCuGC/Y/1uUhG9gionjEFijhPHwpiUj8VZhRaUhPuXHBdnddm1hf4dt87xEzydpqk/YGtT4s7cIkCnirXiDRuV9Jto8OIJkYMB/cvTY+2E63bkQPygP0T9k/9oqoVLTlQSzhAUVFwDAccB7+CMvF0nOcjfE61UGAVAmmoEi2e1/dxYepu40lCiEUU9MhSsvT4SQk1F093HhzBwSt39PwnAVDCSyduNW5grdChtQEY+p0K/BF7iLyTNgSBP6IJL3Qcos9qnw2oP3cO5PW5azgdVM0hPAxQB7mw00n8fOI1KWaaxxtCt/6GQtAYrT85yGMS8BlYEjPfwXqbTyKgrFoUcGI+36GAIdeTzRWANgl9qhSG0mgUA38wJsqvxVswImnzjbW7iwzC3oJ5JSZoCS3PEJWsSL5utxNif3DBa4egqCt88UVdLPh7jsHXklzgP68bE+2MgiuV04CiavMbbjXZx99RuMhVKo3BPVeykjgd2e4uKxdKNv93eWCv9WBmKlOx5aMmZNfBJ1Uis2ZUyDDvOZt1j6CBCAXHxD9B9IZCMjGJI9fALHdp0P5VtfKf5feMAe11ngRdqVdA7v0sASbtA/m5lIsoLQzfcGEFEsviftdxbIDUGRUX+AWC0giKdi76uisnHK7X0NyLfrO2nHSvOtCx/EDXDBDpQvY00EYeQYZ7lfAzc3UMWWTCTsWQ9W8YKqbEHGjQOhtIIflXGnEkNF5WGNcLJRDNoV9uXzPZKlBDoLd8rtsnkPW6QryP1SiYvHsRDBBHsD+9k+971VMF7KqR2CZbYuU9IJ1v7zhvqPtMnD4b137JW7ct52ljHOIPqDPe8czaghlMNArzI8F79kx9xGtZMgZAV/83UVohBy93+bjwNC54uCk3KqEN/OoIiNOyxKOKvxhbShcpNPi6Hvo2k/FMYqBiVEUvk4kNwYhAEK0ntEAsmRygYodSoDzHdgg+nI4wLLm7ImX4bu</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
@@ -388,26 +408,6 @@
     <summary type="html">
     
       这一天的所做的闲事...
-    
-    </summary>
-    
-      <category term="日记" scheme="https://loremwalker.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2018年8月5日 星期日 暴雨（其二）</title>
-    <link href="https://loremwalker.github.io/note/2018/08-05/541a711f.html"/>
-    <id>https://loremwalker.github.io/note/2018/08-05/541a711f.html</id>
-    <published>2018-08-05T04:17:40.000Z</published>
-    <updated>2018-08-05T07:04:23.047Z</updated>
-    
-    <content type="html"><![CDATA[<p>很多很多不确定的过往，用理想化的或是多个不同角度的分析似乎都能找到合理解释及原因，但下一次呢？是否还是准确无误呢？我感觉只能是争取这最大化机率的过程，自然规律可变因素实在太多，结果真的是无法预测，尽心尽力去做事，能否成功还得听其自然。</p><p>这是我最珍爱的的两件，为什么当时就机缘巧合的就接触到了呢？为什么现在却成我的珍爱了呢？好久好久了吧…（那时的我还不怎么内向）我问过曾经在我家嬉戏两小无猜的欧研利（曾经那也只是曾经…）：我们俩这么认识在一起的？当时…嗯…其实直到现在…呃…我也不清楚，反正就这么莫名其妙的好上了…过去的毕竟真的都过去了…还是着眼现在吧！</p><p>当时也没像现在的智能手机…留住照片的话，我不知道是遗憾还是伤害呢？我不知道她是谁了，真的不知道她是谁了，真的就像失忆了一样，一起合影过反正长的其实挺像的，特别是当我写日记回想从前你那微笑的样子…</p><p><img src="https://images2.imgbox.com/a2/1d/XCuCiGwN_o.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      日记还是抒情的多...
     
     </summary>
     
