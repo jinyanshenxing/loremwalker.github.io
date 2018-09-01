@@ -1,298 +1,577 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[致静雯的一封信]]></title>
-    <url>%2Fnote%2F2018%2F08-31%2F1919bb2d.html</url>
-    <content type="text"><![CDATA[亲爱的静雯: 已是深夜入九月了，此时想起了你，的确有些无聊呃。我们相聚的时间很短暂，其实我很多话想对你说，可能你不是太懂。 在选择方向朝上发展时，是否对得起自己的选择呢？放浪无所谓的选择是否对将来的自己负责呢？当有人说我还年轻，有的是机会，这句话其实并没多大用，反而会更加无所谓，到最后恐怕真的没机会了，因此要更加的去争取它。 在这期间，我也开始养成了逐渐读书的习惯，这是以前很长时间所没有的，这更应该保持。另外，就是专注了，当我在走路时，不断的回想今天所做的事以及想对你说的话，差点被撞了；还是专注一件事比较好，不要其他以外的事，一心真不能二用。 用大脑的客观逻辑去取代凭感觉及情感的思考，即使是我，你也要这样；这封信你也要有自己的思想，保持怀疑的去看，你说的又是否是对的呢？慢一点思考实际上比快思考或想都没想就去做事情，要好很多很多，吃无谓教训是不应该的；我不知道你能不能体会到，但我希望你，我相信你会做的更好。 不管怎么说，你是让我继续下去的理由和信念之一，你在我心目中是优秀的，一直都是，一直都很喜欢你，爱着你。你是自信的，这点比我做的要好很多很多，我也始终想方设法地自信，但很失败，不过我在写时，似乎找到了一些原因。当我说你肥了这么多，你还不好意思害羞的低头笑了，还是那么可爱。其实不要介意这么多，首先有一个正确的思想以及针对它有效的方法，去努力地改变现状，就好了。 对了，还有一点，没有人比你和还有你最常分享开心或不开心事的挚友更了解你的现状，我也不例外，甚至是你的父母。不是每个人都适合你，如果你与错误的人交换想法，你会陷入更糟糕情况。至少我是这种状况。 有时，早点去体验社会的现状，是件好事情，至少以后会少吃不必要的高昂的智商税，去了解这个充满欺骗的红朝集权资本主义社会，也就是课文常说的中国特色社会主义社会。将来就会有更有效的应对手段了，不至于刚入社会那种无奈使人悲伤叹气的。我也是后来理解到了解事物本身就是痛苦的过程，但既然知道过后就应该去积极改变了，再这么唉声叹气也是无济于事。 刚开始我也是嫌弃自己的专业，而学习其他的导致，真是两边不讨好；跨行也是很难很痛苦的事，真是要做好足够的准备才行，否则真是吃教训；没办法，我也只能一条道走到黑了，当然这也意味着必须更努力更付出，更重要的是找对有效的方法，以及正确的思想；有时失败的次数越多，不断地反复地从不同方向思考与总结，成功的概率也会随之越高。 好了，花了这么多时间给你写信，也该做我该做的事情了，希望你能不管在那个方面，都能做的更好。 爱你的哥哥 18.9.1]]></content>
+<search> 
+  
+    
+    <entry>
+      <title>2018年9月2日 星期日 阴</title>
+      <link href="/note/2018/09-02/c2476d7d.html"/>
+      <url>/note/2018/09-02/c2476d7d.html</url>
+      <content type="html"><![CDATA[<p>最近也是有几个通过一些信息，居然找到了我的 QQ zhihu 等；早有 following 我的群友说过这个 repo 满满的危险。看着无聊的东西，闲闲无代志，真是𨑨迌无了时。那通歹运连连，不也得继续吗？要么舒服得像烂泥扶不上墙，真的希望这样吗？要么不是难受着想着用着撇步变得好起来，忍受得住吗？</p><p><img src="https://p3.cdn.img9.top/ipfs/QmVYJb4EuUtNkZq3jyofkXDEeQ9JpKchDRcKX5MG2m27f8?3.png" alt=""></p>]]></content>
+      
       <categories>
-        <category>致静雯的一封信</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[对猫狗队列的再解]]></title>
-    <url>%2Fnote%2F2018%2F08-30%2F64605610.html</url>
-    <content type="text"><![CDATA[猫狗队列是一个很经典的问题了吧，在书上我也翻看了很久；而网上的答案呢，也是千篇一律的，跟书的代码也是一字不差的，几乎除了照搬似乎都没什么思路可言的，甚至连书上提到注意的点都没有… 一开始我是没什么思路的，翻来覆去研究书上，发现原来挺简单；但用思路写起来还真不是一回事，挺难的。各个问题涉及到的地方很多，就是如何解决的问题很多，特别是题目的第二点要求。 以下是我研究书好一会做题的过程，也发现书上一些不太好的问题吧，比如对装载 Pet 实例的类命名为：PetEnterQueue ，真的很容易造成误解以为是个队列；而且我觉得书中所写的这类似乎有些多余了，这并不是说他的实现方式不对，这样的实现思路也的确是要这样做的；但其实只要创建一个由猫和狗组合成的共同的类就好了，实现的方法写在其中也OK，以下是我的解题过程。 题目：宠物、狗、猫类代码如下123456789101112131415161718192021package com.pat;public class Pet &#123; private String type; public Pet(String type)&#123; this.type = type; &#125; public String getPetType()&#123; return this.type; &#125; public class Dog extends Pet&#123; public Dog()&#123; super(&quot;dog&quot;); &#125; &#125; public class Cat extends Pet&#123; public Cat()&#123; super(&quot;cat&quot;); &#125; &#125;&#125; 用户可以调用add() ，cat类或dog类的实例放入队列中 用户可以调用pollAll()，将队列中所有实例按照队列先后顺序依次弹出 用户可以调用pollDog()、pollCat()，将队列中dog类、cat类的实例按照进队列的先后顺序依次弹出 用户可以调用isEmpty()，检查队列中是否还有dog、cat的实例 用户可以调用isDogEmpty()、isCatEmpty()，分别检查队列中是否还有dog、cat的实例 思路： 1) 用户可以调用add() ，cat类或dog类的实例放入队列中 add() 也需要装载一个 Pet 的实例（多态），如何区分继承Pet类的 cat 和 dog 对象123 public Cat()&#123; super(&quot;cat&quot;);&#125; 由于Cat 和 Dog 的构造方法有 super(&quot;xxx&quot;) 这下可以用 equals 比较字符串区分不同的 cat 和 dog 对象，然后将符合条件的对象加入进 Cat 或 Dog 的队列中。 12345//最好避免魔法值，此中仅为示例boolean bool = pet.getPetType().equal(&quot;cat&quot;);if(bool)&#123; add(pet);&#125; 2) 用户可以调用pollAll()，将队列中所有实例按照队列先后顺序依次弹出 按照依次按顺序弹出，根据类别的队列中的对象总数或队列的大小，来决定先那个队列使用 poll() 将所有对象出列。比如 Cat 队列的对象少于 Dog 队列，就将 Cat 队列先执行 poll() 。这里将 Cat 队列命名为 catQ，Dog 队列则为 dogQ 12345if(catQ.size() &lt; dogQ.size())&#123; this.catQ.poll();&#125;else&#123; this.dogQ.poll();&#125; 当然，在此之前还需要做一个非空的判断123 if (this.catQ.isEmpty() &amp;&amp; this.dogQ.isEmpty()) &#123; throw new RuntimeException(&quot;empty&quot;);&#125; 实现： 12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576777879package com.pet.dc.queue;import com.pet.Pet;import java.util.LinkedList;import java.util.Queue;/** * @author lorem */public class CatDogQueue &#123; private Queue&lt;Pet&gt; catQ; private Queue&lt;Pet&gt; dogQ; String cat = &quot;cat&quot;; String dog = &quot;dog&quot;; public CatDogQueue() &#123; // linkedList 本质上和queue 是一样的，先进先出 this.catQ = new LinkedList&lt;Pet&gt;(); this.dogQ = new LinkedList&lt;Pet&gt;(); &#125; public void add(Pet pet) &#123; if (pet.getPetType().equals(cat)) &#123; this.catQ.add(pet); &#125;else if(pet.getPetType().equals(dog)) &#123; this.dogQ.add(pet); &#125; else &#123; throw new RuntimeException(&quot;err,not cat not dog&quot;); &#125; &#125; public void pollAll() &#123; if (this.catQ.isEmpty() &amp;&amp; this.dogQ.isEmpty()) &#123; throw new RuntimeException(&quot;empty&quot;); &#125; if (this.catQ.size() &gt; this.dogQ.size()) &#123; this.dogQ.poll(); &#125; else &#123; this.catQ.poll(); &#125; &#125; public void pollDog() &#123; if (!this.dogQ.isEmpty()) &#123; this.dogQ.poll(); &#125; else &#123; throw new RuntimeException(&quot;dog is empty&quot;); &#125; &#125; public void pollCat() &#123; if (!this.catQ.isEmpty()) &#123; this.catQ.poll(); &#125; else &#123; throw new RuntimeException(&quot;cat is empty&quot;); &#125; &#125; public boolean isEmpty() &#123; if (!this.dogQ.isEmpty() &amp;&amp; !this.catQ.isEmpty()) &#123; return false; &#125; return true; &#125; public boolean isDogEmpty() &#123; return this.dogQ.isEmpty(); &#125; public boolean isCatEmpty() &#123; return this.catQ.isEmpty();// if (this.catQ.isEmpty())&#123;// return true;// &#125;else&#123;// return false;// &#125; &#125;&#125; 测试： 测试的话，在 maven 模块配置好 Junit4 再到 test 测试文件夹写好测试类，即可测验了 12345678910111213141516171819import com.pet.Pet;import com.pet.dc.queue.CatDogQueue;import org.junit.Test;public class JTest &#123; @Test public void test() &#123; Pet cat1 = new Pet(&quot;cat&quot;); Pet cat2 = new Pet(&quot;cat&quot;); Pet dog1 = new Pet(&quot;dog&quot;); CatDogQueue cdq = new CatDogQueue(); cdq.add(cat1); cdq.add(cat2);// 每个人心中都有不一样的城里的月光，悲伤的，欢畅的，逐梦的// assert cat1.getPetType().equals(&quot;cat&quot;); System.out.println(cdq.isDogEmpty()); &#125;&#125; 看了一个照搬书上还不错的例子，通过给定的类实现猫狗队列，他的 offer() 挺好的，如果队列已满再插入直接返回 false，不像add() 抛出异常中断执行 。异常尽早暴露原则的话，哦，那真是看情况而定了。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>致静雯的一封信</title>
+      <link href="/note/2018/08-31/1919bb2d.html"/>
+      <url>/note/2018/08-31/1919bb2d.html</url>
+      <content type="html"><![CDATA[<p>亲爱的静雯:</p><p>已是深夜入九月了，此时想起了你，的确有些无聊呃。我们相聚的时间很短暂，其实我很多话想对你说，可能你不是太懂。</p><p>在选择方向朝上发展时，是否对得起自己的选择呢？放浪无所谓的选择是否对将来的自己负责呢？当有人说我还年轻，有的是机会，这句话其实并没多大用，反而会更加无所谓，到最后恐怕真的没机会了，因此要更加的去争取它。</p><p>在这期间，我也开始养成了逐渐读书的习惯，这是以前很长时间所没有的，这更应该保持。另外，就是专注了，当我在走路时，不断的回想今天所做的事以及想对你说的话，差点被撞了；还是专注一件事比较好，不要其他以外的事，一心真不能二用。</p><p>用大脑的客观逻辑去取代凭感觉及情感的思考，即使是我，你也要这样；这封信你也要有自己的思想，保持怀疑的去看，你说的又是否是对的呢？慢一点思考实际上比快思考或想都没想就去做事情，要好很多很多，吃无谓教训是不应该的；我不知道你能不能体会到，但我希望你，我相信你会做的更好。</p><p>不管怎么说，你是让我继续下去的理由和信念之一，你在我心目中是优秀的，一直都是，一直都很喜欢你，爱着你。你是自信的，这点比我做的要好很多很多，我也始终想方设法地自信，但很失败，不过我在写时，似乎找到了一些原因。当我说你肥了这么多，你还不好意思害羞的低头笑了，还是那么可爱。其实不要介意这么多，首先有一个正确的思想以及针对它有效的方法，去努力地改变现状，就好了。</p><p>对了，还有一点，没有人比你和还有你最常分享开心或不开心事的挚友更了解你的现状，我也不例外，甚至是你的父母。不是每个人都适合你，如果你与错误的人交换想法，你会陷入更糟糕情况。至少我是这种状况。</p><p>有时，早点去体验社会的现状，是件好事情，至少以后会少吃不必要的高昂的智商税，去了解这个充满欺骗的红朝集权资本主义社会，也就是课文常说的中国特色社会主义社会。将来就会有更有效的应对手段了，不至于刚入社会那种无奈使人悲伤叹气的。我也是后来理解到了解事物本身就是痛苦的过程，但既然知道过后就应该去积极改变了，再这么唉声叹气也是无济于事。</p><p>刚开始我也是嫌弃自己的专业，而学习其他的导致，真是两边不讨好；跨行也是很难很痛苦的事，真是要做好足够的准备才行，否则真是吃教训；没办法，我也只能一条道走到黑了，当然这也意味着必须更努力更付出，更重要的是找对有效的方法，以及正确的思想；有时失败的次数越多，不断地反复地从不同方向思考与总结，成功的概率也会随之越高。</p><p>好了，花了这么多时间给你写信，也该做我该做的事情了，希望你能不管在那个方面，都能做的更好。</p><p>爱你的哥哥</p><p>18.9.1</p>]]></content>
+      
       <categories>
-        <category>对猫狗队列的再解</category>
+          
+          <category> 致静雯的一封信 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[再谈读书时]]></title>
-    <url>%2Fnote%2F2018%2F08-29%2F944b5be.html</url>
-    <content type="text"><![CDATA[初中过后的十年间，我几乎没买过几本书，也没有认真的读完过几本书，而且看书也非常杂乱无章，顶多看了几十页就看不下去了。大致就是这么一个情况，图中也仅是所有书当中的一小部分。 我不否认当我在写这篇日志时，我隐约想和你们比谁看得书之嫌，当然这种想法和攀比心非常愚蠢；因为能把书真正意义上的读完那才是重要的，知行合一，学以致用，这才是真正有效的。当然即使在我那段热诚期间，我也存在很长一段时间的叶公好龙，用现在的话来说就是装逼了，买的书不看做摆设不是装逼是什么？ 说到这里一个很有意思的现象阿，就是当胖子拿出《高中语文基础知识手册》（那时是在初中）给我看时，这本手册很厚，内容挺广的，对概要提炼很到位，但就是不专（什么都知道，那就是具体详情什么都不知道）。感觉像是投机，应付考试而来的，事实也确实如此。毕竟考试嘛也是无法考得那么专一，更多的是广度，概要的提炼。 从小的读书教育，包括我的父辈的教育层次也的确…（我的学历也烂大街的，主要是他们的认知很有限），他们是不提钱的概念的，教师也同样如此；认为追逐功利和金钱是不当的，在这样的一个影响下，我多是看一些我所感兴趣的书，专业这枯燥乏味的，一概不看，结果…当然很不理想了；现在回过头来看，追名逐利对金钱的追求是正当的，我也总算明白 greed is good 这句话的深刻含义了。 说回正题，对，当时所要求我看的书多是文学著作，初中推荐阅读，blablabla…一堆，这么多能看完吗？一本《安娜卡列宁娜》这么厚，我那时也没有条件去接触一些在职上班的。看得也是文学著作，当然买了也仅仅只是几十页的样子，这也说明我也没这恒心以及兴趣看下去，有很大程度的原因是被一些外在因素，主导了我的选择。 我为什么要读这些书，目的是什么？好的，我现在可以回答你了也算是给自己的一个交代。对于以前的我来说：仅仅是他人推荐或是我所感兴趣，至于这本书是否对我有什么帮助，能获得到什么，这是我不会去考虑的，一直在用感觉主导我的兴趣；对于现在的来说：读这些说明我需要它，我急切的尽快的能够得到它，让它能够改变自己的一些思想行为，更好的完善自己。因为作者的人生经验、专业知识相对来说都比我要丰富的多得多，通过他的书让自己少些磕磕绊绊（就可避免来说）这也是意义之所在吧，man’s search 4 meanin’。 比对过去，我更多的开始带有思考和质疑去看了，我有我的观点，不一定存在清晰的谁对谁错的楚河汉界，作者出书是为了分享知识心得呢？还是为了职称来糊弄两下收取智商税呢？当开始知道对方的目动机、以及了解他做出此事的回报，一切将变得简单了，确实如此。 btw，漫画书也是存在能缓解疲劳保持兴趣的价值的，这是我在火车上所体会到的，提前准备一本全新的漫画书是能度过5小时的长途跋涉。看专业书的话，且不说装不装逼的事，只要自己能够有效提高那么做出的选择即是对的，在意旁人的看法干什么，庸人自扰之；看专业书的确很耗精力，本来火车上的条件也确实不适合。 此外，说一下我从纸质书-&gt;kindle-&gt;纸质书的过程，现在对此一个认知吧，纸质书确实有很多不便，但好处是很容易记笔记，印象会比电子书深刻，也没有看同一本电子书而言的快速疲劳，而且纸质书内容也是比电子书实际上是要多些的，电子书特别是涉及专业的一些图、代码示例要考虑到屏幕适配的问题，体验确实不好；当然，kindle也有它的优点，方便携带，非常适合看小说方面的书籍。 以及，我在 quora 看到一个非常有启发性的几句话： If the world is giving you pain, learn to not pass that pain to others. Not everyone is a good fit for you. You’re certain to get the worse end of the bargain if you exchange ideas with the wrong person. Wealth is ideas turned into action. Learn to read content on the internet with a critical eye (including this post). 这也是我的一个 INWL 准则吧，现在就是，不断保持唤醒它，这也是我要做的事 DOIT.]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>对猫狗队列的再解</title>
+      <link href="/note/2018/08-30/64605610.html"/>
+      <url>/note/2018/08-30/64605610.html</url>
+      <content type="html"><![CDATA[<p>猫狗队列是一个很经典的问题了吧，在书上我也翻看了很久；而网上的答案呢，也是千篇一律的，跟书的代码也是一字不差的，几乎除了照搬似乎都没什么思路可言的，甚至连书上提到注意的点都没有…</p><p>一开始我是没什么思路的，翻来覆去研究书上，发现原来挺简单；但用思路写起来还真不是一回事，挺难的。各个问题涉及到的地方很多，就是如何解决的问题很多，特别是题目的第二点要求。</p><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://p2.cdn.img9.top/ipfs/Qmf5gy6RnNTrt1sqs9MHW5UP24SzGKms16TeLmNSUcMtGQ?2.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://p3.cdn.img9.top/ipfs/QmQJALaKsCZ9fMzJzBeezzW2M9ddqy85uqwbdqAAtAjroM?3.jpg" alt=""></div></div><div class="group-picture-row"></div></div></div><p>以下是我研究书好一会做题的过程，也发现书上一些不太好的问题吧，比如对装载 Pet 实例的类命名为：PetEnterQueue ，真的很容易造成误解以为是个队列；而且我觉得书中所写的这类似乎有些多余了，这并不是说他的实现方式不对，这样的实现思路也的确是要这样做的；但其实只要创建一个由猫和狗组合成的共同的类就好了，实现的方法写在其中也OK，以下是我的解题过程。</p><p>题目：宠物、狗、猫类代码如下<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">package com.pat;</span><br><span class="line"></span><br><span class="line">public class Pet &#123;</span><br><span class="line">    private String type;</span><br><span class="line">    public Pet(String type)&#123;</span><br><span class="line">        this.type = type;</span><br><span class="line">    &#125;</span><br><span class="line">    public String getPetType()&#123;</span><br><span class="line">        return this.type;</span><br><span class="line">    &#125;</span><br><span class="line">    public class Dog extends Pet&#123;</span><br><span class="line">        public Dog()&#123;</span><br><span class="line">            super(&quot;dog&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    public class Cat extends Pet&#123;</span><br><span class="line">        public Cat()&#123;</span><br><span class="line">            super(&quot;cat&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><ul><li>用户可以调用add() ，cat类或dog类的实例放入队列中</li><li>用户可以调用pollAll()，将队列中所有实例按照队列先后顺序依次弹出</li><li>用户可以调用pollDog()、pollCat()，将队列中dog类、cat类的实例按照进队列的先后顺序依次弹出</li><li>用户可以调用isEmpty()，检查队列中是否还有dog、cat的实例</li><li>用户可以调用isDogEmpty()、isCatEmpty()，分别检查队列中是否还有dog、cat的实例</li></ul><p>思路：</p><p>1)  用户可以调用add() ，cat类或dog类的实例放入队列中</p><p>add() 也需要装载一个 Pet 的实例（多态），如何区分继承Pet类的 cat 和 dog 对象<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"> public Cat()&#123;</span><br><span class="line">    super(&quot;cat&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p>由于Cat 和 Dog 的构造方法有 <code>super(&quot;xxx&quot;)</code> 这下可以用 equals 比较字符串区分不同的 cat 和 dog 对象，然后将符合条件的对象加入进 Cat 或 Dog 的队列中。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">//最好避免魔法值，此中仅为示例</span><br><span class="line">boolean bool = pet.getPetType().equal(&quot;cat&quot;);</span><br><span class="line">if(bool)&#123;</span><br><span class="line"> add(pet);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>2) 用户可以调用pollAll()，将队列中所有实例按照队列先后顺序依次弹出</p><p>按照依次按顺序弹出，根据类别的队列中的对象总数或队列的大小，来决定先那个队列使用 poll() 将所有对象出列。比如 Cat 队列的对象少于 Dog 队列，就将 Cat 队列先执行 poll() 。这里将 Cat 队列命名为 catQ，Dog 队列则为 dogQ</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">if(catQ.size() &lt; dogQ.size())&#123;</span><br><span class="line">    this.catQ.poll();</span><br><span class="line">&#125;else&#123;</span><br><span class="line">    this.dogQ.poll();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>当然，在此之前还需要做一个非空的判断<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">  if (this.catQ.isEmpty() &amp;&amp; this.dogQ.isEmpty()) &#123;</span><br><span class="line">      throw new RuntimeException(&quot;empty&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p>实现：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br></pre></td><td class="code"><pre><span class="line">package com.pet.dc.queue;</span><br><span class="line"></span><br><span class="line">import com.pet.Pet;</span><br><span class="line">import java.util.LinkedList;</span><br><span class="line">import java.util.Queue;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> * @author lorem</span><br><span class="line"> */</span><br><span class="line">public class CatDogQueue &#123;</span><br><span class="line">    private Queue&lt;Pet&gt; catQ;</span><br><span class="line">    private Queue&lt;Pet&gt; dogQ;</span><br><span class="line"></span><br><span class="line">    String cat = &quot;cat&quot;;</span><br><span class="line">    String dog = &quot;dog&quot;;</span><br><span class="line"></span><br><span class="line">    public CatDogQueue() &#123;</span><br><span class="line">    // linkedList 本质上和queue 是一样的，先进先出</span><br><span class="line">        this.catQ = new LinkedList&lt;Pet&gt;();</span><br><span class="line">        this.dogQ = new LinkedList&lt;Pet&gt;();</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public void add(Pet pet) &#123;</span><br><span class="line">        if (pet.getPetType().equals(cat)) &#123;</span><br><span class="line">            this.catQ.add(pet);</span><br><span class="line">        &#125;else if(pet.getPetType().equals(dog)) &#123;</span><br><span class="line">            this.dogQ.add(pet);</span><br><span class="line">        &#125; else &#123;</span><br><span class="line">            throw new RuntimeException(&quot;err,not cat not dog&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public void pollAll() &#123;</span><br><span class="line">        if (this.catQ.isEmpty() &amp;&amp; this.dogQ.isEmpty()) &#123;</span><br><span class="line">            throw new RuntimeException(&quot;empty&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">        if (this.catQ.size() &gt; this.dogQ.size()) &#123;</span><br><span class="line">            this.dogQ.poll();</span><br><span class="line">        &#125; else &#123;</span><br><span class="line">            this.catQ.poll();</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public void pollDog() &#123;</span><br><span class="line">        if (!this.dogQ.isEmpty()) &#123;</span><br><span class="line">            this.dogQ.poll();</span><br><span class="line">        &#125; else &#123;</span><br><span class="line">            throw new RuntimeException(&quot;dog is empty&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public void pollCat() &#123;</span><br><span class="line">        if (!this.catQ.isEmpty()) &#123;</span><br><span class="line">            this.catQ.poll();</span><br><span class="line">        &#125; else &#123;</span><br><span class="line">            throw new RuntimeException(&quot;cat is empty&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public boolean isEmpty() &#123;</span><br><span class="line">        if (!this.dogQ.isEmpty() &amp;&amp; !this.catQ.isEmpty()) &#123;</span><br><span class="line">            return false;</span><br><span class="line">        &#125;</span><br><span class="line">        return true;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public boolean isDogEmpty() &#123;</span><br><span class="line">        return this.dogQ.isEmpty();</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public boolean isCatEmpty() &#123;</span><br><span class="line">        return this.catQ.isEmpty();</span><br><span class="line">//       if (this.catQ.isEmpty())&#123;</span><br><span class="line">//           return true;</span><br><span class="line">//       &#125;else&#123;</span><br><span class="line">//           return false;</span><br><span class="line">//       &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>测试：</p><p>测试的话，在 maven 模块配置好 Junit4 再到 test 测试文件夹写好测试类，即可测验了</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">import com.pet.Pet;</span><br><span class="line">import com.pet.dc.queue.CatDogQueue;</span><br><span class="line">import org.junit.Test;</span><br><span class="line"></span><br><span class="line">public class JTest &#123;</span><br><span class="line">    @Test</span><br><span class="line">    public void test() &#123;</span><br><span class="line">        Pet cat1 = new Pet(&quot;cat&quot;);</span><br><span class="line">        Pet cat2 = new Pet(&quot;cat&quot;);</span><br><span class="line">        Pet dog1 = new Pet(&quot;dog&quot;);</span><br><span class="line">        CatDogQueue cdq = new CatDogQueue();</span><br><span class="line">        cdq.add(cat1);</span><br><span class="line">        cdq.add(cat2);</span><br><span class="line">//      每个人心中都有不一样的城里的月光，悲伤的，欢畅的，逐梦的</span><br><span class="line">//      assert cat1.getPetType().equals(&quot;cat&quot;);</span><br><span class="line">        System.out.println(cdq.isDogEmpty());</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>看了一个照搬书上还不错的例子，<a href="https://www.cnblogs.com/lizhouwei/p/8722945.html" target="_blank" rel="noopener">通过给定的类实现猫狗队列</a>，他的 offer() 挺好的，如果队列已满再插入直接返回 false，不像add() 抛出异常中断执行 。异常尽早暴露原则的话，哦，那真是看情况而定了。</p>]]></content>
+      
       <categories>
-        <category>再谈读书时</category>
+          
+          <category> 对猫狗队列的再解 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月28日 星期二 晴]]></title>
-    <url>%2Fnote%2F2018%2F08-28%2F6f0a78c1.html</url>
-    <content type="text"><![CDATA[搭建项目初期，当在测试编码环境执行代码时，报出了一个令我可以说是一个令我意想不到的错误。HibernateQueryException: xxx is not mappad，这个实体并没有映射到，是什么原因呢？ dataSource、sessionFactory 配置没问题阿，mappingLocations 没什么不对阿 Dep.hbm.xml 映射配置也是对的 ebug 、log4j 我的天，我肏他妈的还是一样，一点一点的调试追踪到报错也是没什么分别的 左思右想还是觉得没什么不对的，有什么不对吗？好像没什么不对吧，偏偏这个地方却又报错了，什么意思？百度了半天结果也没用上，消耗了大量的时间和精力，很是犯困也很无奈。不过，在写这篇日记时，发现我的素养确实低到极点了，和初学者的确差不了两样。 在比对了源码之后，是不是环境问题阿，存在版本的差异问题阿？idea？eclipse？在eclipse上是可以运行的，idea却不行，奇了怪了，什么原因阿？难道 spring 加载 hibernate 映射文件的方式有问题吗？idea 与 eclipse 表现形式（结构）的差异在哪里呢？ 最后将 mappingLocations 属性处把路径/替换成.就行了，费了半天的功夫得到了无奈可笑低价值的真理，细究之后还是idea与eclipse两者包与文件夹的概念。当然我也发现了我自身的一些严重问题： 常常复制粘贴各种报错的信息直接百度，不爱多去想想错误的根源在哪 遇到问题时容易着急，当百度解决不了时只是各种无奈的挠头，很少去想其他解决办法 我始终不愿去尝试枚举各种错误的各种可能性，只是看一遍代码然后否决了这种可能性 很少会用大脑想想为什么会错？报错是什么意思？报错的根本原因是什么？以及通过怎样的方式查找？]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>再谈读书时</title>
+      <link href="/note/2018/08-29/944b5be.html"/>
+      <url>/note/2018/08-29/944b5be.html</url>
+      <content type="html"><![CDATA[<p>初中过后的十年间，我几乎没买过几本书，也没有认真的读完过几本书，而且看书也非常杂乱无章，顶多看了几十页就看不下去了。大致就是这么一个情况，图中也仅是所有书当中的一小部分。</p><p><img src="https://p3.cdn.img9.top/ipfs/QmY953bGuJCk7vRUYm4Hp1wrCA74r4JYvncK76ayMtPs3g?3.jpg" alt=""></p><p>我不否认当我在写这篇日志时，我隐约想和你们比谁看得书之嫌，当然这种想法和攀比心非常愚蠢；因为能把书真正意义上的读完那才是重要的，知行合一，学以致用，这才是真正有效的。当然即使在我那段热诚期间，我也存在很长一段时间的叶公好龙，用现在的话来说就是装逼了，买的书不看做摆设不是装逼是什么？</p><p>说到这里一个很有意思的现象阿，就是当胖子拿出《高中语文基础知识手册》（那时是在初中）给我看时，这本手册很厚，内容挺广的，对概要提炼很到位，但就是不专（什么都知道，那就是具体详情什么都不知道）。感觉像是投机，应付考试而来的，事实也确实如此。毕竟考试嘛也是无法考得那么专一，更多的是广度，概要的提炼。</p><p>从小的读书教育，包括我的父辈的教育层次也的确…（我的学历也烂大街的，主要是他们的认知很有限），他们是不提钱的概念的，教师也同样如此；认为追逐功利和金钱是不当的，在这样的一个影响下，我多是看一些我所感兴趣的书，专业这枯燥乏味的，一概不看，结果…当然很不理想了；现在回过头来看，追名逐利对金钱的追求是正当的，我也总算明白 greed is good 这句话的深刻含义了。</p><p>说回正题，对，当时所要求我看的书多是文学著作，初中推荐阅读，blablabla…一堆，这么多能看完吗？一本《安娜卡列宁娜》这么厚，我那时也没有条件去接触一些在职上班的。看得也是文学著作，当然买了也仅仅只是几十页的样子，这也说明我也没这恒心以及兴趣看下去，有很大程度的原因是被一些外在因素，主导了我的选择。</p><p>我为什么要读这些书，目的是什么？好的，我现在可以回答你了也算是给自己的一个交代。对于以前的我来说：仅仅是他人推荐或是我所感兴趣，至于这本书是否对我有什么帮助，能获得到什么，这是我不会去考虑的，一直在用感觉主导我的兴趣；对于现在的来说：读这些说明我需要它，我急切的尽快的能够得到它，让它能够改变自己的一些思想行为，更好的完善自己。因为作者的人生经验、专业知识相对来说都比我要丰富的多得多，通过他的书让自己少些磕磕绊绊（就可避免来说）这也是意义之所在吧，man’s search 4 meanin’。</p><p>比对过去，我更多的开始带有思考和质疑去看了，我有我的观点，不一定存在清晰的谁对谁错的楚河汉界，作者出书是为了分享知识心得呢？还是为了职称来糊弄两下收取智商税呢？当开始知道对方的目动机、以及了解他做出此事的回报，一切将变得简单了，确实如此。</p><p>btw，漫画书也是存在能缓解疲劳保持兴趣的价值的，这是我在火车上所体会到的，提前准备一本全新的漫画书是能度过5小时的长途跋涉。看专业书的话，且不说装不装逼的事，只要自己能够有效提高那么做出的选择即是对的，在意旁人的看法干什么，庸人自扰之；看专业书的确很耗精力，本来火车上的条件也确实不适合。</p><p>此外，说一下我从纸质书-&gt;kindle-&gt;纸质书的过程，现在对此一个认知吧，纸质书确实有很多不便，但好处是很容易记笔记，印象会比电子书深刻，也没有看同一本电子书而言的快速疲劳，而且纸质书内容也是比电子书实际上是要多些的，电子书特别是涉及专业的一些图、代码示例要考虑到屏幕适配的问题，体验确实不好；当然，kindle也有它的优点，方便携带，非常适合看小说方面的书籍。</p><p>以及，我在 <a href="https://www.quora.com/profile/Joseph-Cho-9" target="_blank" rel="noopener">quora</a> 看到一个非常有启发性的几句话：</p><ul><li>If the world is giving you pain, learn to not pass that pain to others.</li><li>Not everyone is a good fit for you. You’re certain to get the worse end of the bargain if you exchange ideas with the wrong person.</li><li>Wealth is ideas turned into action.</li><li>Learn to read content on the internet with a critical eye (including this post).</li></ul><p>这也是我的一个 INWL 准则吧，现在就是，不断保持唤醒它，这也是我要做的事 DOIT.</p><!-- 我很感谢曾经拥有这样的历史、数学、语文、英语、专业的老师，他们至少培养我的兴趣；虽然他们是他们，但我是我，做出的选择优解才是最重要的。 -->]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 再谈读书时 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[一个人的时候]]></title>
-    <url>%2Fnote%2F2018%2F08-27%2Fdd84a5a3.html</url>
-    <content type="text"><![CDATA[一个人的时候，下起了雨，困了也会把书放在一边；八月已渐进尾声，当价值耗尽时，存在不相关的多余情感是多么的无聊…往往只会同情有价值的人，可不会怜悯一无是处且无利可图的人；死性不改，偏偏又难以狠下心来，时常忘记找寻意义需要做的，试试不爽的折腾也比闲适要来的爽快。 是否感到孤独？可以说当有人说到我是孤独的时候，可以说是的，以前没意识到我是孤独的，也一个人看看风景也很舒心，一个人坐在公园里喂鸽子也很有趣。当自己意识到孤独的时候，内心的确空虚少什么的东西似的，持续了好一段时间。 我有我自己对待事物态度的理解，这种他人见解让我庸人自扰是很无聊的，难道我就真的孤独吗？不，我还有你们，生命中真正重要的人，儿时的玩伴学长、以及我的亲表妹。一个不断的唤醒我的意识，一个是我的寄托，不会重蹈我的覆辙吧。 这父辈文化程度极低，他们意识极度落后给我带来现状的痛苦，我也曾直接或间接的向我身边最近为数不多的好友倾述过，大倒苦水；当他们向我倾诉时，我不是ta，也难以去理解当时处境下ta的痛苦，把ta当作耳旁风，甚至是烦人苍蝇；也渐渐明白原来这不是参加感动中国的，这是一个充满讥笑红朝核心价值观的社会。 所以，我也开始不再把这无聊的痛苦传递给别人，带来的也仅是毫无意义的，双方各自发泄令人厌烦的负面情绪，或是对方替你发泄负面情绪图一时爽快，最糟的也就是我可不想听你这垃圾情绪扰乱我的心情，滚远点！除此之外起不到任何真正的抉择性改善作用。 带着感情凭着感觉做事，始终都是那么荒诞，那么可笑；如果强制自己冷静下来，客观的分析各方面，也许那个就是接近答案的最大概率；我也就不会觉得曾经的自己是多么的可笑以及愚蠢。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月28日 星期二 晴</title>
+      <link href="/note/2018/08-28/6f0a78c1.html"/>
+      <url>/note/2018/08-28/6f0a78c1.html</url>
+      <content type="html"><![CDATA[<p>搭建项目初期，当在测试编码环境执行代码时，报出了一个令我可以说是一个令我意想不到的错误。HibernateQueryException: xxx is not mappad，这个实体并没有映射到，是什么原因呢？</p><ul><li>dataSource、sessionFactory 配置没问题阿，mappingLocations 没什么不对阿</li><li>Dep.hbm.xml 映射配置也是对的</li><li>ebug 、log4j 我的天，我肏他妈的还是一样，一点一点的调试追踪到报错也是没什么分别的</li></ul><p>左思右想还是觉得没什么不对的，有什么不对吗？好像没什么不对吧，偏偏这个地方却又报错了，什么意思？百度了半天结果也没用上，消耗了大量的时间和精力，很是犯困也很无奈。不过，在写这篇日记时，发现我的素养确实低到极点了，和初学者的确差不了两样。</p><p>在比对了源码之后，是不是环境问题阿，存在版本的差异问题阿？idea？eclipse？在eclipse上是可以运行的，idea却不行，奇了怪了，什么原因阿？难道 spring 加载 hibernate 映射文件的方式有问题吗？idea 与 eclipse 表现形式（结构）的差异在哪里呢？</p><p>最后将 mappingLocations 属性处把路径<code>/</code>替换成<code>.</code>就行了，费了半天的功夫得到了无奈可笑低价值的真理，细究之后还是idea与eclipse两者包与文件夹的概念。当然我也发现了我自身的一些严重问题：</p><ul><li>常常复制粘贴各种报错的信息直接百度，不爱多去想想错误的根源在哪</li><li>遇到问题时容易着急，当百度解决不了时只是各种无奈的挠头，很少去想其他解决办法</li><li>我始终不愿去尝试枚举各种错误的各种可能性，只是看一遍代码然后否决了这种可能性</li><li>很少会用大脑想想为什么会错？报错是什么意思？报错的根本原因是什么？以及通过怎样的方式查找？</li></ul>]]></content>
+      
       <categories>
-        <category>一个人的时候</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月25日 星期六 晴]]></title>
-    <url>%2Fnote%2F2018%2F08-25%2F335b0f52.html</url>
-    <content type="text"><![CDATA[]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>一个人的时候</title>
+      <link href="/note/2018/08-27/dd84a5a3.html"/>
+      <url>/note/2018/08-27/dd84a5a3.html</url>
+      <content type="html"><![CDATA[<p>一个人的时候，下起了雨，困了也会把书放在一边；八月已渐进尾声，当价值耗尽时，存在不相关的多余情感是多么的无聊…往往只会同情有价值的人，可不会怜悯一无是处且无利可图的人；死性不改，偏偏又难以狠下心来，时常忘记找寻意义需要做的，试试不爽的折腾也比闲适要来的爽快。</p><p>是否感到孤独？可以说当有人说到我是孤独的时候，可以说是的，以前没意识到我是孤独的，也一个人看看风景也很舒心，一个人坐在公园里喂鸽子也很有趣。当自己意识到孤独的时候，内心的确空虚少什么的东西似的，持续了好一段时间。</p><p>我有我自己对待事物态度的理解，这种他人见解让我庸人自扰是很无聊的，难道我就真的孤独吗？不，我还有你们，生命中真正重要的人，儿时的玩伴学长、以及我的亲表妹。一个不断的唤醒我的意识，一个是我的寄托，不会重蹈我的覆辙吧。</p><p>这父辈文化程度极低，他们意识极度落后给我带来现状的痛苦，我也曾直接或间接的向我身边最近为数不多的好友倾述过，大倒苦水；当他们向我倾诉时，我不是ta，也难以去理解当时处境下ta的痛苦，把ta当作耳旁风，甚至是烦人苍蝇；也渐渐明白原来这不是参加感动中国的，这是一个充满讥笑红朝核心价值观的社会。</p><p>所以，我也开始不再把这无聊的痛苦传递给别人，带来的也仅是毫无意义的，双方各自发泄令人厌烦的负面情绪，或是对方替你发泄负面情绪图一时爽快，最糟的也就是我可不想听你这垃圾情绪扰乱我的心情，滚远点！除此之外起不到任何真正的抉择性改善作用。</p><p>带着感情凭着感觉做事，始终都是那么荒诞，那么可笑；如果强制自己冷静下来，客观的分析各方面，也许那个就是接近答案的最大概率；我也就不会觉得曾经的自己是多么的可笑以及愚蠢。</p><!-- 外向->内向->有选择的外向 这是我的过程-->]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 一个人的时候 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月23日 星期四 晴]]></title>
-    <url>%2Fnote%2F2018%2F08-23%2Fc56370bf.html</url>
-    <content type="text"><![CDATA[勇敢面对现在的事实去改变吧 相信你能做到 Incorrect Password! No content to display! U2FsdGVkX1/QOXhgsnlfoICA5OPz4BsbkWZm7ZZOV92kvXE/uW49UcUgetV/dr0JcrAUd41CPDEL1fROBPY0rSlBi7HmDoe01zViJhXDHbHl64Fe+6rziCnchHq1u2BnMSSq0V2j8CWUirv95ekqziNtTc7K/Ejcg5bktymECrvU8dnwCbNL8qEnK7pFJgSWQ/wTjo6I/d9z0bFF+tkLBv79rlrUhZmG7tBEEz+4nLA0Bhl4FsJk37DBn7+OnymYrxxQl2QzXmjO+16kct/f8ekE9uRozsA/ZjwT6ZYDIEElA27wL6a/dRLwbZ1GXeyB0SkO4/O7WCttYMrXhpwJ9Pv1zgrjrlDriv5yWzTXQei+PpmlmdGS3rcCCw0lXOzudnwtLzuGOoFR7Tdd9y4G3xVQtJkrzRkzaAQyt+MwxpzuCzqDcnQrODallHzodmwD+60rqGkV0FBvtaQSFCFosa+ugq07p1BYGRDglZmvlGnqehzT8daAhAbBbAeP4amTTkzph/8lh7FBt8FWSQel6ltMxSLbsXvVZHVxhGSmiFWuvd5KGdoiND6lFSvZRKHCCO0DrnRXifpce7SVyfJTDGS3nifY1g5TuCmQEOscKQD7gbXHM2vgaHXfouDja5Q++P+V3nh5gJu3lhwWHk82zxQMi1XmQi8cK7RZeaCaMe1TjD2/Dm0g1Usmma3Fhjamf5b2byRD6ja0DX5hy23Pcxen8jPmoO7lTpSBW/lxXkP1cylz/QtZsriexHNgNYCGV2p+cISOtELTKc8HZDQCPqeQnUp1teJ/d7BEM4obOFLwCZwxqKSrNHvkbZtfShSucwfvlKJksJq3+8P1rHzKAk6Sig3h7lBU2WuBI+vXTjEEBecEVbir6r1xJNgX3aAngERZECXaCWt0Yga67C2K1UDybennVmD723ETC5tVD3cQgEBc98fediNQpzX0VhpyAIwSil0VdJTrJ7FfE9ucP5OEXLGNl0pRpKJ02tlP1QTvevu20bI00tzYzmEgqNbfTTRPVFrbjRJC2Qq3Pt9Dvv3guADr/6memxe9iNlgpxCzrKmEFvqcB6+aBIgG4YImp9SUJjWU6QhfC+AWRI+SSuN2QjM3+c5Yj/hraQ2cSoZuCC7NsxVsIMrgJIXButARJRR1J6SLIbgdQ7AaV1PO9tFySj/vuOXTKZO2lvszlJn5bngCTXcSJn04KS79BWQC6rWcjpmWHap6CazDbMmcz/ydbKCwNvTPgYEAdG7XyKfYlLaWLuAKCsfnPXcXOxvu]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月25日 星期六 晴</title>
+      <link href="/note/2018/08-25/335b0f52.html"/>
+      <url>/note/2018/08-25/335b0f52.html</url>
+      <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/FAOLmLAW-_E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen><br></iframe>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月22日 星期三 晴]]></title>
-    <url>%2Fnote%2F2018%2F08-22%2Ff8a79335.html</url>
-    <content type="text"><![CDATA[累死了，困死了，太拖了，效率太低了，唉，每次难道做事之前就不能问问自己不值得的？真是活该！ 没有从错误中吸取教训是失败的最快途径，通往不幸福的最快途径是不断看到别人拥有的东西，这是我应该记住的，不要在意别人的物质条件。因为对我来说的确没用，除了人是认识或知道的，其他的没有半毛钱关系，他们得到的物质生活与我无关。 这个红朝的虚伪给我带来很多痛苦，该怎样学会不要把这种痛苦传递给别人呢？对于我来说，现在获得感动中国的同情是件非常无聊的事情了。一边学习，一边接受着教条，好久好久没有…十年都没有真正用脑想过事了，都是凭感觉那种忽视客观条件的感觉，如今我要摆脱它。 Being infatuated with someone pulls you away from your real goals.Not everyone is a good fit for you. You’re certain to get the worse end of the bargain if you exchange ideas with the wrong person. 现在学起来真是很痛，在这种不舒服难受的感觉里就不能问问自己不值得的？难道就不能始终努力成为自己的最佳版本？ 相信吧，坚持，全身心的付出，总有一天它会好起来的，越了解成功率越大。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月23日 星期四 晴</title>
+      <link href="/note/2018/08-23/c56370bf.html"/>
+      <url>/note/2018/08-23/c56370bf.html</url>
+      <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="security">  <div class="input-container">  <input type="password" class="form-control" id="pass" placeholder="勇敢面对现在的事实去改变吧 相信你能做到" />    <label for="pass">勇敢面对现在的事实去改变吧 相信你能做到</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX19p9SftPB7UTHqmgLw76ahnV6h60giDFhRwyQg8RGLzp+nE4scE0l5iLiXurZqbWzGHsEUosG8QFtDRNCxbGWhh+CdI8O7QJosJfcmqsmhtw0u1UJ67QHG6V++id+VptqygItp/n+dcAxKS/QY2Fb+gIOWHGTjr8R1KDWWVmaepCTXzybTqRQmvhVN2ZHzpGQCk2pVasm/9Se7VYCoqSgOyyqNdxYB1Pb7bH5bjKlG9dhJcCTuRkQK/T+OQ25bwA1BUa2cWdMhnMyvIxxxuxyoAtBIva/dMX8luXU6u0POENoCiA9rNt0EzkppOeL1nkRfm1YVPmd8mjGIN6MAP2vH4dOPPGAzw6fZMQQ5bTmLeoekVDsRFSY+iYQp6IoOyb7dU41/qea8KbQDWwuGS3MZfl3DryztHDMv0O1H1MaC9oVo7BBU/igxnNvRhBbG8ttVodlY6/S12Ms2lXHWTMcieykXnHMvw53t1yPg8lp5IrIYCvCxei9TCnhXaL7N8uE12aNc4K+U8h/ND6AKHpYrcT4w1NuaZg7A1zAGY989tHSBC+WYcII9gn8CST0xsXwDniTC5bMu0MEhVc+WJ0cvp6BZWf3hjiSDp+Oe4ryaKfm7lGKt1YiBm/SXLjmDP+sTU8BJYnK18PqNr3tD2OKJgM4Tl+zfPrKZWigXqWeiKKcSDD9j2WrNBf+olS+BgpR4jiW3LidGfyFtFzgriOaiwrG9WFGi3ArWQBjR957DLHRZ4VTMxPf0+E8qtscO4BIXemMvIj5do2VdlJLdGyEQcSm0SMzvCH1JHNz+i+KSxfLLYmqAP6W+wmP/3CU5gdHrGiFRTjuTTsUV6XXKWeMf/pv7NpwGe5br8JbUunS82hwaurFOtynmsfbCJsiYDCyLSusmj+ahDnyMuLAPUTUS3afG3nMrBUjwa+B7IepiGixNiFuE3YJca7lqeE2+W8d7+dV1MWpqjmpm6x0G7IPRUGNpqQ8yt6N6ju6dWRjmBKVqc4d05RRRRs4GsZ/hJIj78+iO2bhNHKhwmTNTtIGzcS983/OxDeccMJuTZ5/CoD76V0DtoyyI/meiyZz6SBnHJlQ/p65d/djirSe3OL1542ib5lNqTyNYA8u2alqWn3Ecy8qbRK1XI5yJNeuDaPoBTP4ZTbFTQUq/hKRhDGx0vNBuhCJYA85PrYFEWb798XxIY6NPvti8qpGPyXyhpdh6eet8yrIifx+LEQaKkH4DcZ13OZhs/G/IVN/xXc2DyGBO6HV0wSOiI</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月18日 星期六 晴]]></title>
-    <url>%2Fnote%2F2018%2F08-18%2Fd948a4d7.html</url>
-    <content type="text"><![CDATA[这错的，40题的及格线，我才只对18题共36分…]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月22日 星期三 晴</title>
+      <link href="/note/2018/08-22/f8a79335.html"/>
+      <url>/note/2018/08-22/f8a79335.html</url>
+      <content type="html"><![CDATA[<p>累死了，困死了，太拖了，效率太低了，唉，每次难道做事之前就不能问问自己不值得的？真是活该！</p><p>没有从错误中吸取教训是失败的最快途径，通往不幸福的最快途径是不断看到别人拥有的东西，这是我应该记住的，不要在意别人的物质条件。因为对我来说的确没用，除了人是认识或知道的，其他的没有半毛钱关系，他们得到的物质生活与我无关。</p><p>这个红朝的虚伪给我带来很多痛苦，该怎样学会不要把这种痛苦传递给别人呢？对于我来说，现在获得感动中国的同情是件非常无聊的事情了。一边学习，一边接受着教条，好久好久没有…十年都没有真正用脑想过事了，都是凭感觉那种忽视客观条件的感觉，如今我要摆脱它。</p><p>Being infatuated with someone pulls you away from your real goals.Not everyone is a good fit for you. You’re certain to get the worse end of the bargain if you exchange ideas with the wrong person.</p><p>现在学起来真是很痛，在这种不舒服难受的感觉里就不能问问自己不值得的？难道就不能始终努力成为自己的最佳版本？</p><p>相信吧，坚持，全身心的付出，总有一天它会好起来的，越了解成功率越大。</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月17日 星期五 阴]]></title>
-    <url>%2Fnote%2F2018%2F08-17%2F78f4f03f.html</url>
-    <content type="text"><![CDATA[因为凭感觉做事，因此也得罪过或是伤害不少人，为此真的，真的想向他们说句“对不起”；不过我也从他们的联系名单中蒸发了，至少我是没有从小学到职校的任何留下来的回忆事物，因为我也把它们全烧了。不过，烧掉它们过后，每次重新来过，其实我并不过得怎么好… 每次只凭感觉做事，每次的现实总会给我敲碎头骨的一重锤，让我绝望和麻木；为什么我就不能停下来想想呢？是啊，多等一天也并没有多少成本，频繁的来回仅车费的确是巨大的花销。我仅是对现实带给我的感受，而不去想想为什么，光看着问题干瞪眼，脑子一片空白…也不去主动寻找答案，哪怕它是错的。 以及，你在学习别人的一些学习笔记或者问题解决方案时，也要注意去思考，不要照抄解决问题后就什么都不想了。在不清楚对方每行代码的意义时就直接照抄，这是大忌。你要多去思考，为什么这样会解决，是否有其他的解决方案，改变其中的某些代码会怎么样？当然，官方文档除外，毕竟官方自己写的API，当然拥有最终解释权 —— 关于demo&amp;project的其中一段对话 现在才开始发觉自己的学习效率可谓相当低下，自己还是不由自主的犯着大忌，头昏昏沉沉跟高原缺氧似的。阴雨天其实很正常，但总会影响着我的主观情绪，阴郁沉闷。 发现问题不去主动应对，看着、等着结果恶化，每次付出的代价都特别大，真不是件好事情啊！]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月18日 星期六 晴</title>
+      <link href="/note/2018/08-18/d948a4d7.html"/>
+      <url>/note/2018/08-18/d948a4d7.html</url>
+      <content type="html"><![CDATA[<p>这错的，40题的及格线，我才只对18题共36分…</p><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="http://p2.cdn.img9.top/ipfs/QmSBfeEHeMkFXS1ejAdJFRMbRigkaXf7EMoVJGDd1NmUoa?2.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="http://p3.cdn.img9.top/ipfs/QmVa5z4U9Hjo1qajx2yoAD1vuRUXec4LieyVfHM3s8ZnYj?3.png" alt=""></div></div><div class="group-picture-row"></div></div></div>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月16日 星期四 暴雨]]></title>
-    <url>%2Fnote%2F2018%2F08-16%2F25b5b202.html</url>
-    <content type="text"><![CDATA[可能以后不会花上太多的时间写日记了，因为一天所记录的东西实在太多太多…能够留有一些时间写的话，也是在书上或是停留在脑海里；当然，也有很大的可能，我会忘记… （一） 乘坐火车已有4小时了，在这期间，火车上的销售员推销各种产品，给我很多思考： 如果我没有实际体会过宾馆里的一次性牙刷，我又该怎样知道他说的是假话呢？ 那些人难道不知道火车上的东西多是没好货，而又为什么要买他的牙刷呢？ 销售员深情并茂地讲解，难道连他自己都相信了吗？ 万一有抬杠的，他该怎么处理？ 也在这期间中，翻看了我最喜爱的莎拉漫画，莎拉漫画有很多的梗需要自己去联想，也是少有能让我这个笨蛋去思考、去联想的漫画。漫画也很快的看完了，相对于其他书籍来说。当然，乘坐深夜凌晨的火车很累，听着偶像的歌，部分同感也是若有所思，打着瞌睡，茶叶只让我提神了一小会儿。 经过耒阳车站，我知道还有一个多小时左右就要到了，我也开始打破了沉闷，就询问坐在旁边的女生去哪里？其实我心里非常害怕“关你事？”或是“你问这干什么？”会让我感到尴尬不知道如何解围，而在随后的对话中让我明白了： 原来开口说话其实也是挺简单的一件事，有时对方并不会向我想的那么多… 我的手机没电了，你的漫画书能充电吗？ 出站后立马拼车回家，到家中洗了个澡，躺在床上死死地睡着… （二） 在家中写demo危机感满满，又回了电话过去询问下进展情况；继续写着，我的天！我基本上知识都忘得好彻底阿，危机，危机，除了这个词，我还真想不到别的；头昏昏的，这些手动做中学的demo，给了我一次质的刷新，真的好难，好难。 还有很多书没看阿，忽然发觉时间真的好紧张，争分夺秒的，而我其实就是那个慢悠悠的，常不时忘记自觉或是不自觉地忘记或是没意识想到我的目地，这种感觉一直是我无法察觉的，每次都是事后，哎呀！卧槽！好累来不及看书了，睡觉去吧，明天还有好多事等着我呢，很多次我都是了解到一半就没进行下去了…当危机来临，我基本上是看着它发生而又束手无策不知如何应对，基本上是非常沮丧，感慨的无奈… 我记录错误的收藏夹也是非常的乱，万一哪天重装系统又没了呢？而且下次又出现这个错误又该怎么办？是继续让其发生，还是真正去除这些所在隐患？为什么我始终无法一开始去分析原因，而一开始就直接无脑的百度呢？再者问题怎么老是分析不出所以然来？每次遇到百度所没有的就真的难道束手无策了吗？我为什么不能从多种或是假设多种可能性去思考问题？ splendideviljokerthesecondjokerarrangedXIIIXI2003 （三） 在说到别人身上的同时，我又何尝不是那个把自己的事当作别人应该去完成的事的那个人呢？在遇到让我觉得别人不应该问这种很蠢的问题时，其实自己在问别人问题的同时，自己何尝不是那个问愚蠢问题的小白呢？还是要真正去了解一个东西，不然所谓的萌新不就是蠢货一个吗？]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月17日 星期五 阴</title>
+      <link href="/note/2018/08-17/78f4f03f.html"/>
+      <url>/note/2018/08-17/78f4f03f.html</url>
+      <content type="html"><![CDATA[<p>因为凭感觉做事，因此也得罪过或是伤害不少人，为此真的，真的想向他们说句“对不起”；不过我也从他们的联系名单中蒸发了，至少我是没有从小学到职校的任何留下来的回忆事物，因为我也把它们全烧了。不过，烧掉它们过后，每次重新来过，其实我并不过得怎么好…</p><p>每次只凭感觉做事，每次的现实总会给我敲碎头骨的一重锤，让我绝望和麻木；为什么我就不能停下来想想呢？是啊，多等一天也并没有多少成本，频繁的来回仅车费的确是巨大的花销。我仅是对现实带给我的感受，而不去想想为什么，光看着问题干瞪眼，脑子一片空白…也不去主动寻找答案，哪怕它是错的。</p><p><img src="http://p3.cdn.img9.top/ipfs/QmV6kRjsTu3GGnYjoVVJRAqUamXNBepmxZxj2hDdNygdJQ?3.png" alt=""></p><p><img src="http://p2.i.img9.top/ipfs/QmRSp66yDNGFZJEcyyVRMZHgpwCcXUABt1P6Hrn2ideRKx?2.png" alt=""></p><p><img src="http://p2.i.img9.top/ipfs/QmP7cDqKuN7VHtv5pbE7LwZJSHkdm4uJqDJ432DHifitwZ?2.png" alt=""></p><p><img src="http://p2.i.img9.top/ipfs/QmNuePB1YHmJhDeCmmYeSXGYG7GtMj2XheVpnHkxcvGH8i?2.png" alt=""></p><blockquote><p>以及，你在学习别人的一些学习笔记或者问题解决方案时，也要注意去思考，不要照抄解决问题后就什么都不想了。在不清楚对方每行代码的意义时就直接照抄，这是大忌。你要多去思考，为什么这样会解决，是否有其他的解决方案，改变其中的某些代码会怎么样？当然，官方文档除外，毕竟官方自己写的API，当然拥有最终解释权 —— 关于demo&amp;project的其中一段对话</p></blockquote><p>现在才开始发觉自己的学习效率可谓相当低下，自己还是不由自主的犯着大忌，头昏昏沉沉跟高原缺氧似的。阴雨天其实很正常，但总会影响着我的主观情绪，阴郁沉闷。</p><p>发现问题不去主动应对，看着、等着结果恶化，每次付出的代价都特别大，真不是件好事情啊！</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月15日 星期三 暴雨转晴]]></title>
-    <url>%2Fnote%2F2018%2F08-15%2F55a26828.html</url>
-    <content type="text"><![CDATA[事实其实这就是这样 令人难以接受 也必须接受 接受也就自然无所谓了 都是正常且合理的现象 正如这张图一样 想了解的 自然会去弄明白 不想了解的 也一直不会明白存在这某种关联]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月16日 星期四 暴雨</title>
+      <link href="/note/2018/08-16/25b5b202.html"/>
+      <url>/note/2018/08-16/25b5b202.html</url>
+      <content type="html"><![CDATA[<p>可能以后不会花上太多的时间写日记了，因为一天所记录的东西实在太多太多…能够留有一些时间写的话，也是在书上或是停留在脑海里；当然，也有很大的可能，我会忘记…</p><center>（一）</center><p>乘坐火车已有4小时了，在这期间，火车上的销售员推销各种产品，给我很多思考：</p><ul><li>如果我没有实际体会过宾馆里的一次性牙刷，我又该怎样知道他说的是假话呢？</li><li>那些人难道不知道火车上的东西多是没好货，而又为什么要买他的牙刷呢？</li><li>销售员深情并茂地讲解，难道连他自己都相信了吗？</li><li>万一有抬杠的，他该怎么处理？</li></ul><p>也在这期间中，翻看了我最喜爱的莎拉漫画，莎拉漫画有很多的梗需要自己去联想，也是少有能让我这个笨蛋去思考、去联想的漫画。漫画也很快的看完了，相对于其他书籍来说。当然，乘坐深夜凌晨的火车很累，听着偶像的歌，部分同感也是若有所思，打着瞌睡，茶叶只让我提神了一小会儿。</p><p>经过耒阳车站，我知道还有一个多小时左右就要到了，我也开始打破了沉闷，就询问坐在旁边的女生去哪里？其实我心里非常害怕“关你事？”或是“你问这干什么？”会让我感到尴尬不知道如何解围，而在随后的对话中让我明白了：</p><ul><li>原来开口说话其实也是挺简单的一件事，有时对方并不会向我想的那么多…</li><li>我的手机没电了，你的漫画书能充电吗？</li></ul><p>出站后立马拼车回家，到家中洗了个澡，躺在床上死死地睡着…</p><center>（二）</center><p>在家中写demo危机感满满，又回了电话过去询问下进展情况；继续写着，我的天！我基本上知识都忘得好彻底阿，危机，危机，除了这个词，我还真想不到别的；头昏昏的，这些手动做中学的demo，给了我一次质的刷新，真的好难，好难。</p><p>还有很多书没看阿，忽然发觉时间真的好紧张，争分夺秒的，而我其实就是那个慢悠悠的，常不时忘记自觉或是不自觉地忘记或是没意识想到我的目地，这种感觉一直是我无法察觉的，每次都是事后，哎呀！卧槽！好累来不及看书了，睡觉去吧，明天还有好多事等着我呢，很多次我都是了解到一半就没进行下去了…当危机来临，我基本上是看着它发生而又束手无策不知如何应对，基本上是非常沮丧，感慨的无奈…</p><p>我记录错误的收藏夹也是非常的乱，万一哪天重装系统又没了呢？而且下次又出现这个错误又该怎么办？是继续让其发生，还是真正去除这些所在隐患？为什么我始终无法一开始去分析原因，而一开始就直接无脑的百度呢？再者问题怎么老是分析不出所以然来？每次遇到百度所没有的就真的难道束手无策了吗？我为什么不能从多种或是假设多种可能性去思考问题？</p><p>splendideviljokerthesecondjokerarrangedXIIIXI2003</p><center>（三）</center><p>在说到别人身上的同时，我又何尝不是那个把自己的事当作别人应该去完成的事的那个人呢？在遇到让我觉得别人不应该问这种很蠢的问题时，其实自己在问别人问题的同时，自己何尝不是那个问愚蠢问题的小白呢？还是要真正去了解一个东西，不然所谓的萌新不就是蠢货一个吗？</p><p><img src="http://p4.cdn.img9.top/ipfs/QmV3y48cBqMveWEbCyVJLcv6iQB95CnAbdqiZNP3tLFLqd?4.png" alt=""><br><img src="http://p4.i.img9.top/ipfs/QmX1gMBeV85KnLnJTTamUhGEHPyzmDGD6F48JvFBKwPLtv?4.png" alt=""></p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月14日 星期二 晴]]></title>
-    <url>%2Fnote%2F2018%2F08-14%2F60a95ef.html</url>
-    <content type="text"><![CDATA[今天大概11:40左右买好13:26去株洲的票（我就知道不是k355就是k356，三年往返就没变过…），吃了午饭后前往家中收拾打包后出发，当我在车站拼车时，顺便打开手机看了下时间，发现只剩下一个小时了，便询问的士是否能够一小时到达火车站，看样子时间很是吃紧，一小时真是难说。 接着放弃了拼车的念头，较为快速地乘车前行了，出发时司机还抱怨我为什么不早点说；他似乎很急比我这赶火车的还着急1，车开的很快像是投胎的那种；我真的有些担心会出事2，不过我也没叫他开慢点，因为我自己本身也比较赶时间，抱着“万一赶上了火车呢？”的一种侥幸心理；之后等了会儿红绿灯，又顺便付完乘车费后，心里寄望3这次火车能够晚点了；看着沿途快速倒退的风景，心里也没想什么，仅是专注地看着，大概十来二十分钟左右到站了，打开手机竟然是提前了大约二十分钟左右；加上专乘的钱都可以坐高铁了，大意枉费冤枉钱阿（也不冤枉）。 下车后奔跑着，我感受到了生命的追逐，大太阳下所燃烧身体散发的热量，气喘吁吁像极了一条狗。坐上了去往株洲的火车后整4小时半，我几乎与没参与同座、对座的任何话题，一如既往地保持着沉默，我似乎觉得与这火车喧嚣的气氛显得格格不入（本来就是）。在这期间，我没有翻看我最爱的莎拉漫画，当然也就没有翻看我最珍爱的一张老旧经扫描翻新过的照片。看着车窗外的天气变化，我居然没去关心目的地的近期天气状况，实属不该。 带着一丝倦意出站后，向行李寄存处的大叔打听附近住宿的位置，随后在一位肥胖且臃肿的大妈的指引下，来到了她所开的家庭旅馆，封闭沉闷的单间，让我感觉到压抑，准备我要离开时，大妈也准备留住我开出更好的环境条件，借着大妈的指引我去了其他的招待所入住。 1：其实我也很急，情绪的麻木与“赶不上火车那也没办法，只能改票，必须接受这事实，这是正常现象”的想法让我平静了下来 2：因为他开车已经很快了，我也关上了手机不去看时间。因为怕一说时间，在本来挺急的情况下刺激他，恐怕真会出事，还有就是看时间对自己情绪上的干扰；但超车的那时候，也差一点也就真出事了 3： 之所以没用“祈祷”这词，是因为对我来说这词的宗教意识有些浓厚，而且我也不信宗教。在经历看似命中注定（能得到合理解释且必然发生）的过去事件，我也明白了为什么有些人开始信仰宗教了 做出的每种选择都有其的合理性，但不能代表做出这一确定选择的必然性，之后的事情的必然，我觉得也是预料不到的，只能推测概率高低，至少我觉得如此，这也是我没选择信仰宗教的理由]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月15日 星期三 暴雨转晴</title>
+      <link href="/note/2018/08-15/55a26828.html"/>
+      <url>/note/2018/08-15/55a26828.html</url>
+      <content type="html"><![CDATA[<p>事实其实这就是这样 令人难以接受 也必须接受 接受也就自然无所谓了 都是正常且合理的现象 正如这张图一样 想了解的 自然会去弄明白 不想了解的 也一直不会明白存在这某种关联</p><p><img src="http://p4.cdn.img9.top/ipfs/QmdfFkorRZLCo8ZHb3cHRizhJPRe8QrRrTxDVy1adouuYE?4.jpg" alt=""></p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月13日 星期一 晴（其三）]]></title>
-    <url>%2Fnote%2F2018%2F08-13%2F6efa9c57.html</url>
-    <content type="text"><![CDATA[在slack里下载几首歌，喝着咖啡无聊地循环着；其中的两首歌是在我艺术生的期间接触到的，最后一首是关于我的偶像的；大屁股和钢牙妹是音乐系的，速写中最好的一张是贞子的，那时名列前茅的我，可不像现在的这么内向；真正知道我的过去的人真是少数。（自然卷还是自然卷，喜欢重复同一件卫衣的人） 又看见在群里或向我个人诉说他被网络诈骗一事，可谁没被骗过呢？不同的也仅是智商税交的多少罢了；真是多去思考不同的可能性，能很大机率避免这一问题的出现；有时站在旁观者的角度真的会思考更多，又进行对人性善恶的探讨。 戒烟后患上了糖分依赖症，失去糖之后真的很抓狂，还有一些潜在抑郁、分裂等不稳定因素都是需要克服的；一向都极端反感酸的，买瓶苹果醋尝鲜借此深夜提神；简直是天地通用一样，结果搞得整个人都不好了（作）…烦死了啊啊啊啊啊！！！]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月14日 星期二 晴</title>
+      <link href="/note/2018/08-14/60a95ef.html"/>
+      <url>/note/2018/08-14/60a95ef.html</url>
+      <content type="html"><![CDATA[<p>今天大概11:40左右买好13:26去株洲的票（我就知道不是k355就是k356，三年往返就没变过…），吃了午饭后前往家中收拾打包后出发，当我在车站拼车时，顺便打开手机看了下时间，发现只剩下一个小时了，便询问的士是否能够一小时到达火车站，看样子时间很是吃紧，一小时真是难说。</p><p>接着放弃了拼车的念头，较为快速地乘车前行了，出发时司机还抱怨我为什么不早点说；他似乎很急比我这赶火车的还着急<sup>1</sup>，车开的很快像是投胎的那种；我真的有些担心会出事<sup>2</sup>，不过我也没叫他开慢点，因为我自己本身也比较赶时间，抱着“万一赶上了火车呢？”的一种侥幸心理；之后等了会儿红绿灯，又顺便付完乘车费后，心里寄望<sup>3</sup>这次火车能够晚点了；看着沿途快速倒退的风景，心里也没想什么，仅是专注地看着，大概十来二十分钟左右到站了，打开手机竟然是提前了大约二十分钟左右；加上专乘的钱都可以坐高铁了，大意枉费冤枉钱阿（也不冤枉）。</p><p>下车后奔跑着，我感受到了生命的追逐，大太阳下所燃烧身体散发的热量，气喘吁吁像极了一条狗。坐上了去往株洲的火车后整4小时半，我几乎与没参与同座、对座的任何话题，一如既往地保持着沉默，我似乎觉得与这火车喧嚣的气氛显得格格不入（本来就是）。在这期间，我没有翻看我最爱的莎拉漫画，当然也就没有翻看我最珍爱的一张老旧经扫描翻新过的照片。看着车窗外的天气变化，我居然没去关心目的地的近期天气状况，实属不该。</p><p>带着一丝倦意出站后，向行李寄存处的大叔打听附近住宿的位置，随后在一位肥胖且臃肿的大妈的指引下，来到了她所开的家庭旅馆，封闭沉闷的单间，让我感觉到压抑，准备我要离开时，大妈也准备留住我开出更好的环境条件，借着大妈的指引我去了其他的招待所入住。</p><p>1：其实我也很急，情绪的麻木与“赶不上火车那也没办法，只能改票，必须接受这事实，这是正常现象”的想法让我平静了下来</p><p>2：因为他开车已经很快了，我也关上了手机不去看时间。因为怕一说时间，在本来挺急的情况下刺激他，恐怕真会出事，还有就是看时间对自己情绪上的干扰；但超车的那时候，也差一点也就真出事了</p><p>3： </p><ul><li><p>之所以没用“祈祷”这词，是因为对我来说这词的宗教意识有些浓厚，而且我也不信宗教。在经历看似命中注定（能得到合理解释且必然发生）的过去事件，我也明白了为什么有些人开始信仰宗教了</p></li><li><p>做出的每种选择都有其的合理性，但不能代表做出这一确定选择的必然性，之后的事情的必然，我觉得也是预料不到的，只能推测概率高低，至少我觉得如此，这也是我没选择信仰宗教的理由</p></li></ul>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月13日 星期一 晴（其二）]]></title>
-    <url>%2Fnote%2F2018%2F08-13%2F23e43f05.html</url>
-    <content type="text"><![CDATA[humble? 错了，其实我的英语确实很差啊… your english is better than mine lol 真是阿谀之词，如果不是英语水平过低，面对这些浮夸之词又是否还能有自知之明呢？真是 flatter me 我觉得编码方面是可以被一些框架限定死，但是只是一直用定性的词，不管是浮夸也好，贬低也罢去永久长期衡量一个人，真是最大失误，说到这里我想避免这些。此一时，彼一时吧，想一下现在的回报与分析潜在的收益，又是否值得我与之交往，真诚以待呢？ 现在技术群也存在大量的年青，散发无聊的荷尔蒙情绪，我可不想被这些畜牲所影响，对于我来说理性必须要大于情绪，每次尝试地去做到是强制的、挣扎的、不情愿的；即便如此，还是要坚持下去。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月13日 星期一 晴（其三）</title>
+      <link href="/note/2018/08-13/6efa9c57.html"/>
+      <url>/note/2018/08-13/6efa9c57.html</url>
+      <content type="html"><![CDATA[<p>在slack里下载几首歌，喝着咖啡无聊地循环着；其中的两首歌是在我艺术生的期间接触到的，最后一首是关于我的偶像的；大屁股和钢牙妹是音乐系的，速写中最好的一张是贞子的，那时名列前茅的我，可不像现在的这么内向；真正知道我的过去的人真是少数。（自然卷还是自然卷，喜欢重复同一件卫衣的人）<br><img src="http://p0.cdn.img9.top/ipfs/QmTD35g2NNTidWMdu3CeDxpXhWvGvxUow4BhKbub8ta997?0.png" alt=""></p><p>又看见在群里或向我个人诉说他被网络诈骗一事，可谁没被骗过呢？不同的也仅是智商税交的多少罢了；真是多去思考不同的可能性，能很大机率避免这一问题的出现；有时站在旁观者的角度真的会思考更多，又进行对人性善恶的探讨。</p><p><img src="http://p1.cdn.img9.top/ipfs/QmNgiHW2vCnBgqwbQpt63dgwZyQjKrVkWCXonJYGZYwAB6?1.png" alt=""></p><p>戒烟后患上了糖分依赖症，失去糖之后真的很抓狂，还有一些潜在抑郁、分裂等不稳定因素都是需要克服的；一向都极端反感酸的，买瓶苹果醋尝鲜借此深夜提神；简直是天地通用一样，结果搞得整个人都不好了（作）…烦死了啊啊啊啊啊！！！</p><p><img src="http://p3.cdn.img9.top/ipfs/QmQKbFiBB1V7qcUMUPM4BpPpAX6rvtH87zDM5CsV3dVkww?3.jpg" alt=""></p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月13日 星期一 晴（其一）]]></title>
-    <url>%2Fnote%2F2018%2F08-13%2Fb9b3c10c.html</url>
-    <content type="text"><![CDATA[聊着天也只是为了深夜的解闷，打开手机点开微信；我可不想看着与我无关的朋友圈，小红点像是令人生厌的渣滓；我对垃圾也产生不了任何的兴趣，渣滓。 我若真想看朋友圈，进人qq空间的话，无非就是我真的开始想了解（基础印象，值得炫耀的东西，虽然并不太可靠）这个人罢了。对一头猪说一堆多余的废话，不理不睬，浪费表情又费口舌的事，我可不想做第二回。引用这位失恋的说说吧： 能让你伤心的，都是你在乎的人；带给你痛苦的，全是你认真的情。不要以为你珍惜，别人就会在意；更不要觉得你死心塌地，他人就能一心一意。再多的关心，感动不了不爱你的心；再长的等待，等不来不想你的人。你舍不得，要看值不值得；你放不下，有没有等同的报答。记住一句话：爱你的人，不会让你痛；想你的人，不会让你等！在感情中，追来的很累，强求的不美。想你的人，总会主动找你；不想你的人，找了也是不睬不理。一直的低三下四，只能贬低了自己；再三的委曲求全，只能难为着自己 虽然话说得绝对了些，但这种概率可一点都不低阿，把这句话当做警示吧。 再多的关心，感动不了不爱你的心 就以这句话来说，很大可能在十分落魄的时候失效吧…换句话说关心还不足以直击心灵的感动，回归常态后又是不爱，也真不好说…唉，如果她们真能坚守（事实上也不可能）的话，至少我现在（已经没资格了）会找大屁股与钢牙妹她们俩。 刚才又翻看群里的聊天记录，看着车祸现场，我还带着一丝非冷笑的笑容，甚至感受不到血腥画面带给我的血腥，当我在打着字的时候才略带一点；想了一会，如果是我的话，还能不能像他一样保持镇静拍着照？我会不会崩溃？想到这些，他也挺让我佩服的。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月13日 星期一 晴（其二）</title>
+      <link href="/note/2018/08-13/23e43f05.html"/>
+      <url>/note/2018/08-13/23e43f05.html</url>
+      <content type="html"><![CDATA[<p>humble? 错了，其实我的英语确实很差啊… your english is better than mine lol 真是阿谀之词，如果不是英语水平过低，面对这些浮夸之词又是否还能有自知之明呢？真是 flatter me</p><p><img src="http://p2.cdn.img9.top/ipfs/QmZSfd2Hmy7sjbNGP1XQEwzAfnvkd4rSatvW3nVn9VMHSv?2.png" alt=""></p><p>我觉得编码方面是可以被一些框架限定死，但是只是一直用定性的词，不管是浮夸也好，贬低也罢去永久长期衡量一个人，真是最大失误，说到这里我想避免这些。此一时，彼一时吧，想一下现在的回报与分析潜在的收益，又是否值得我与之交往，真诚以待呢？</p><p>现在技术群也存在大量的年青，散发无聊的荷尔蒙情绪，我可不想被这些畜牲所影响，对于我来说理性必须要大于情绪，每次尝试地去做到是强制的、挣扎的、不情愿的；即便如此，还是要坚持下去。</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月12日 星期日 晴]]></title>
-    <url>%2Fnote%2F2018%2F08-11%2F3ea57153.html</url>
-    <content type="text"><![CDATA[想不到qq空间关闭以后，还是能够发消息的，个人中心对于现在（可能将来）的我来说是已经用不上了。 人和事物是独立存在的个体，但总会把散发消息的人和散发消息的事物关联起来，而去肯定这必定是“你”本身所发生的事，并不会质疑这真的是“你”吗？除了你还有谁与这个事物相关联呢？这个真正与事物相关联的人是否与“你”有直接的联系？ 假定是“你”，根据“你”的条件以及当前所处的环境符合“你”发送消息上的事物可能性有多大？当然，在不了解对方的情况下（掌握对方的信息较少），消息人和事物并不发生在这个消息人身上的可能性非常高。假若他肯定，那也不能直接认定就是他所发生的事，因为仅通过一张图的信息证明还是太少了。 如果不去思考的话，信息真会误导我们，就像这篇日记，表面上看是8月11日，但在编辑的时候已经是12日1点左右了，事物的发展真的，永远是动态的，用静态的思维及定性的词汇去描述一个动态的事物永远是错误的，也仅在当前有效，并不保证以后有效。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月13日 星期一 晴（其一）</title>
+      <link href="/note/2018/08-13/b9b3c10c.html"/>
+      <url>/note/2018/08-13/b9b3c10c.html</url>
+      <content type="html"><![CDATA[<p>聊着天也只是为了深夜的解闷，打开手机点开微信；我可不想看着与我无关的朋友圈，小红点像是令人生厌的渣滓；我对垃圾也产生不了任何的兴趣，渣滓。</p><p>我若真想看朋友圈，进人qq空间的话，无非就是我真的开始想了解（基础印象，值得炫耀的东西，虽然并不太可靠）这个人罢了。对一头猪说一堆多余的废话，不理不睬，浪费表情又费口舌的事，我可不想做第二回。引用这位失恋的说说吧：</p><blockquote><p>能让你伤心的，都是你在乎的人；带给你痛苦的，全是你认真的情。不要以为你珍惜，别人就会在意；更不要觉得你死心塌地，他人就能一心一意。再多的关心，感动不了不爱你的心；再长的等待，等不来不想你的人。你舍不得，要看值不值得；你放不下，有没有等同的报答。记住一句话：爱你的人，不会让你痛；想你的人，不会让你等！在感情中，追来的很累，强求的不美。想你的人，总会主动找你；不想你的人，找了也是不睬不理。一直的低三下四，只能贬低了自己；再三的委曲求全，只能难为着自己</p></blockquote><p>虽然话说得绝对了些，但这种概率可一点都不低阿，把这句话当做警示吧。</p><blockquote><p>再多的关心，感动不了不爱你的心</p></blockquote><p>就以这句话来说，很大可能在十分落魄的时候失效吧…换句话说关心还不足以直击心灵的感动，回归常态后又是不爱，也真不好说…唉，如果她们真能坚守（事实上也不可能）的话，至少我现在（已经没资格了）会找大屁股与钢牙妹她们俩。</p><p>刚才又翻看群里的聊天记录，看着车祸现场，我还带着一丝非冷笑的笑容，甚至感受不到血腥画面带给我的血腥，当我在打着字的时候才略带一点；想了一会，如果是我的话，还能不能像他一样保持镇静拍着照？我会不会崩溃？想到这些，他也挺让我佩服的。</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月11日 星期六 晴]]></title>
-    <url>%2Fnote%2F2018%2F08-11%2F9ba55efd.html</url>
-    <content type="text"><![CDATA[我也体会到好心当作驴肝肺的原因了，当然不是以我的角度来说的，而是站在网友的立场来说的。首先，一开始从微信转到qq向我发来“成长靠自己，发展来谭州”的链接标语。接着，向我发来消息：“我朋友同学公司招聘，可以了解一下，是做网络教育的”。 已经很明显了，是潭州这恶名昭彰的培训机构，看着她发来的链接，我无语了好一会…之后她又接着发来：“怎么，你是不打算找工作了？”。于是我问道：“你把一个培训机构推荐给我是什么意思？”，她是这样向我解释的：“他们是培训老师又不是要你去培训，之前都是从助理开始的，然后再做讲师”。 一个培训机构可以说连小型项目流程都达不了标，就某些水准也只能是唬小孩。在我看来，多数培训机构除了能锻炼传销的口才，其实别无他用，真正的经验真是寥寥无几；我立马想到她是不是已有将完成的好处来把我卖了？也直接明说了这一点，她的回答是卖我还这个没必要。 接触社会已有一年多了，我觉得她是不可能不知道培训套路的，而又向我推荐培训机构…即使是好心帮我（我觉得这概率相当低，其实她可以完全不在乎这并不关己的事），她没有把向我的推荐当作是自己一个找工作的过程，可以看出推荐给我很是随便，这也致使其会忽略这些关键细节因素，认为我的推荐就是在帮你。 这也就是我上文一开始提到好心当作驴肝肺的原因了，当然，我也并不认为这是她的好心…某些情感因素的存在，使我很容易忽视客观事实细节而冒然行事，存在这些多余的感情，对我来说也是件很无聊的事!]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月12日 星期日 晴</title>
+      <link href="/note/2018/08-11/3ea57153.html"/>
+      <url>/note/2018/08-11/3ea57153.html</url>
+      <content type="html"><![CDATA[<p>想不到qq空间关闭以后，还是能够发消息的，个人中心对于现在（可能将来）的我来说是已经用不上了。</p><p><img src="http://p3.cdn.img9.top/ipfs/Qmc1LyPUukwAtACWs9CANk9qeC58UR52ouRuFxHU4wjZpj?3.png" alt=""></p><p>人和事物是独立存在的个体，但总会把散发消息的人和散发消息的事物关联起来，而去肯定这必定是“你”本身所发生的事，并不会质疑这真的是“你”吗？除了你还有谁与这个事物相关联呢？这个真正与事物相关联的人是否与“你”有直接的联系？</p><p>假定是“你”，根据“你”的条件以及当前所处的环境符合“你”发送消息上的事物可能性有多大？当然，在不了解对方的情况下（掌握对方的信息较少），消息人和事物并不发生在这个消息人身上的可能性非常高。假若他肯定，那也不能直接认定就是他所发生的事，因为仅通过一张图的信息证明还是太少了。</p><p>如果不去思考的话，信息真会误导我们，就像这篇日记，表面上看是8月11日，但在编辑的时候已经是12日1点左右了，事物的发展真的，永远是动态的，用静态的思维及定性的词汇去描述一个动态的事物永远是错误的，也仅在当前有效，并不保证以后有效。</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[空间？最后还是选择了博客]]></title>
-    <url>%2Fnote%2F2018%2F08-06%2Ff0b3744e.html</url>
-    <content type="text"><![CDATA[空间部分图片、文字会受到和谐，日志的编辑工具实在很糟心；qq上熟人也有且网友也多，一些内容也不方便展示，单独去设置特别的那几个实在又有些麻烦，做成相册吧，加载的速度实在太慢，好友动态里的图片也不会正常显示。 本来搭博客做搜索优化是用来发表一些关于技术类文章的，慢慢的一系列自然选择下成了一个写日记、随笔以及笔记的地方了。因为写技术系列的话，已经有gitbook、docsify等诸如此类的文档生成工具了。综上所述，这也就是选择了博客，而将空间关闭了的原因。 反正日记、随笔这些的话，一般来说以我的经历来看，都是在乎自己的多一点，其实别人是并不太关心或是说仔细去看我的日记。再说，之所以看空间是因为有系统动态提醒，倒不是真的对自己的特别关注什么的。每个人都有自己需要做的事，谁没事又没太多感情上的某种联系，干嘛要看我发的没有实际解决问题且纯粹就是记事与抒发情感的日记或是随笔呢？ 感兴趣的始终是少数，朋友其实也亦是如此，更别提及浏览博客的多数陌生人了，有多少闲着没事还特意去看我写的一些日记与随笔呢？真是的！一些心事，想知道的ta就会通过一些方法主动地去知道，不知道的ta也并不想去知道，也许听听你的诉说就完事了。 其实人生真的又有几个知己呢？有的人只能成为普通朋友，有的少数在朋友的基础上或许可以成为知心，成为知心但多数也不一定是爱人；目前，我能确定知道的也就五个不到。将对方当知己，发来却是微信里的支付宝二维码，让我感觉到寒意的同时又让我感到恶心…唉！＞﹏＜ 花费太多时间精力的研究成果，用以尽力去帮助交往较为密切的朋友，ta只是当做理所应当，帮不上那就算了，帮上忙的话也就兴奋一会儿；很多事也是求助于我，然后达成的条件又是这种无理要求，仅是把自己当作解决问题的工具，事情刚解决时也只是说太好了、厉害、哇塞等随意附和且无用还存在虚假的废话，而实际上在问题所解决过后，真的在ta眼中真是一文不值，因为我就是被当作解决问题的工具罢了… 而我呢？太多时间被这些滥烂的词而沉溺其中，真以为在ta心中的位置很重要一样，然而就算解决不了，也会找下一位，只是时间或金钱问题罢了，其实自己只是一个可怜虫。说到底还是交友太少，对ta的一个不了解，不然在我看来付出了这么多，在他人眼里却是一文不值了。 除开真正的知己的话，朋友间友好程度还是靠一直的多联系，此一时彼一时的；这也难怪，不少人都想磨灭感情，其实我也想，特别是在人际关系看似紧密，但实际上薄如纸的今天；但我知道只要是个人，磨灭感情是不可能的，多多少少还是会存在的。 这就是我记录的目的吧，回想往事的时候不至于像学生时代消失得一片空白，也不因错过就一直停留在遗憾中而不珍惜眼前甚至放弃前方的追逐。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月11日 星期六 晴</title>
+      <link href="/note/2018/08-11/9ba55efd.html"/>
+      <url>/note/2018/08-11/9ba55efd.html</url>
+      <content type="html"><![CDATA[<p>我也体会到好心当作驴肝肺的原因了，当然不是以我的角度来说的，而是站在网友的立场来说的。首先，一开始从微信转到qq向我发来“成长靠自己，发展来谭州”的链接标语。接着，向我发来消息：“我朋友同学公司招聘，可以了解一下，是做网络教育的”。</p><p>已经很明显了，是潭州这恶名昭彰的培训机构，看着她发来的链接，我无语了好一会…之后她又接着发来：“怎么，你是不打算找工作了？”。于是我问道：“你把一个培训机构推荐给我是什么意思？”，她是这样向我解释的：“他们是培训老师又不是要你去培训，之前都是从助理开始的，然后再做讲师”。</p><p>一个培训机构可以说连小型项目流程都达不了标，就某些水准也只能是唬小孩。在我看来，多数培训机构除了能锻炼传销的口才，其实别无他用，真正的经验真是寥寥无几；我立马想到她是不是已有将完成的好处来把我卖了？也直接明说了这一点，她的回答是卖我还这个没必要。</p><p>接触社会已有一年多了，我觉得她是不可能不知道培训套路的，而又向我推荐培训机构…即使是好心帮我（我觉得这概率相当低，其实她可以完全不在乎这并不关己的事），她没有把向我的推荐当作是自己一个找工作的过程，可以看出推荐给我很是随便，这也致使其会忽略这些关键细节因素，认为我的推荐就是在帮你。</p><p>这也就是我上文一开始提到好心当作驴肝肺的原因了，当然，我也并不认为这是她的好心…某些情感因素的存在，使我很容易忽视客观事实细节而冒然行事，存在这些多余的感情，对我来说也是件很无聊的事!</p>]]></content>
+      
       <categories>
-        <category>建站以来</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月6日 星期一 阴转晴]]></title>
-    <url>%2Fnote%2F2018%2F08-06%2Fb2a886dc.html</url>
-    <content type="text"><![CDATA[概念上的误区对骨架生成的项目感到不理解，随后将萨拉的头像换了一只在窗内看阴雨天的猫，写了一篇关于本人博客的随笔，紧接着又写了今天的日记，其实写这篇日记是测试一下博文置顶功能是否成功实现；现在我只想躺在床上睡觉，好梦春梦白日梦，没有梦也罢，但愿不是噩梦…夜晚照常看书吧，就这样。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>空间？最后还是选择了博客</title>
+      <link href="/note/2018/08-06/f0b3744e.html"/>
+      <url>/note/2018/08-06/f0b3744e.html</url>
+      <content type="html"><![CDATA[<p>空间部分图片、文字会受到和谐，日志的编辑工具实在很糟心；qq上熟人也有且网友也多，一些内容也不方便展示，单独去设置特别的那几个实在又有些麻烦，做成相册吧，加载的速度实在太慢，好友动态里的图片也不会正常显示。</p><p>本来搭博客做搜索优化是用来发表一些关于技术类文章的，慢慢的一系列自然选择下成了一个写日记、随笔以及笔记的地方了。因为写技术系列的话，已经有gitbook、docsify等诸如此类的文档生成工具了。综上所述，这也就是选择了博客，而将空间关闭了的原因。</p><p>反正日记、随笔这些的话，一般来说以我的经历来看，都是在乎自己的多一点，其实别人是并不太关心或是说仔细去看我的日记。再说，之所以看空间是因为有系统动态提醒，倒不是真的对自己的特别关注什么的。每个人都有自己需要做的事，谁没事又没太多感情上的某种联系，干嘛要看我发的没有实际解决问题且纯粹就是记事与抒发情感的日记或是随笔呢？</p><p>感兴趣的始终是少数，朋友其实也亦是如此，更别提及浏览博客的多数陌生人了，有多少闲着没事还特意去看我写的一些日记与随笔呢？真是的！一些心事，想知道的ta就会通过一些方法主动地去知道，不知道的ta也并不想去知道，也许听听你的诉说就完事了。</p><p>其实人生真的又有几个知己呢？有的人只能成为普通朋友，有的少数在朋友的基础上或许可以成为知心，成为知心但多数也不一定是爱人；目前，我能确定知道的也就五个不到。将对方当知己，发来却是微信里的支付宝二维码，让我感觉到寒意的同时又让我感到恶心…唉！＞﹏＜</p><p>花费太多时间精力的研究成果，用以尽力去帮助交往较为密切的朋友，ta只是当做理所应当，帮不上那就算了，帮上忙的话也就兴奋一会儿；很多事也是求助于我，然后达成的条件又是这种无理要求，仅是把自己当作解决问题的工具，事情刚解决时也只是说太好了、厉害、哇塞等随意附和且无用还存在虚假的废话，而实际上在问题所解决过后，真的在ta眼中真是一文不值，因为我就是被当作解决问题的工具罢了…</p><p>而我呢？太多时间被这些滥烂的词而沉溺其中，真以为在ta心中的位置很重要一样，然而就算解决不了，也会找下一位，只是时间或金钱问题罢了，其实自己只是一个可怜虫。说到底还是交友太少，对ta的一个不了解，不然在我看来付出了这么多，在他人眼里却是一文不值了。</p><p>除开真正的知己的话，朋友间友好程度还是靠一直的多联系，此一时彼一时的；这也难怪，不少人都想磨灭感情，其实我也想，特别是在人际关系看似紧密，但实际上薄如纸的今天；但我知道只要是个人，磨灭感情是不可能的，多多少少还是会存在的。</p><p>这就是我记录的目的吧，回想往事的时候不至于像学生时代消失得一片空白，也不因错过就一直停留在遗憾中而不珍惜眼前甚至放弃前方的追逐。</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 建站以来 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月5日 星期日 暴雨（其二）]]></title>
-    <url>%2Fnote%2F2018%2F08-05%2F541a711f.html</url>
-    <content type="text"><![CDATA[很多很多不确定的过往，用理想化的或是多个不同角度的分析似乎都能找到合理解释及原因，但下一次呢？是否还是准确无误呢？我感觉只能是争取这最大化机率的过程，自然规律可变因素实在太多，结果真的是无法预测，尽心尽力去做事，能否成功还得听其自然。 这是我最珍爱的的两件，为什么当时就机缘巧合的就接触到了呢？为什么现在却成我的珍爱了呢？好久好久了吧…（那时的我还不怎么内向）我问过曾经在我家嬉戏两小无猜的欧研利（曾经那也只是曾经…）：我们俩这么认识在一起的？当时…嗯…其实直到现在…呃…我也不清楚，反正就这么莫名其妙的好上了…过去的毕竟真的都过去了…还是着眼现在吧！ 当时也没像现在的智能手机…留住照片的话，我不知道是遗憾还是伤害呢？我不知道她是谁了，真的不知道她是谁了，真的就像失忆了一样，一起合影过反正长的其实挺像的，特别是当我写日记回想从前你那微笑的样子…]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月6日 星期一 阴转晴</title>
+      <link href="/note/2018/08-06/b2a886dc.html"/>
+      <url>/note/2018/08-06/b2a886dc.html</url>
+      <content type="html"><![CDATA[<p>概念上的误区对骨架生成的项目感到不理解，随后将萨拉的头像换了一只在窗内看阴雨天的猫，写了一篇关于本人博客的随笔，紧接着又写了今天的日记，其实写这篇日记是测试一下博文置顶功能是否成功实现；现在我只想躺在床上睡觉，好梦春梦白日梦，没有梦也罢，但愿不是噩梦…夜晚照常看书吧，就这样。</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月5日 星期日 暴雨（其一）]]></title>
-    <url>%2Fnote%2F2018%2F08-05%2F260675a5.html</url>
-    <content type="text"><![CDATA[生活中实在充满了太多欺骗，当时餐桌上的酿豆腐与海带丝，从盒饭店里带来的酿豆腐味道不怎么样，放冰箱一天后，也蒸个不冷不热，当时实在太饿了，吃的味道还不错，夹了一些海带丝，瞬间感觉不对劲于是问了我爸是不是放了醋？（对酸菜极端反感）结果得到的回答居然是放了像是醋一样的黑酱油，真的当我是白痴？一看的确是醋…有时连亲人都是不可信的，唉！我能信谁呢？除了杨金鑫，恐怕就我自己了… 饭后买了一瓶糖水（实在太爱甜了），喝了一会看着莎拉漫画书，不多久肚子痛一整天，整个人都不好了…才想起来我所忽视的细节，就是带回来的酿豆腐在店里冰冻了几天呢？剩下的又冰冻了一下还是没蒸多久半冷半热的。这些细节的重要往往却选择性的忽略或是完全的不知… 现在也是觉得怀疑的重要性，不断的揣测，尽管很累很麻烦，但它不是一件坏事了。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月5日 星期日 暴雨（其二）</title>
+      <link href="/note/2018/08-05/541a711f.html"/>
+      <url>/note/2018/08-05/541a711f.html</url>
+      <content type="html"><![CDATA[<p>很多很多不确定的过往，用理想化的或是多个不同角度的分析似乎都能找到合理解释及原因，但下一次呢？是否还是准确无误呢？我感觉只能是争取这最大化机率的过程，自然规律可变因素实在太多，结果真的是无法预测，尽心尽力去做事，能否成功还得听其自然。</p><p>这是我最珍爱的的两件，为什么当时就机缘巧合的就接触到了呢？为什么现在却成我的珍爱了呢？好久好久了吧…（那时的我还不怎么内向）我问过曾经在我家嬉戏两小无猜的欧研利（曾经那也只是曾经…）：我们俩这么认识在一起的？当时…嗯…其实直到现在…呃…我也不清楚，反正就这么莫名其妙的好上了…过去的毕竟真的都过去了…还是着眼现在吧！</p><p>当时也没像现在的智能手机…留住照片的话，我不知道是遗憾还是伤害呢？我不知道她是谁了，真的不知道她是谁了，真的就像失忆了一样，一起合影过反正长的其实挺像的，特别是当我写日记回想从前你那微笑的样子…</p><p><img src="https://images2.imgbox.com/a2/1d/XCuCiGwN_o.jpg" alt=""></p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月4日 星期六 晴]]></title>
-    <url>%2Fnote%2F2018%2F08-04%2F86d23188.html</url>
-    <content type="text"><![CDATA[我以前是不信命的，但现在我开始有些相信这就是命了；我的曾经与现在这样存在极大的反差，经过许久的分析也是时代所产生环境的局限，绝大多数都是环境的影响下，就自然而然地做出的一系列选择，毕竟能找到生命中的贵人，或是某种机遇与事件能让我醒来，这概率太低太低了。 当然我也开始慢慢理解了读书的重要性，一些作者的人生阅历比我们是要高出许多的，可以提炼些人生经验，不断实践并化为己有，通过书籍不断的提升及完善自我。有句话我也觉得特别有道理：同样是一本在地摊上卖的《红楼梦》，有的人可以看出几个亿的价值，有的人什么也看不出。 而我又能认真的完完整整的读进去多少书呢？有能读出多少的潜在或与实际的价值呢？]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月5日 星期日 暴雨（其一）</title>
+      <link href="/note/2018/08-05/260675a5.html"/>
+      <url>/note/2018/08-05/260675a5.html</url>
+      <content type="html"><![CDATA[<p>生活中实在充满了太多欺骗，当时餐桌上的酿豆腐与海带丝，从盒饭店里带来的酿豆腐味道不怎么样，放冰箱一天后，也蒸个不冷不热，当时实在太饿了，吃的味道还不错，夹了一些海带丝，瞬间感觉不对劲于是问了我爸是不是放了醋？（对酸菜极端反感）结果得到的回答居然是放了像是醋一样的黑酱油，真的当我是白痴？一看的确是醋…有时连亲人都是不可信的，唉！我能信谁呢？除了杨金鑫，恐怕就我自己了…</p><p>饭后买了一瓶糖水（实在太爱甜了），喝了一会看着莎拉漫画书，不多久肚子痛一整天，整个人都不好了…才想起来我所忽视的细节，就是带回来的酿豆腐在店里冰冻了几天呢？剩下的又冰冻了一下还是没蒸多久半冷半热的。这些细节的重要往往却选择性的忽略或是完全的不知…</p><p>现在也是觉得怀疑的重要性，不断的揣测，尽管很累很麻烦，但它不是一件坏事了。</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月3日 星期五 阴转暴雨]]></title>
-    <url>%2Fnote%2F2018%2F08-03%2Fbd789af5.html</url>
-    <content type="text"><![CDATA[久久不能平静，当我说出这句话时，其实也已经平静了。没亲身或身旁其他人体会过的，也基本上感知不到话里隐藏着背后的故事所蕴藏的深层次的含义。多去自己想想为什么这么说，为什么这么做，问问他们。 每一个人都有不同的使命，每一个阶段都有不同的成长周期，上代使命已完成与下一代期望值的落差的冲突。要么顺应上代的使命继续下去，要么就从现在去改变让它更好点…又件事特别重要，但就是没办法认真去做。比如说：英语特别的重要，人人都懂，都是这样，做到的真是少之又少。 是啊，有些道理要自己感悟，自己感悟到了之后也不一定会去积极的改变它，我们听过很多道理，却依然过不好一生，也许该明白的迟早也会明白，不明白的说了也白说，或许还是能存有保持着希望。 根据我戒烟酒与槟榔成功后的经验来看，应该是我没有用一个真正认知与意识还有行动去对待它，挑战它。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月4日 星期六 晴</title>
+      <link href="/note/2018/08-04/86d23188.html"/>
+      <url>/note/2018/08-04/86d23188.html</url>
+      <content type="html"><![CDATA[<p>我以前是不信命的，但现在我开始有些相信这就是命了；我的曾经与现在这样存在极大的反差，经过许久的分析也是时代所产生环境的局限，绝大多数都是环境的影响下，就自然而然地做出的一系列选择，毕竟能找到生命中的贵人，或是某种机遇与事件能让我醒来，这概率太低太低了。</p><p>当然我也开始慢慢理解了读书的重要性，一些作者的人生阅历比我们是要高出许多的，可以提炼些人生经验，不断实践并化为己有，通过书籍不断的提升及完善自我。有句话我也觉得特别有道理：同样是一本在地摊上卖的《红楼梦》，有的人可以看出几个亿的价值，有的人什么也看不出。</p><p>而我又能认真的完完整整的读进去多少书呢？有能读出多少的潜在或与实际的价值呢？</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月2日 星期四 晴转暴雨]]></title>
-    <url>%2Fnote%2F2018%2F08-02%2F9f13a3c0.html</url>
-    <content type="text"><![CDATA[在一个安静的地方]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月3日 星期五 阴转暴雨</title>
+      <link href="/note/2018/08-03/bd789af5.html"/>
+      <url>/note/2018/08-03/bd789af5.html</url>
+      <content type="html"><![CDATA[<p>久久不能平静，当我说出这句话时，其实也已经平静了。没亲身或身旁其他人体会过的，也基本上感知不到话里隐藏着背后的故事所蕴藏的深层次的含义。多去自己想想为什么这么说，为什么这么做，问问他们。</p><p>每一个人都有不同的使命，每一个阶段都有不同的成长周期，上代使命已完成与下一代期望值的落差的冲突。要么顺应上代的使命继续下去，要么就从现在去改变让它更好点…又件事特别重要，但就是没办法认真去做。比如说：英语特别的重要，人人都懂，都是这样，做到的真是少之又少。</p><p>是啊，有些道理要自己感悟，自己感悟到了之后也不一定会去积极的改变它，我们听过很多道理，却依然过不好一生，也许该明白的迟早也会明白，不明白的说了也白说，或许还是能存有保持着希望。</p><p>根据我戒烟酒与槟榔成功后的经验来看，应该是我没有用一个真正认知与意识还有行动去对待它，挑战它。</p><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/d2/b7/fE6JgJub_o.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/f7/d4/450UCriS_o.jpg" alt=""></div></div><div class="group-picture-row"></div></div></div>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年8月1日 星期三 暴雨]]></title>
-    <url>%2Fnote%2F2018%2F08-01%2Fd56f6920.html</url>
-    <content type="text"><![CDATA[找工作很难，招人也很难，世界上有无数待业在找工作的人，也有无数招了很久都没招到人的企业是为什么呢?他们要求有工作经验的原因是什么呢？他们想要什么，他们为什么这么做？ 要去从对方的需求出发想，找到最关键的根本原因，然后解决它；无论什么经验，学历，都是为了佐证，筛选这个人是一个能干事的人的条件；以及现在绝大多数公司都清楚，干IT的没几个能干满3-5年的（忠诚度）可言的，他们要的人很简单，就是一个能干事的人。 我现在需要做的，就是像其他人证明：我能干事 上：参与一些公共开源项目，或者独立完成一个有意义，能展现我技术实力的个人项目，你有能完全拿出手的东西，面对谁都很好证明自己。 中：通过一些技术博客，寻找一个技术招聘的相关信息，直接联系这些博主，通过与对方一对一交流沟通，证明我会干事。 下：伪造相关经验和学历，蒙混过筛选这一层。 很多时候，需要自己主动去找一些资源；一些问题，需要自己去寻找答案；有许多的事情需要自己去思考，不过，也不要只从一个角度往死里想，那样很容易钻进牛角尖，思考的方向不对，想得越多，错得越多。 因此，我需要尝试从各种角度，反复的思考。许多事情，一旦我能想通，也许会发现这个世界真的是十分的简单。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月2日 星期四 晴转暴雨</title>
+      <link href="/note/2018/08-02/9f13a3c0.html"/>
+      <url>/note/2018/08-02/9f13a3c0.html</url>
+      <content type="html"><![CDATA[<p>在一个安静的地方</p><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/ce/35/zsvbd4Kd_o.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/2e/d4/PzuwtaDm_o.jpg" alt=""></div></div><div class="group-picture-row"></div></div></div>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年7月31日 星期二 暴雨]]></title>
-    <url>%2Fnote%2F2018%2F07-31%2F48fac66c.html</url>
-    <content type="text"><![CDATA[好多好多次，我忘了自己理想与追求甚至原则，有太多太多感情无法释怀，其实解开这些心结之后，觉得其实也挺简单的，没也没有那么难或大不了的，不就是自己太滥情，还有与自个过意不去吗？ 不少的是因荷尔蒙而在一起的，有的无非就是找个依靠，在这个社会生存挺难的，虽说依靠物质的基础之上的感情是可以培养的，没有真正能够理解对方，反而都觉得对方对自己有所亏欠。所谓的相爱到了最后，都变成了相互浪费时间折磨对方。 目前个人发展堪忧的情况下，为什么还要去由一时荷尔蒙兴起而想去投入时间、精力、金钱到另一个明明都不怎么了解的人身上呢？这种事情都是十分无聊无趣的…如今单身狗充满恶意又带调侃的这词包裹着唾沫星子满天飞，何必在意这无谓的看法去自取其扰，管他呢! 就几句无所谓顺便问候的话？可以让自己心甘情愿的分享私事，得到所谓关心还是温暖？让一个明明都不怎么了解的人，把自己了解了个遍，这种事可不能再有了。其实对情感的关键态度是宁缺毋滥，必须要有对对方一个清晰的识知如：人格、所处环境、职责行为、感情行为、顺便行为，与之展开交往建立关系才合适。 是，其实不只是感情上，对于父母是文盲且没有任何的外地工作经验的家庭里成长的我来说，得到这些经验教训，比普通家庭里环境里，所遭罚要苦得多…]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年8月1日 星期三 暴雨</title>
+      <link href="/note/2018/08-01/d56f6920.html"/>
+      <url>/note/2018/08-01/d56f6920.html</url>
+      <content type="html"><![CDATA[<p>找工作很难，招人也很难，世界上有无数待业在找工作的人，也有无数招了很久都没招到人的企业是为什么呢?他们要求有工作经验的原因是什么呢？他们想要什么，他们为什么这么做？</p><p>要去从对方的需求出发想，找到最关键的根本原因，然后解决它；无论什么经验，学历，都是为了佐证，筛选这个人是一个能干事的人的条件；以及现在绝大多数公司都清楚，干IT的没几个能干满3-5年的（忠诚度）可言的，他们要的人很简单，就是一个能干事的人。</p><p>我现在需要做的，就是像其他人证明：我能干事</p><ul><li><p>上：参与一些公共开源项目，或者独立完成一个有意义，能展现我技术实力的个人项目，你有能完全拿出手的东西，面对谁都很好证明自己。</p></li><li><p>中：通过一些技术博客，寻找一个技术招聘的相关信息，直接联系这些博主，通过与对方一对一交流沟通，证明我会干事。</p></li><li><p>下：伪造相关经验和学历，蒙混过筛选这一层。</p></li></ul><p>很多时候，需要自己主动去找一些资源；一些问题，需要自己去寻找答案；有许多的事情需要自己去思考，不过，也不要只从一个角度往死里想，那样很容易钻进牛角尖，思考的方向不对，想得越多，错得越多。</p><p>因此，我需要尝试从各种角度，反复的思考。许多事情，一旦我能想通，也许会发现这个世界真的是十分的简单。</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年7月26日 星期四 晴]]></title>
-    <url>%2Fnote%2F2018%2F07-26%2Fb8602775.html</url>
-    <content type="text"><![CDATA[在我中落时与好友沟通后才开始明白：父母（文盲）的基础期望就是把我养大成人，然后可以自食其力，接着结婚生子继续养育下一代。那么，现在难道没有成人吗？不可以随便找份工作去自食其力吗？没法结婚生子吗？都可以，他们的基础期望就达到了。 我回想过很多，也始终想释怀一些曾经的过失，然而久久不能平静；在好朋友的劝导下，我不再把自己的期望（过去一直在无的放矢中）强加给你父母，那并不是他们本该有的责任，是一个所处时代与家庭环境的局限…我也没哭过什么的，但我也并未感到坚强（有一小会 一闪而过） 就觉得挺正常的…也因现在开始真实的面对这个残酷的社会了，感觉到不安、彷徨都是十分正常的情绪。 但我现在尤其需要一颗能平静的心，开始所面对的这些人都具有这方面的社会行为特征，看来我棘手于对付这些人这些事这些是是非非…不断的唤醒…]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年7月31日 星期二 暴雨</title>
+      <link href="/note/2018/07-31/48fac66c.html"/>
+      <url>/note/2018/07-31/48fac66c.html</url>
+      <content type="html"><![CDATA[<p>好多好多次，我忘了自己理想与追求甚至原则，有太多太多感情无法释怀，其实解开这些心结之后，觉得其实也挺简单的，没也没有那么难或大不了的，不就是自己太滥情，还有与自个过意不去吗？</p><p>不少的是因荷尔蒙而在一起的，有的无非就是找个依靠，在这个社会生存挺难的，虽说依靠物质的基础之上的感情是可以培养的，没有真正能够理解对方，反而都觉得对方对自己有所亏欠。所谓的相爱到了最后，都变成了相互浪费时间折磨对方。</p><p>目前个人发展堪忧的情况下，为什么还要去由一时荷尔蒙兴起而想去投入时间、精力、金钱到另一个明明都不怎么了解的人身上呢？这种事情都是十分无聊无趣的…如今单身狗充满恶意又带调侃的这词包裹着唾沫星子满天飞，何必在意这无谓的看法去自取其扰，管他呢!</p><p>就几句无所谓顺便问候的话？可以让自己心甘情愿的分享私事，得到所谓关心还是温暖？让一个明明都不怎么了解的人，把自己了解了个遍，这种事可不能再有了。其实对情感的关键态度是宁缺毋滥，必须要有对对方一个清晰的识知如：人格、所处环境、职责行为、感情行为、顺便行为，与之展开交往建立关系才合适。</p><p>是，其实不只是感情上，对于父母是文盲且没有任何的外地工作经验的家庭里成长的我来说，得到这些经验教训，比普通家庭里环境里，所遭罚要苦得多…</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年7月25日 星期三 晴]]></title>
-    <url>%2Fnote%2F2018%2F07-25%2F97d656f7.html</url>
-    <content type="text"><![CDATA[一张速写关于她的，不太想说是谁，对我来说简直是个笑话；两张关于我的自画像，终究还是在乎自己的多；太久褪色泛黄，太久太久，太久太久太久…]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年7月26日 星期四 晴</title>
+      <link href="/note/2018/07-26/b8602775.html"/>
+      <url>/note/2018/07-26/b8602775.html</url>
+      <content type="html"><![CDATA[<p>在我中落时与好友沟通后才开始明白：父母（文盲）的基础期望就是把我养大成人，然后可以自食其力，接着结婚生子继续养育下一代。那么，现在难道没有成人吗？不可以随便找份工作去自食其力吗？没法结婚生子吗？都可以，他们的基础期望就达到了。</p><p>我回想过很多，也始终想释怀一些曾经的过失，然而久久不能平静；在好朋友的劝导下，我不再把自己的期望（过去一直在无的放矢中）强加给你父母，那并不是他们本该有的责任，是一个所处时代与家庭环境的局限…我也没哭过什么的，但我也并未感到坚强（有一小会 一闪而过） 就觉得挺正常的…也因现在开始真实的面对这个残酷的社会了，感觉到不安、彷徨都是十分正常的情绪。</p><p>但我现在尤其需要一颗能平静的心，开始所面对的这些人都具有这方面的社会行为特征，看来我棘手于对付这些人这些事这些是是非非…不断的唤醒…</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年6月21日 星期四 雨转晴]]></title>
-    <url>%2Fnote%2F2018%2F06-21%2Fd2475f08.html</url>
-    <content type="text"></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年7月25日 星期三 晴</title>
+      <link href="/note/2018/07-25/97d656f7.html"/>
+      <url>/note/2018/07-25/97d656f7.html</url>
+      <content type="html"><![CDATA[<p>一张速写关于她的，不太想说是谁，对我来说简直是个笑话；两张关于我的自画像，终究还是在乎自己的多；太久褪色泛黄，太久太久，太久太久太久…</p>]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[2018年5月18日 星期三 多云]]></title>
-    <url>%2Fnote%2F2018%2F05-18%2Fab08cc40.html</url>
-    <content type="text"><![CDATA[写日记可以省去对文章命名的烦扰，也不用想是否紧扣中心主题，就像写随笔杂记一样特别的轻松自然，这都是写作文之类所没有的。想到什么就写什么，至少我觉得这样。可能以后发好几篇同一天的日记，也挺正常的，如：其一、其二、其三等，不这样的话，时间实在是太错乱了… 最近心情也不太好，真是伤心的时候可以听情歌…也不是现代流行的情歌吧，可以说是老歌，其实听来听去也就…华语的话许美静、邓丽君、梅艳芳、许巍、朴树，主要还是这几个常听吧…因为这些歌手有部分歌曲给我的感触实在太深了… 在git群闲聊时，发几张youtube里歌曲mv截图来谈谈，其中也有人问我：这么闲不如教我git。是啊，其实我内心真是焦虑如乱麻~%?…,# *’☆&amp;℃$︿★?~%?…]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年6月21日 星期四 雨转晴</title>
+      <link href="/note/2018/06-21/d2475f08.html"/>
+      <url>/note/2018/06-21/d2475f08.html</url>
+      <content type="html"><![CDATA[]]></content>
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[next爬坑深度魔改]]></title>
-    <url>%2Fnote%2F2018%2F03-09%2F55b3a5a.html</url>
-    <content type="text"><![CDATA[前言由于相对来说较为“初级”的教程很多，相对于而言，next的搭建过程也就不细说了；hexo水还是有些深。有半点初级基础相对来说会好一点，当然没有任何方面基础也可以，做多了也差不多了。此文章是在hexo已经搭建成功基础之上，且next主题能在显示正确效果下，进行的较为详细的说明。 参考链接因为此类教程很多写的还不错且较为详细，所以没必要重复造轮子。这里还有一些插件项目的补充，可看需求自行选择。 Hexo与NexT主题目录结构 hexo的next主题个性化配置教程 打造个性超赞博客Hexo+NexT+GithubPages的超深度优化 使用Hexo搭建博客的深度优化与定制 Next主题个性化之自动更换背景图片 删除标题上下方横线 文章阴影立体层次边框 添加代码块复制功能 各设备图片显示问题 标签页添加标签云 网站动态标题 修改阅读全文按钮样式 博客部分图标引用 使用Hexo基于GitHub-Pages搭建个人博客（三）（相册的实现） 对Hexo-nexT进行简单SEO优化基于Google收录站点 为Hexo NexT主题添加字数统计功能 need-more-share（主题已自带） hexo-tag-cloud hexo-blog-encrypt 遇到过的坑这里列举常用的，更多详情访问具体项目的issues 设置副标题后显示不出来，要怎么修改？#986 fancybox能否正常使用？ #48 多图功能 图片不能放大 #1043 hexo设置网站的图标Favicon 标签页不能显示标签云#15 btw，如果写作完成且没做任何配置的情况下，hexo g生成有误应该是markdown语法不对 其他细节方面的问题设置CC协议参考wiki，也可选择禁用；使用自己定制的cc协议请参考 hexo的next主题个性化配置教程。 修改站点标题字体themes/next/layout/_partials/header.swig中的custom-logo-site-titlediv部分下添加 123456789&lt;div class=&quot;custom-logo-site-title&quot;&gt; &lt;a href=&quot;&#123;&#123; config.root &#125;&#125;&quot; class=&quot;brand&quot; rel=&quot;start&quot;&gt; &lt;span class=&quot;logo-line-before&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;site-title&quot; style=&quot; font-family:FreeStyle Script;color: #AC161A;&quot;&gt; &#123;&#123; config.title &#125;&#125; &lt;/span&gt; &lt;span class=&quot;logo-line-after&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt; &lt;/a&gt; &lt;/div&gt; 添加README.md在source根目录下添加README.md，再修改hexo的站点配置文件_config.yml，设置skip_render: README.md保存退出即可。使用hexo d命令就不会在渲染README.md这个文件了。 添加相关文章添加”相关文章”板块实际上是做一次伪升级，因为v5.x并没有，v6.0.x才新增集成的功能；安装npm install hexo-related-popular-posts --save,下载新版本next主题；找到themes\next\layout\_macro\post.swig文件,将如下代码复制在原版本同路径post.swig中,复制位置在支付代码相关部分上方即可例如：代码放在wechat支付的上面。 123&#123;% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %&#125; &#123;% include &apos;post-related.swig&apos; with &#123; post: post &#125; %&#125; &#123;% endif %&#125; 将themes\next\layout\_macro\post-related.swig文件复制在原版本同目录中；打开新版本主题中的_config.yml将如下代码复制在原版本主题配置文件中 123456789101112# Related popular posts# Dependencies: https://github.com/tea3/hexo-related-popular-postsrelated_posts: enable: true title: # custom header, leave empty to use the default one display_in_home: false params: maxCount: 5 #PPMixingRate: 0.0 #isDate: false #isImage: false #isExcerpt: false 打开themes\next\languages\zh-CN.yml文件找到related_posts，将此行复制到zh-Hans.yml中增加相关中文即可 添加文章结尾标记themes/next/layout/_macro下添加passage-end-tag.swig:12345678910111213141516&lt;div&gt; &#123;% if page.passage_end %&#125; &lt;style&gt; .passage_end::after&#123; content: &quot;- The End -&quot;; text-align:center; color: #252525; display: block; font-size:26px; font-weight:bold; font-family: Vladimir Script; &#125; &lt;/style&gt; &lt;div class=&quot;passage_end&quot;&gt;&lt;/div&gt; &#123;% endif %&#125;&lt;/div&gt; next/layout/_macro/post.swig在相关支付代码之前增加如下代码：12345&lt;div&gt; &#123;% if not is_index %&#125; &#123;% include &apos;passage-end-tag.swig&apos; %&#125; &#123;% endif %&#125;&lt;/div&gt; 即可在front-matter中使用passage_end: true打开文章结尾表语 js文章访问密码优化因为其他博客的文章访问密码章节的js，当用户不输入时点击确定或是取消都弹出密码错误，显得不人性化，为此进行的改进方案；在themes-&gt;next-&gt;layout-&gt;_partials-&gt;head.swig文件，meta标签后任意位置插入。12345678910111213&lt;script&gt; (function()&#123; if('&#123;&#123; page.password &#125;&#125;')&#123; var str = prompt('请输入文章密码'); if (str == null || str=='')&#123; history.back(); &#125;else if(str !== '&#123;&#123; page.password &#125;&#125;')&#123; alert('密码错误'); history.back(); &#125; &#125; &#125;)();&lt;/script&gt; btw，增加确认弹窗，这样就可以在front-matter中provision: true激活弹窗1234567891011&lt;script&gt; (function()&#123; if('&#123;&#123; page.provision &#125;&#125;')&#123; var bool = confirm("请阅读一下条款："+"\n"+"以下文章涉及成人内容，" + "未满18周岁建议在家长指导下观看" ); if(!bool)&#123; history.back(); &#125; &#125; &#125;)();&lt;/script&gt; 自定义样式喜好概览 custom.styl123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113114115116117118119120121122123124125126127128129130131132133134135136137138139140141142143144145146147148149150151152/* Custom styles.*/.header &#123; /*用于完全显示一整块背景*/ background: $head-bg; /* background:url(https://s1.ax2x.com/2018/03/13/Eoiz6.jpg);*/ /* background: #F5F5F5;*/ background-size: cover; background-repeat: no-repeat; &#125;/*标题*/.site-meta .site-title &#123; font-size: 50px; font-weight: bolder;&#125;/*副标题*//* .site-subtitle &#123; display: none; &#125;*/.site-subtitle &#123; margin-top: 10px; font-size: 13px; color: #555555;/* color: #ffdf58;*/&#125;/*菜单字体颜色*/// .menu-item a &#123;color:#c7c7c7;&#125;/*菜单悬停颜色*//*.menu .menu-item a:hover &#123; background: #36363c; &#125;*//*移动设备菜单显示扩展*/.site-nav-on &#123; display: none; margin: 0 -10px; padding: 0 10px; clear: both; border-top-style: none; /*border-top: 1px solid #ddd;*/&#125;body &#123; /*随机换图*/ /* background:url(https://source.unsplash.com/random/1600x900); background:url(https://s1.ax2x.com/2018/03/10/EHdHq.jpg); background: #E7E8EA;*/ background-repeat: no-repeat; background-attachment:fixed; background-size: cover; background-position: 50% 50%;&#125;/*文章内容块布局*/.main-inner &#123; margin-top: 10px;/* margin-top: 60px;*/ /*padding: 60px 60px 60px 60px;*/ padding: 10px 1px 1px 1px;/* background: #e6e6e6; */ width:830px;/* hight:720px; */ min-height: 500px; /*透明度*/ opacity: 0.91;&#125; /*内容盒子扩充*/.use-motion .post &#123; BACKGROUND-COLOR: #fff; padding: 40px 30px 40px 30px; border: 1px solid #eaecee; margin: 0 0 40px 0; position: relative; -webkit-box-shadow: 0 4px 12px -1px rgba(36,41,46,.6); -moz-box-shadow: 0 4px 12px -1px rgba(36,41,46,.6); box-shadow: 0 4px 12px -1px rgba(36,41,46,.6);&#125;/*文章顶部内容紧凑*/.posts-expand .post-meta &#123; margin: 3px 0 5px 0;&#125;/*阅读全文按钮部分*/.post-button a:hover &#123; border-bottom-color:#a96363;&#125;/*阅读全文按钮悬停部分*/.btn:hover &#123; border-color: #222; color: #222; background: none;&#125;/*文字以及下划线部分*/.post-button a &#123; padding: 0; font-size: 16px; background: none; border: none; border-bottom: 2px solid #666; transition-property: border;&#125;/*标签悬停颜色*/.posts-expand .post-tags a:hover &#123; background: orange;&#125;/*标签背景色*/.posts-expand .post-tags a &#123; padding: 1px 5px; background: #d6af66; color: #ea1616; font-size: 13px; border-bottom: none; display: inline-block; margin-right: 10px;&#125;/*页脚*/.footer &#123; font-size: 14px; color: $grey-dark; background: #2E2E2E; img &#123; border: none; &#125;&#125;/*页脚内容居中*/.footer-inner &#123; margin: 0 auto; text-align: center;&#125;/* 隐藏分类列表占位符以及列表居中样式调整*/.category-list-item &#123; margin: 5px 10px; text-align: center; /* list-style: none !important;*/&#125;/*侧边信息栏*//* .sidebar-toggle &#123;&#125;*//*侧边回滚顶部栏*//* .back-to-top &#123;&#125;*//*时间侧边栏格式*/#days &#123; display: block; color: #8989A3; font-size: 13px; margin-top: 15px;&#125; 开发者工具很重要可以先使用开发者模式进行预览；在不更改站点、主题配置文件时，可在hexo s环境下调试并保存代码。]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>2018年5月18日 星期三 多云</title>
+      <link href="/note/2018/05-18/ab08cc40.html"/>
+      <url>/note/2018/05-18/ab08cc40.html</url>
+      <content type="html"><![CDATA[<p>写日记可以省去对文章命名的烦扰，也不用想是否紧扣中心主题，就像写随笔杂记一样特别的轻松自然，这都是写作文之类所没有的。想到什么就写什么，至少我觉得这样。可能以后发好几篇同一天的日记，也挺正常的，如：其一、其二、其三等，不这样的话，时间实在是太错乱了…</p><p>最近心情也不太好，真是伤心的时候可以听情歌…也不是现代流行的情歌吧，可以说是老歌，其实听来听去也就…华语的话许美静、邓丽君、梅艳芳、许巍、朴树，主要还是这几个常听吧…因为这些歌手有部分歌曲给我的感触实在太深了…</p><p>在git群闲聊时，发几张youtube里歌曲mv截图来谈谈，其中也有人问我：这么闲不如教我git。是啊，其实我内心真是焦虑如乱麻~%?…,# *’☆&amp;℃$︿★?~%?…</p>]]></content>
+      
       <categories>
-        <category>笔记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>next</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[next简单seo优化]]></title>
-    <url>%2Fnote%2F2018%2F02-26%2F5e7d6b37.html</url>
-    <content type="text"><![CDATA[设置站点地图 安装sitemap站点地图自动生成插件 1npm install hexo-generator-sitemap --save 在站点配置文件中末尾添加 12sitemap: path: sitemap.xml 站点配置文件url修改为你的网址域名，hexo g之后，在站点根目录的/public生成sitemap.xml文件 在/source中新建文件robots.txt如下（allow,disallow看需求）：1234567891011121314151617User-agent: *Allow: /Allow: /about/Disallow: /archives/Disallow: /categories/Disallow: /tags/Disallow: /photo/Disallow: /vendors/Disallow: /js/Disallow: /css/Disallow: /fonts/Disallow: /vendors/Disallow: /fancybox/Sitemap: https://yourWebSite/sitemap.xml hexo g -d生成并部署说明： robots.txt（统一小写）是一种存放于网站根目录下的ASCII编码的文本文件，它的作用是告诉搜索引擎此网站中哪些内容是可以被爬取的，哪些是禁止爬取的。 Allow字段的值即为允许搜索引擎爬区的内容，可以对应到主题配置文件中的menu目录配置，如果菜单栏还有其他选项都可以按照格式自行添加。 将站点提交至Google google search console,添加站点域名 站点验证选择备用验证,将给出的标签复制到\themes\hexo-theme-next\layout\_partials\head.swig中 robots.txt测试工具并测试 站点地图提交域名中的sitemap.xml文件 google抓取工具，将需要给谷歌收录的url网页进行抓取操作，并请求编入索引 修改文章链接HEXO默认的文章链接形式为domain/year/month/day/postname，默认就是一个四级url，并且可能造成url过长，对搜索引擎是十分不友好的，推荐安装hexo-abbrlink1npm install hexo-abbrlink --save 然后配置_config.yml1234permalink: note/:year/:month_:day/:abbrlink.htmlabbrlink: alg: crc32 # 算法：crc16(default) and crc32 rep: hex # 进制：dec(default) and hex 之后部署一下好了 添加nofollow标签nofollow标签是由谷歌领头创新的一个反垃圾链接的标签，并被ecosia.org、bing(US)等各大搜索引擎广泛支持，引用nofollow标签的目的是：用于指示搜索引擎不要追踪（即抓取）网页上的带有nofollow属性的任何出站链接，以减少垃圾链接的分散网站权重。对\themes\next\layout_partials\footer.swig中的如下部分：12&#123;&#123; __(&apos;footer.powered&apos;, &apos;&lt;a class=&quot;theme-link&quot; href=&quot;http://hexo.io&quot;&gt;Hexo&lt;/a&gt;&apos;) &#125;&#125; 修改为1234&#123;&#123; __(&apos;footer.powered&apos;, &apos;&lt;a class=&quot;theme-link&quot; href=&quot;http://hexo.io&quot; rel=&quot;external nofollow&quot;&gt; Hexo&lt;/a&gt;&apos;) &#125;&#125; 以及将这部分1&lt;a class=&quot;theme-link&quot; href=&quot;https://github.com/iissnan/hexo-theme-next&quot;&gt; 修改为 123&lt;a class=&quot;theme-link&quot; href=&quot;https://github.com/iissnan/hexo-theme-next&quot; rel=&quot;external nofollow&quot;&gt; 对\themes\next\layout_macro\sidebar.swig中的如下部分：1&lt;a href=&quot;&#123;&#123; link &#125;&#125;&quot; target=&quot;_blank&quot;&gt;&#123;&#123; name &#125;&#125;&lt;/a&gt; 修改为1&lt;a href=&quot;&#123;&#123; link &#125;&#125;&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;&#123;&#123; name &#125;&#125;&lt;/a&gt; 以及将下面代码123&lt;a href=&quot;http://creativecommons.org/licenses/&#123;&#123; theme.creative_commons &#125;&#125;/4.0&quot; class=&quot;cc-opacity&quot; target=&quot;_blank&quot;&gt; 修改成 1234&lt;a href=&quot;http://creativecommons.org/licenses/&#123;&#123; theme.creative_commons &#125;&#125;/4.0&quot; class=&quot;cc-opacity&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt; 相关阅读 SEO优化实战]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>next爬坑深度魔改</title>
+      <link href="/note/2018/03-09/55b3a5a.html"/>
+      <url>/note/2018/03-09/55b3a5a.html</url>
+      <content type="html"><![CDATA[<p><span style="font-size:24px"><strong>前言</strong></span><br>由于相对来说较为“初级”的教程很多，相对于而言，next的搭建过程也就不细说了；hexo水还是有些深。有半点初级基础相对来说会好一点，当然没有任何方面基础也可以，做多了也差不多了。<br>此文章是在hexo已经搭建成功基础之上，且next主题能在显示正确效果下，进行的较为详细的说明。</p><h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><p>因为此类教程很多写的还不错且较为详细，所以没必要重复造轮子。这里还有一些插件项目的补充，可看需求自行选择。</p><ul><li><a href="https://www.zxl93.com/2017/10/10/NexT_theme_directory_structure/" target="_blank" rel="noopener">Hexo与NexT主题目录结构</a></li><li><a href="http://shenzekun.cn/hexo的next主题个性化配置教程.html" target="_blank" rel="noopener">hexo的next主题个性化配置教程</a></li><li><a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html" target="_blank" rel="noopener">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a></li><li><a href="https://github.com/heytxz/test/issues/20" target="_blank" rel="noopener">使用Hexo搭建博客的深度优化与定制</a></li><li><a href="http://ihaoming.top/archives/d0564105.html#%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%8E%9F%E7%90%86" target="_blank" rel="noopener">Next主题个性化之自动更换背景图片</a></li><li><a href="http://www.libinx.com/2017/2017-03-12-hexo-next-beautify/" target="_blank" rel="noopener">删除标题上下方横线</a></li><li><a href="http://www.libinx.com/2017/2017-03-12-hexo-next-beautify/" target="_blank" rel="noopener">文章阴影立体层次边框</a></li><li><a href="https://www.ofind.cn/blog/HEXO/HEXO%E4%BC%98%E5%8C%96%E4%B9%8B%EF%BC%88%E4%BA%8C%EF%BC%89-%E6%B7%BB%E5%8A%A0%E5%A4%8D%E5%88%B6%E5%8A%9F%E8%83%BD.html" target="_blank" rel="noopener">添加代码块复制功能</a></li><li><a href="http://blog.csdn.net/u014175572/article/details/49148333" target="_blank" rel="noopener">各设备图片显示问题</a></li><li><a href="http://www.tianguolangzi.com/2018/01/17/hexo%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/" target="_blank" rel="noopener">标签页添加标签云</a></li><li><a href="https://www.jixian.io/2017/07/15/%E7%BD%91%E7%AB%99%E5%8A%A8%E6%80%81%E6%A0%87%E9%A2%98%E8%AE%BE%E7%BD%AE/" target="_blank" rel="noopener">网站动态标题</a></li><li><a href="http://slowread.cn/2017/12/18/Hexo-Next-%E4%BD%BF%E7%94%A8%E9%85%8D%E7%BD%AE/" target="_blank" rel="noopener">修改阅读全文按钮样式</a></li><li><a href="https://wenzizhou.com/%E7%BB%99NexT%E4%B8%BB%E9%A2%98%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E5%A5%BD%E7%9C%8B%E7%9A%84%E6%A0%B7%E5%BC%8F/" target="_blank" rel="noopener">博客部分图标引用</a></li><li><a href="https://ehlxr.github.io/2016/08/30/使用hexo基于github-pages搭建个人博客三" target="_blank" rel="noopener">使用Hexo基于GitHub-Pages搭建个人博客（三）</a>（相册的实现）</li><li><a href="https://loremwalker.github.io/note/2018/02-26/5e7d6b37.html">对Hexo-nexT进行简单SEO优化基于Google收录站点</a></li><li><a href="https://eason-yang.com/2016/11/05/add-word-count-to-hexo-next" target="_blank" rel="noopener">为Hexo NexT主题添加字数统计功能</a></li><li><a href="https://github.com/revir/need-more-share2" target="_blank" rel="noopener">need-more-share</a>（主题已自带）</li><li><a href="https://github.com/MikeCoder/hexo-tag-cloud/blob/master/README.ZH.md" target="_blank" rel="noopener">hexo-tag-cloud</a></li><li><a href="https://github.com/MikeCoder/hexo-blog-encrypt" target="_blank" rel="noopener">hexo-blog-encrypt</a></li></ul><h2 id="遇到过的坑"><a href="#遇到过的坑" class="headerlink" title="遇到过的坑"></a>遇到过的坑</h2><p>这里列举常用的，更多详情访问具体项目的issues</p><ul><li>设置副标题后显示不出来，要怎么修改？<a href="https://github.com/iissnan/hexo-theme-next/issues/986" target="_blank" rel="noopener">#986</a></li><li>fancybox能否正常使用？ <a href="https://github.com/iissnan/hexo-theme-next/issues/48" target="_blank" rel="noopener">#48</a></li><li>多图功能 图片不能放大 <a href="https://github.com/iissnan/hexo-theme-next/issues/1043" target="_blank" rel="noopener">#1043</a></li><li><a href="http://blog.csdn.net/ganzhilin520/article/details/79048034" target="_blank" rel="noopener">hexo设置网站的图标Favicon</a></li><li>标签页不能显示标签云<a href="https://github.com/MikeCoder/hexo-tag-cloud/issues/15" target="_blank" rel="noopener">#15</a></li></ul><p>btw，如果写作完成且没做任何配置的情况下，<code>hexo g</code>生成有误应该是markdown语法不对</p><h2 id="其他细节方面的问题"><a href="#其他细节方面的问题" class="headerlink" title="其他细节方面的问题"></a>其他细节方面的问题</h2><h3 id="设置CC协议"><a href="#设置CC协议" class="headerlink" title="设置CC协议"></a>设置CC协议</h3><p>参考<a href="https://github.com/iissnan/hexo-theme-next/wiki/%E8%AE%BE%E7%BD%AE-Creative-Commons-%E5%8D%8F%E8%AE%AE" target="_blank" rel="noopener">wiki</a>，也可选择禁用；使用自己定制的cc协议请参考 <a href="http://shenzekun.cn/hexo的next主题个性化配置教程.html" target="_blank" rel="noopener">hexo的next主题个性化配置教程</a>。</p><h3 id="修改站点标题字体"><a href="#修改站点标题字体" class="headerlink" title="修改站点标题字体"></a>修改站点标题字体</h3><p><code>themes/next/layout/_partials/header.swig</code>中的<code>custom-logo-site-title</code>div部分下添加</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">&lt;div class=&quot;custom-logo-site-title&quot;&gt;</span><br><span class="line">     &lt;a href=&quot;&#123;&#123; config.root &#125;&#125;&quot;  class=&quot;brand&quot; rel=&quot;start&quot;&gt;</span><br><span class="line">       &lt;span class=&quot;logo-line-before&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;</span><br><span class="line">       &lt;span class=&quot;site-title&quot; style=&quot; font-family:FreeStyle Script;color: #AC161A;&quot;&gt;</span><br><span class="line">       &#123;&#123; config.title &#125;&#125;</span><br><span class="line">       &lt;/span&gt;</span><br><span class="line">       &lt;span class=&quot;logo-line-after&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;</span><br><span class="line">     &lt;/a&gt;</span><br><span class="line">   &lt;/div&gt;</span><br></pre></td></tr></table></figure><h3 id="添加README-md"><a href="#添加README-md" class="headerlink" title="添加README.md"></a>添加README.md</h3><p>在<code>source</code>根目录下添加<code>README.md</code>，再修改hexo的站点配置文件<code>_config.yml</code>，设置<code>skip_render: README.md</code>保存退出即可。使用<code>hexo d</code>命令就不会在渲染<code>README.md</code>这个文件了。</p><h3 id="添加相关文章"><a href="#添加相关文章" class="headerlink" title="添加相关文章"></a>添加相关文章</h3><p>添加”相关文章”板块实际上是做一次伪升级，因为v5.x并没有，v6.0.x才新增集成的功能；安装<code>npm install hexo-related-popular-posts --save</code>,下载新版本next主题；找到<code>themes\next\layout\_macro\post.swig</code>文件,将如下代码复制在原版本同路径post.swig中,复制位置在支付代码相关部分上方即可例如：代码放在wechat支付的上面。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %&#125;</span><br><span class="line">    &#123;% include &apos;post-related.swig&apos; with &#123; post: post &#125; %&#125;</span><br><span class="line">  &#123;% endif %&#125;</span><br></pre></td></tr></table></figure><p>将<code>themes\next\layout\_macro\post-related.swig</code>文件复制在原版本同目录中；打开新版本主题中的<code>_config.yml</code>将如下代码复制在原版本主题配置文件中</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"># Related popular posts</span><br><span class="line"># Dependencies: https://github.com/tea3/hexo-related-popular-posts</span><br><span class="line">related_posts:</span><br><span class="line">  enable: true</span><br><span class="line">  title: # custom header, leave empty to use the default one</span><br><span class="line">  display_in_home: false</span><br><span class="line">  params:</span><br><span class="line">    maxCount: 5</span><br><span class="line">    #PPMixingRate: 0.0</span><br><span class="line">    #isDate: false</span><br><span class="line">    #isImage: false</span><br><span class="line">    #isExcerpt: false</span><br></pre></td></tr></table></figure><p>打开<code>themes\next\languages\zh-CN.yml</code>文件找到<code>related_posts</code>，将此行复制到<code>zh-Hans.yml</code>中增加相关中文即可</p><h3 id="添加文章结尾标记"><a href="#添加文章结尾标记" class="headerlink" title="添加文章结尾标记"></a>添加文章结尾标记</h3><p><code>themes/next/layout/_macro</code>下添加<code>passage-end-tag.swig</code>:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">&lt;div&gt;</span><br><span class="line">    &#123;% if page.passage_end %&#125;</span><br><span class="line">    &lt;style&gt;</span><br><span class="line">    .passage_end::after&#123;</span><br><span class="line">        content: &quot;- The End -&quot;;</span><br><span class="line">        text-align:center;</span><br><span class="line">        color: #252525;</span><br><span class="line">        display: block;</span><br><span class="line">        font-size:26px;</span><br><span class="line">        font-weight:bold;</span><br><span class="line">        font-family: Vladimir Script;</span><br><span class="line">    &#125;</span><br><span class="line">    &lt;/style&gt;</span><br><span class="line">        &lt;div class=&quot;passage_end&quot;&gt;&lt;/div&gt;</span><br><span class="line">    &#123;% endif %&#125;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure></p><p><code>next/layout/_macro/post.swig</code>在相关支付代码之前增加如下代码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;div&gt;</span><br><span class="line">  &#123;% if not is_index %&#125;</span><br><span class="line">    &#123;% include &apos;passage-end-tag.swig&apos; %&#125;</span><br><span class="line">  &#123;% endif %&#125;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure></p><p>即可在front-matter中使用<code>passage_end: true</code>打开文章结尾表语</p><h3 id="js文章访问密码优化"><a href="#js文章访问密码优化" class="headerlink" title="js文章访问密码优化"></a>js文章访问密码优化</h3><p>因为其他博客的文章访问密码章节的js，当用户不输入时点击<code>确定</code>或是<code>取消</code>都弹出密码错误，显得不人性化，为此进行的改进方案；在<code>themes-&gt;next-&gt;layout-&gt;_partials-&gt;head.swig</code>文件，meta标签后任意位置插入。<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">    (<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">        <span class="keyword">if</span>(<span class="string">'&#123;&#123; page.password &#125;&#125;'</span>)&#123;</span><br><span class="line">          <span class="keyword">var</span> str = prompt(<span class="string">'请输入文章密码'</span>);</span><br><span class="line">            <span class="keyword">if</span> (str == <span class="literal">null</span> || str==<span class="string">''</span>)&#123;</span><br><span class="line">                history.back();</span><br><span class="line">            &#125;<span class="keyword">else</span> <span class="keyword">if</span>(str !== <span class="string">'&#123;&#123; page.password &#125;&#125;'</span>)&#123;</span><br><span class="line">              alert(<span class="string">'密码错误'</span>);</span><br><span class="line">              history.back();</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;)();</span><br><span class="line">&lt;<span class="regexp">/script&gt;</span></span><br></pre></td></tr></table></figure></p><p>btw，增加确认弹窗，这样就可以在<code>front-matter</code>中<code>provision: true</code>激活弹窗<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">    (<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">        <span class="keyword">if</span>(<span class="string">'&#123;&#123; page.provision &#125;&#125;'</span>)&#123;</span><br><span class="line">          <span class="keyword">var</span> bool = confirm(<span class="string">"请阅读一下条款："</span>+<span class="string">"\n"</span>+<span class="string">"以下文章涉及成人内容，"</span></span><br><span class="line">                                 + <span class="string">"未满18周岁建议在家长指导下观看"</span> );</span><br><span class="line">          <span class="keyword">if</span>(!bool)&#123;</span><br><span class="line">            history.back();</span><br><span class="line">          &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;)();</span><br><span class="line">&lt;<span class="regexp">/script&gt;</span></span><br></pre></td></tr></table></figure></p><h3 id="自定义样式喜好概览-custom-styl"><a href="#自定义样式喜好概览-custom-styl" class="headerlink" title="自定义样式喜好概览 custom.styl"></a>自定义样式喜好概览 <code>custom.styl</code></h3><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br><span class="line">152</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">/* Custom styles.*/</span></span><br><span class="line"><span class="selector-class">.header</span> &#123; </span><br><span class="line">    <span class="comment">/*用于完全显示一整块背景*/</span></span><br><span class="line">    <span class="attribute">background</span>: $head-bg; </span><br><span class="line">    <span class="comment">/* background:url(https://s1.ax2x.com/2018/03/13/Eoiz6.jpg);*/</span></span><br><span class="line">    <span class="comment">/*  background: #F5F5F5;*/</span></span><br><span class="line">    <span class="attribute">background-size</span>: cover;</span><br><span class="line">    <span class="attribute">background-repeat</span>: no-repeat;</span><br><span class="line">    </span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">/*标题*/</span></span><br><span class="line"><span class="selector-class">.site-meta</span> <span class="selector-class">.site-title</span> &#123;</span><br><span class="line">  <span class="attribute">font-size</span>: <span class="number">50px</span>;</span><br><span class="line">  <span class="attribute">font-weight</span>: bolder;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">/*副标题*/</span></span><br><span class="line"><span class="comment">/* .site-subtitle &#123; display: none; &#125;*/</span></span><br><span class="line"><span class="selector-class">.site-subtitle</span> &#123;</span><br><span class="line">  <span class="attribute">margin-top</span>: <span class="number">10px</span>;</span><br><span class="line">  <span class="attribute">font-size</span>: <span class="number">13px</span>;</span><br><span class="line">  <span class="attribute">color</span>: <span class="number">#555555</span>;</span><br><span class="line"><span class="comment">/*   color: #ffdf58;*/</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/*菜单字体颜色*/</span></span><br><span class="line">// .menu-item a &#123;color:#c7c7c7;&#125;</span><br><span class="line"><span class="comment">/*菜单悬停颜色*/</span></span><br><span class="line"><span class="comment">/*.menu .menu-item a:hover &#123;</span></span><br><span class="line"><span class="comment">   background: #36363c;</span></span><br><span class="line"><span class="comment"> &#125;*/</span></span><br><span class="line"></span><br><span class="line"><span class="comment">/*移动设备菜单显示扩展*/</span></span><br><span class="line"><span class="selector-class">.site-nav-on</span> &#123;</span><br><span class="line">    <span class="attribute">display</span>: none;</span><br><span class="line">    <span class="attribute">margin</span>: <span class="number">0</span> -<span class="number">10px</span>;</span><br><span class="line">    <span class="attribute">padding</span>: <span class="number">0</span> <span class="number">10px</span>;</span><br><span class="line">    <span class="attribute">clear</span>: both;</span><br><span class="line">    <span class="attribute">border-top-style</span>: none;</span><br><span class="line">    <span class="comment">/*border-top: 1px solid #ddd;*/</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-tag">body</span> &#123;</span><br><span class="line">    <span class="comment">/*随机换图*/</span></span><br><span class="line">    <span class="comment">/* background:url(https://source.unsplash.com/random/1600x900);</span></span><br><span class="line"><span class="comment">     background:url(https://s1.ax2x.com/2018/03/10/EHdHq.jpg);</span></span><br><span class="line"><span class="comment">     background: #E7E8EA;*/</span></span><br><span class="line">    <span class="attribute">background-repeat</span>: no-repeat;</span><br><span class="line">    <span class="attribute">background-attachment</span>:fixed;</span><br><span class="line">    <span class="attribute">background-size</span>: cover;</span><br><span class="line">    <span class="attribute">background-position</span>: <span class="number">50%</span> <span class="number">50%</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/*文章内容块布局*/</span></span><br><span class="line"><span class="selector-class">.main-inner</span> &#123;</span><br><span class="line">  <span class="attribute">margin-top</span>: <span class="number">10px</span>;</span><br><span class="line"><span class="comment">/*   margin-top: 60px;*/</span></span><br><span class="line">  <span class="comment">/*padding: 60px 60px 60px 60px;*/</span></span><br><span class="line">  <span class="attribute">padding</span>: <span class="number">10px</span> <span class="number">1px</span> <span class="number">1px</span> <span class="number">1px</span>;</span><br><span class="line"><span class="comment">/*   background: #e6e6e6; */</span></span><br><span class="line">  <span class="attribute">width</span>:<span class="number">830px</span>;</span><br><span class="line"><span class="comment">/*   hight:720px; */</span></span><br><span class="line">  <span class="attribute">min-height</span>: <span class="number">500px</span>;</span><br><span class="line">  <span class="comment">/*透明度*/</span></span><br><span class="line">  <span class="attribute">opacity</span>: <span class="number">0.91</span>;</span><br><span class="line">&#125;</span><br><span class="line"> <span class="comment">/*内容盒子扩充*/</span></span><br><span class="line"><span class="selector-class">.use-motion</span> <span class="selector-class">.post</span> &#123;</span><br><span class="line">    <span class="attribute">BACKGROUND-COLOR</span>: <span class="number">#fff</span>;</span><br><span class="line">    <span class="attribute">padding</span>: <span class="number">40px</span> <span class="number">30px</span> <span class="number">40px</span> <span class="number">30px</span>;</span><br><span class="line">    <span class="attribute">border</span>: <span class="number">1px</span> solid <span class="number">#eaecee</span>;</span><br><span class="line">    <span class="attribute">margin</span>: <span class="number">0</span> <span class="number">0</span> <span class="number">40px</span> <span class="number">0</span>;</span><br><span class="line">    <span class="attribute">position</span>: relative;</span><br><span class="line">    <span class="attribute">-webkit-box-shadow</span>: <span class="number">0</span> <span class="number">4px</span> <span class="number">12px</span> -<span class="number">1px</span> <span class="built_in">rgba</span>(36,41,46,.6);</span><br><span class="line">    <span class="attribute">-moz-box-shadow</span>: <span class="number">0</span> <span class="number">4px</span> <span class="number">12px</span> -<span class="number">1px</span> <span class="built_in">rgba</span>(36,41,46,.6);</span><br><span class="line">    <span class="attribute">box-shadow</span>: <span class="number">0</span> <span class="number">4px</span> <span class="number">12px</span> -<span class="number">1px</span> <span class="built_in">rgba</span>(36,41,46,.6);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/*文章顶部内容紧凑*/</span></span><br><span class="line"><span class="selector-class">.posts-expand</span> <span class="selector-class">.post-meta</span> &#123;</span><br><span class="line"><span class="attribute">margin</span>: <span class="number">3px</span> <span class="number">0</span> <span class="number">5px</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/*阅读全文按钮部分*/</span></span><br><span class="line"><span class="selector-class">.post-button</span> <span class="selector-tag">a</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">    <span class="attribute">border-bottom-color</span>:<span class="number">#a96363</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">/*阅读全文按钮悬停部分*/</span></span><br><span class="line"><span class="selector-class">.btn</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">    <span class="attribute">border-color</span>: <span class="number">#222</span>;</span><br><span class="line">    <span class="attribute">color</span>: <span class="number">#222</span>;</span><br><span class="line">    <span class="attribute">background</span>: none;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">/*文字以及下划线部分*/</span></span><br><span class="line"><span class="selector-class">.post-button</span> <span class="selector-tag">a</span> &#123;</span><br><span class="line">    <span class="attribute">padding</span>: <span class="number">0</span>;</span><br><span class="line">    <span class="attribute">font-size</span>: <span class="number">16px</span>;</span><br><span class="line">    <span class="attribute">background</span>: none;</span><br><span class="line">    <span class="attribute">border</span>: none;</span><br><span class="line">    <span class="attribute">border-bottom</span>: <span class="number">2px</span> solid <span class="number">#666</span>;</span><br><span class="line">    <span class="attribute">transition-property</span>: border;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">/*标签悬停颜色*/</span></span><br><span class="line"><span class="selector-class">.posts-expand</span> <span class="selector-class">.post-tags</span> <span class="selector-tag">a</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">    <span class="attribute">background</span>: orange;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">/*标签背景色*/</span></span><br><span class="line"><span class="selector-class">.posts-expand</span> <span class="selector-class">.post-tags</span> <span class="selector-tag">a</span> &#123;</span><br><span class="line">    <span class="attribute">padding</span>: <span class="number">1px</span> <span class="number">5px</span>;</span><br><span class="line">    <span class="attribute">background</span>: <span class="number">#d6af66</span>;</span><br><span class="line">    <span class="attribute">color</span>: <span class="number">#ea1616</span>;</span><br><span class="line">    <span class="attribute">font-size</span>: <span class="number">13px</span>;</span><br><span class="line">    <span class="attribute">border-bottom</span>: none;</span><br><span class="line">    <span class="attribute">display</span>: inline-block;</span><br><span class="line">    <span class="attribute">margin-right</span>: <span class="number">10px</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/*页脚*/</span></span><br><span class="line"><span class="selector-class">.footer</span> &#123;</span><br><span class="line">  <span class="attribute">font-size</span>: <span class="number">14px</span>;</span><br><span class="line">  <span class="attribute">color</span>: $grey-dark;</span><br><span class="line">  <span class="attribute">background</span>: <span class="number">#2E2E2E</span>;</span><br><span class="line">  img &#123; border: none; &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">/*页脚内容居中*/</span></span><br><span class="line"><span class="selector-class">.footer-inner</span> &#123;</span><br><span class="line">    <span class="attribute">margin</span>: <span class="number">0</span> auto;</span><br><span class="line">    <span class="attribute">text-align</span>: center;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">/* 隐藏分类列表占位符以及列表居中样式调整*/</span></span><br><span class="line"><span class="selector-class">.category-list-item</span> &#123;</span><br><span class="line">    <span class="attribute">margin</span>: <span class="number">5px</span> <span class="number">10px</span>;</span><br><span class="line">    <span class="attribute">text-align</span>: center;</span><br><span class="line">    <span class="comment">/* list-style: none !important;*/</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">/*侧边信息栏*/</span></span><br><span class="line"><span class="comment">/* .sidebar-toggle &#123;&#125;*/</span></span><br><span class="line"><span class="comment">/*侧边回滚顶部栏*/</span></span><br><span class="line"><span class="comment">/* .back-to-top &#123;&#125;*/</span></span><br><span class="line"></span><br><span class="line"><span class="comment">/*时间侧边栏格式*/</span></span><br><span class="line"><span class="selector-id">#days</span> &#123;</span><br><span class="line">    <span class="attribute">display</span>: block;</span><br><span class="line">    <span class="attribute">color</span>: <span class="number">#8989A3</span>;</span><br><span class="line">    <span class="attribute">font-size</span>: <span class="number">13px</span>;</span><br><span class="line">    <span class="attribute">margin-top</span>: <span class="number">15px</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="开发者工具很重要"><a href="#开发者工具很重要" class="headerlink" title="开发者工具很重要"></a>开发者工具很重要</h3><p>可以先使用开发者模式进行预览；在不更改站点、主题配置文件时，可在<code>hexo s</code>环境下调试并保存代码。</p>]]></content>
+      
       <categories>
-        <category>笔记</category>
+          
+          <category> 笔记 </category>
+          
       </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>next</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[hexo备份并推送到github]]></title>
-    <url>%2Fnote%2F2018%2F02-26%2Fbafc086b.html</url>
-    <content type="text"><![CDATA[创建远程仓库 … 本地初始化 git init 创建忽略文件 vi .gitignore Git忽略规则 在hexo的根目录下新建README.md 按需分配 12345678.DS_StoreThumbs.dbdb.json *.log.deploy*/node_modules/.npmignorepublic/ Windows10以gitignore.txt保存配置，再另存为并改名 添加所有文件到寄存区 git add . 提交 git commit -m &quot;commit&quot; 添加远程源 git remote add origin yourname@github.com/example.git 提交远程库master分支 git push -u origin master]]></content>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> next </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>next简单seo优化</title>
+      <link href="/note/2018/02-26/5e7d6b37.html"/>
+      <url>/note/2018/02-26/5e7d6b37.html</url>
+      <content type="html"><![CDATA[<h2 id="设置站点地图"><a href="#设置站点地图" class="headerlink" title="设置站点地图"></a>设置站点地图</h2><ol><li><p>安装<code>sitemap</code>站点地图自动生成插件</p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-generator-sitemap --save</span><br></pre></td></tr></table></figure></li><li><p>在站点配置文件中末尾添加</p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">sitemap:</span><br><span class="line"> path: sitemap.xml</span><br></pre></td></tr></table></figure></li><li><p>站点配置文件url修改为你的网址域名，<code>hexo g</code>之后，在站点根目录的<code>/public</code>生成<code>sitemap.xml</code>文件  </p></li></ol><a id="more"></a><ol><li>在<code>/source</code>中新建文件<code>robots.txt</code>如下（allow,disallow看需求）：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">User-agent: *</span><br><span class="line">Allow: /</span><br><span class="line">Allow: /about/</span><br><span class="line"></span><br><span class="line">Disallow: /archives/</span><br><span class="line">Disallow: /categories/</span><br><span class="line">Disallow: /tags/</span><br><span class="line">Disallow: /photo/</span><br><span class="line"></span><br><span class="line">Disallow: /vendors/</span><br><span class="line">Disallow: /js/</span><br><span class="line">Disallow: /css/</span><br><span class="line">Disallow: /fonts/</span><br><span class="line">Disallow: /vendors/</span><br><span class="line">Disallow: /fancybox/</span><br><span class="line"></span><br><span class="line">Sitemap: https://yourWebSite/sitemap.xml</span><br></pre></td></tr></table></figure></li></ol><p><code>hexo g -d</code>生成并部署<br>说明：</p><ul><li>robots.txt（统一小写）是一种存放于网站根目录下的ASCII编码的文本文件，它的作用是告诉搜索引擎此网站中哪些内容是可以被爬取的，哪些是禁止爬取的。</li><li>Allow字段的值即为允许搜索引擎爬区的内容，可以对应到主题配置文件中的menu目录配置，如果菜单栏还有其他选项都可以按照格式自行添加。</li></ul><h2 id="将站点提交至Google"><a href="#将站点提交至Google" class="headerlink" title="将站点提交至Google"></a>将站点提交至Google</h2><ol><li><a href="https://www.google.com/webmasters/" target="_blank" rel="noopener">google search console</a>,添加站点域名</li><li>站点验证选择备用验证,将给出的标签复制到<code>\themes\hexo-theme-next\layout\_partials\head.swig</code>中</li><li><code>robots.txt</code>测试工具并测试</li><li>站点地图提交域名中的<code>sitemap.xml</code>文件</li><li>google抓取工具，将需要给谷歌收录的url网页进行<code>抓取</code>操作，并请求编入索引</li></ol><h2 id="修改文章链接"><a href="#修改文章链接" class="headerlink" title="修改文章链接"></a>修改文章链接</h2><p>HEXO默认的文章链接形式为domain/year/month/day/postname，默认就是一个四级url，并且可能造成url过长，对搜索引擎是十分不友好的，推荐安装hexo-abbrlink<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure></p><p>然后配置<code>_config.yml</code><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">permalink: note/:year/:month_:day/:abbrlink.html</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32  # 算法：crc16(default) and crc32</span><br><span class="line">  rep: hex    # 进制：dec(default) and hex</span><br></pre></td></tr></table></figure></p><p>之后部署一下好了</p><h2 id="添加nofollow标签"><a href="#添加nofollow标签" class="headerlink" title="添加nofollow标签"></a>添加<code>nofollow</code>标签</h2><p>nofollow标签是由谷歌领头创新的一个反垃圾链接的标签，并被ecosia.org、bing(US)等各大搜索引擎广泛支持，引用nofollow标签的目的是：用于指示搜索引擎不要追踪（即抓取）网页上的带有nofollow属性的任何出站链接，以减少垃圾链接的分散网站权重。<br><strong>对<code>\themes\next\layout_partials\footer.swig</code>中的如下部分：</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&#123;&#123; __(&apos;footer.powered&apos;, </span><br><span class="line">&apos;&lt;a class=&quot;theme-link&quot; href=&quot;http://hexo.io&quot;&gt;Hexo&lt;/a&gt;&apos;) &#125;&#125;</span><br></pre></td></tr></table></figure></p><p>修改为<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&#123;&#123; __(&apos;footer.powered&apos;, </span><br><span class="line">&apos;&lt;a class=&quot;theme-link&quot; </span><br><span class="line">    href=&quot;http://hexo.io&quot; rel=&quot;external nofollow&quot;&gt;</span><br><span class="line">    Hexo&lt;/a&gt;&apos;) &#125;&#125;</span><br></pre></td></tr></table></figure></p><p>以及将这部分<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a class=&quot;theme-link&quot; href=&quot;https://github.com/iissnan/hexo-theme-next&quot;&gt;</span><br></pre></td></tr></table></figure></p><p>修改为<br> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;a class=&quot;theme-link&quot; </span><br><span class="line">    href=&quot;https://github.com/iissnan/hexo-theme-next&quot;</span><br><span class="line">    rel=&quot;external nofollow&quot;&gt;</span><br></pre></td></tr></table></figure></p><p> <strong>对<code>\themes\next\layout_macro\sidebar.swig</code>中的如下部分：</strong><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href=&quot;&#123;&#123; link &#125;&#125;&quot; target=&quot;_blank&quot;&gt;&#123;&#123; name &#125;&#125;&lt;/a&gt;</span><br></pre></td></tr></table></figure></p><p>修改为<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href=&quot;&#123;&#123; link &#125;&#125;&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;&#123;&#123; name &#125;&#125;&lt;/a&gt;</span><br></pre></td></tr></table></figure></p><p>以及将下面代码<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href=&quot;http://creativecommons.org/licenses/&#123;&#123; theme.creative_commons &#125;&#125;/4.0&quot;</span><br><span class="line">    class=&quot;cc-opacity&quot; </span><br><span class="line">    target=&quot;_blank&quot;&gt;</span><br></pre></td></tr></table></figure></p><p> 修改成<br> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;a href=&quot;http://creativecommons.org/licenses/&#123;&#123; theme.creative_commons &#125;&#125;/4.0&quot;</span><br><span class="line">    class=&quot;cc-opacity&quot; </span><br><span class="line">    target=&quot;_blank&quot; </span><br><span class="line">    rel=&quot;external nofollow&quot;&gt;</span><br></pre></td></tr></table></figure></p><h2 id="相关阅读"><a href="#相关阅读" class="headerlink" title="相关阅读"></a>相关阅读</h2><p> <a href="http://imweb.io/topic/5682938b57d7a6c47914fc00" target="_blank" rel="noopener">SEO优化实战</a></p>]]></content>
+      
       <categories>
-        <category>笔记</category>
+          
+          <category> 笔记 </category>
+          
       </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[hexo搭建next主题]]></title>
-    <url>%2Fnote%2F2018%2F02-25%2F13e45bd.html</url>
-    <content type="text"><![CDATA[入门前提 git安装 配置SSH说明 Hexo快速入门 hexo安装 hexo部署 hexo主题安装 Permission denied (publickey)问题 git push输入密码的问题 NexT轻松上手 next主题配置 next第三方服务 next项目wiki 备份 Hexo备份并推送到Github]]></content>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> next </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>hexo备份并推送到github</title>
+      <link href="/note/2018/02-26/bafc086b.html"/>
+      <url>/note/2018/02-26/bafc086b.html</url>
+      <content type="html"><![CDATA[<ul><li>创建远程仓库 …</li><li>本地初始化 <code>git init</code></li><li>创建忽略文件 <code>vi .gitignore</code>  </li><li><a href="https://www.cnblogs.com/kevingrace/p/5690241.html" target="_blank" rel="noopener">Git忽略规则</a></li><li>在hexo的根目录下新建<code>README.md</code></li><li><p>按需分配</p>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">.DS_Store</span><br><span class="line">Thumbs.db</span><br><span class="line">db.json  </span><br><span class="line">*.log</span><br><span class="line">.deploy*/</span><br><span class="line">node_modules/</span><br><span class="line">.npmignore</span><br><span class="line">public/</span><br></pre></td></tr></table></figure></li><li><p>Windows10以<code>gitignore.txt</code>保存配置，再另存为并改名</p></li><li>添加所有文件到寄存区 <code>git add .</code></li><li>提交 <code>git commit -m &quot;commit&quot;</code></li><li>添加远程源 <code>git remote add origin yourname@github.com/example.git</code></li><li>提交远程库master分支 <code>git push -u origin master</code></li></ul>]]></content>
+      
       <categories>
-        <category>笔记</category>
+          
+          <category> 笔记 </category>
+          
       </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>next</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>hexo搭建next主题</title>
+      <link href="/note/2018/02-25/13e45bd.html"/>
+      <url>/note/2018/02-25/13e45bd.html</url>
+      <content type="html"><![CDATA[<h2 id="入门前提"><a href="#入门前提" class="headerlink" title="入门前提"></a>入门前提</h2><ol><li><a href="https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git" target="_blank" rel="noopener">git安装</a></li><li><a href="https://help.github.com/articles/connecting-to-github-with-ssh/" target="_blank" rel="noopener">配置SSH说明</a></li></ol><h2 id="Hexo快速入门"><a href="#Hexo快速入门" class="headerlink" title="Hexo快速入门"></a>Hexo快速入门</h2><ol><li><a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="noopener">hexo安装</a></li><li><a href="https://hexo.io/zh-cn/docs/deployment.html" target="_blank" rel="noopener">hexo部署</a></li><li><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="noopener">hexo主题安装</a></li><li><a href="https://help.github.com/articles/error-permission-denied-publickey/" target="_blank" rel="noopener">Permission denied (publickey)问题</a></li><li><a href="http://blog.csdn.net/u013647382/article/details/47832559" target="_blank" rel="noopener">git push输入密码的问题</a></li></ol><h2 id="NexT轻松上手"><a href="#NexT轻松上手" class="headerlink" title="NexT轻松上手"></a>NexT轻松上手</h2><ol><li><a href="http://theme-next.iissnan.com/theme-settings.html" target="_blank" rel="noopener">next主题配置</a>  </li><li><a href="http://theme-next.iissnan.com/third-party-services.html" target="_blank" rel="noopener">next第三方服务</a>  </li><li><a href="https://github.com/iissnan/hexo-theme-next/wiki" target="_blank" rel="noopener">next项目wiki</a>  </li></ol><h2 id="备份"><a href="#备份" class="headerlink" title="备份"></a>备份</h2><ul><li><a href="https://loremwalker.github.io/note/2018/02-26/bafc086b.html">Hexo备份并推送到Github</a></li></ul>]]></content>
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> next </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
 </search>
