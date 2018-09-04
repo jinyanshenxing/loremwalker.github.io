@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-09-03T09:02:30.511Z</updated>
+  <updated>2018-09-04T23:37:31.173Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018年9月5日 星期三 晴</title>
+    <link href="https://loremwalker.github.io/note/2018/09-05/547a75aa.html"/>
+    <id>https://loremwalker.github.io/note/2018/09-05/547a75aa.html</id>
+    <published>2018-09-04T23:13:01.000Z</published>
+    <updated>2018-09-04T23:37:31.173Z</updated>
+    
+    <content type="html"><![CDATA[<p>…</p><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://p0.cdn.img9.top/ipfs/QmdBRr5nMHWsQCpUHwJ2mkd45HA6v9tcC2iQD1v4q7WKqv?0.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://p4.cdn.img9.top/ipfs/QmQR1yrypqTYsUL5L8N7K8qfsFj1xQzLZsjKfjipv57FL4?4.png" alt=""></div></div><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://p3.cdn.img9.top/ipfs/QmZhBNDQprzXwZs61Z794LVcdUo5vSGw4hpGVzoK2frfVC?3.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://p1.cdn.img9.top/ipfs/QmR9BJtUAzgwRHtpjxs4g6dG4TDKMjU84L1BV9sRVS5i2a?1.png" alt=""></div></div></div></div>]]></content>
+    
+    <summary type="html">
+    
+      太多异常的错误实在没什么意义，浪费时间，还不如深入了解原理
+    
+    </summary>
+    
+      <category term="日记" scheme="https://loremwalker.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>2018年9月3日 星期一 晴</title>
@@ -187,7 +207,7 @@
     <published>2018-08-23T07:18:18.000Z</published>
     <updated>2018-08-25T00:36:04.645Z</updated>
     
-    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="security">  <div class="input-container">  <input type="password" class="form-control" id="pass" placeholder="勇敢面对现在的事实去改变吧 相信你能做到" />    <label for="pass">勇敢面对现在的事实去改变吧 相信你能做到</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1++5Ge61Gq6Q49ZePIIYZ5Tyt0wcKfSMrGyCm6IxD3GVV3BzLga63PB8ucBp+Bp9fhbpz60IU3saD/lx049G5En0I2KlH0ND9SkkHd8zuMhgI2QQMS0m2xpK5iL1Sf1+L0NXB7iyrn1WYyzE68YKRO7gyaqMJjH4oMqIQnsNB8bVen/FqhWxmfjcPpNzi/OOwaMP3IAdo/2LinrmuUWK9K6lC9Z80QO8Wrk7LMDpdGZvb4bZ2xzUPDFvhv8G92QQlp/w0x9W97wBbCd1IKTixRKALbQo9RmMw7bjUHpypS49b5tJ2ZSEtP8nK/0p7jL3INVDtgFc4VdbPXlXhMOIJf4QK47hNZonyVShYeYnyIQA+iRMayCYO6p6hPZfOBZn1dTsuHdcLC+SuGlTq9v+OlimL5sWV38y99M/a8pnu3e0zKiLjpSpe5ld0j+0YmT1YCR8d4ZuYhxu602jx9ZmMCvvW1XJNLeQvoumFPkh3fVtuANCmjdbeHVQ/4NsVtWPMDielxe/adTq+zPB/N7hnVbenFlh+ea9FjCjoK2GDDK+mangU2EuYrIUKOmgy21cezdrwuvIbOubBV1xIJAuFBhGHqOaJzdKQWMsICuiXYXdiVmFd8qzc+vJzifYJ6egl86XLnyN43MXgmH3Ci26XOHMPeZP7JDRSgb6UFgcSyfqE4c0RJLnUXf3ncettQYRbN8a8FnMpdWhGSYQ/OF/nrnTJWfI38uoJy9aXiGB+NkBDeKO6zsIi2zXq/hWAb7TOQL5kbaad/4ik2rU6Y2Oy73SlV6g2N1+nKB3Qx8TNkcFNZnItwuOvYjBwtcPb4ZTxlN2w/vUIi6RbtJaCnEWu9i+2kyn5gim9mrTp6SVVvLcIi5gBFEWkd4XC9iA2gSm+cfmmpILdhQF7qPw5C4JrZWo8M4Z2KvvJf7ijX8hnuqAmAJJqgBZ2lnzmqOQO+Fa34rNU3IgPW80zTzGvClXPP8ozy1q5yojZfJ2gK270XhAeoj0ykQW2e76FXcssv0d48vK+QrljfUYQjI6azL2r7Y2Ry848lADVCHAW94cneZyx8DOm/Jd3Cd0vQHw0hHPgNcCVZa5yq3sVWOQFPprQnMEkrkx+v/17ME94duBqeq0KfedkgMJ1AifLj+A9mqoF+qF1hkbtTSfaP4jhz7FDRqaM79wT8OUf7xxVvrKW+pd0OR3TmvicLgelOaicxVnuph6RLwlD7IT2eefCxWbnuxYru6lr0a8Z352YXYqc8LxNK2nDfT1Awd</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="security">  <div class="input-container">  <input type="password" class="form-control" id="pass" placeholder="勇敢面对现在的事实去改变吧 相信你能做到" />    <label for="pass">勇敢面对现在的事实去改变吧 相信你能做到</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+oECryzOw1wq407/u34kkyPMqbjDrWmLmPVBlz+x65FX5DOKGboABLkVnRC91hZF0uHCQEhRCS5Df7MZv5vRancKX2J9ovKjmtmkDjmZuVkgJFzqH3dQPghWNe+1pNT9FEN4cY9pHXaW9kdyUXTfFkaJfOEJxjvS5tV6zeaCZMmqpjcGasKwizzXsDGA9K9bzOUZ2FwsZvpcBfFQcLwaDPI0D/QS4iLPSdrkgV0Qrsdajl+ris4XDDtMEbLv14HHjJti7Va1mb2UHoA/v9O03A4hbMiPffUbeWK8tPH1ngOP0nmUv9p20nUUr+ivic+dYwuzjgXBIcc3BuVQTQqwmpenDSLUBHYAXPKu0fcM1RSMtQ/dIJE5DpIRGZFCC1beLMI3WkO+FU4KU0K6BuGP+fykxy/kO84hgg32BuTEr8EfAasqpla8BAGh1jSOr3NPVQXAHhqLkVUZ+feJNnxqKgTHFYvmO89fLVObAu0i11vxgjc4e4e2wQ9Y+XNZYqR2PL86J6tIPuPVTpWT71bCxiGzRmLvdG1EfQhM4hPfO1eeGLxq5dEFEPk9b3M79kAp8Vhf1Z4WnoWT9fFO4JrCFlu4Aouh6xtQwUWch+bUdxthPYHs2ckCNb41AL3o+jlFl3lzQK1UZPWeywKnKBDYgKWG9PosP8iwlj5/5MgcyxYLhyDwGFPjDRLlMb9nufhTL2Z/ippi5ULdNee48RivO4QvKBSfdXRUc6VcBwjYZZUvsib/z4ZxSknvGHAbqu0+gIJvLDhFeWYaiya3DG7rYdjR9tJBpz+5y0pPJI1u9uYAAJDt/Ybtf0AGwSTKKcMBzShWa533botgXdoYsXB1xAMr/j6Vg5dDoPO1V2SQRXshztQm7FnYvehfMA9vYiqfPNvp7z2/90weZYyyK45tHbAQ0XYGL9u3qsLBad9Ah4JHEuVjwpq16fZaHB/PdClq/fmpXHSI3UioMFBxFSqaUj7sboumuKoMuZ1hMyCs69RHg4y/7lsSqO2c9pxjpZ1yIcapbCrDRben6kZ5GtRC/5SOV+bplWHhkjCARsh3ZRYkBHTed47BCiEBBf2UhoFRcN8STNcQ6nKK4dx9cp+7OHmXiicsadiAKAUM+ThMsatAcMY9GCCdowiRTc+uxMCvQbucmF036Ws8aU8ZUjC1h5YO2XS5DWOiFp8StsptUGQSzRr/nnxvNokuq9ljiWHUZYBtSYAbKjK7yZdlU+duf3GN4I/UW/9nyvI1gWGDlc/26MKhKzSwm+</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
@@ -392,26 +412,6 @@
     <summary type="html">
     
       不知不觉，此一时，彼一时
-    
-    </summary>
-    
-      <category term="日记" scheme="https://loremwalker.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2018年8月11日 星期六 晴</title>
-    <link href="https://loremwalker.github.io/note/2018/08-11/9ba55efd.html"/>
-    <id>https://loremwalker.github.io/note/2018/08-11/9ba55efd.html</id>
-    <published>2018-08-11T08:41:14.000Z</published>
-    <updated>2018-08-11T09:55:07.526Z</updated>
-    
-    <content type="html"><![CDATA[<p>我也体会到好心当作驴肝肺的原因了，当然不是以我的角度来说的，而是站在网友的立场来说的。首先，一开始从微信转到qq向我发来“成长靠自己，发展来谭州”的链接标语。接着，向我发来消息：“我朋友同学公司招聘，可以了解一下，是做网络教育的”。</p><p>已经很明显了，是潭州这恶名昭彰的培训机构，看着她发来的链接，我无语了好一会…之后她又接着发来：“怎么，你是不打算找工作了？”。于是我问道：“你把一个培训机构推荐给我是什么意思？”，她是这样向我解释的：“他们是培训老师又不是要你去培训，之前都是从助理开始的，然后再做讲师”。</p><p>一个培训机构可以说连小型项目流程都达不了标，就某些水准也只能是唬小孩。在我看来，多数培训机构除了能锻炼传销的口才，其实别无他用，真正的经验真是寥寥无几；我立马想到她是不是已有将完成的好处来把我卖了？也直接明说了这一点，她的回答是卖我还这个没必要。</p><p>接触社会已有一年多了，我觉得她是不可能不知道培训套路的，而又向我推荐培训机构…即使是好心帮我（我觉得这概率相当低，其实她可以完全不在乎这并不关己的事），她没有把向我的推荐当作是自己一个找工作的过程，可以看出推荐给我很是随便，这也致使其会忽略这些关键细节因素，认为我的推荐就是在帮你。</p><p>这也就是我上文一开始提到好心当作驴肝肺的原因了，当然，我也并不认为这是她的好心…某些情感因素的存在，使我很容易忽视客观事实细节而冒然行事，存在这些多余的感情，对我来说也是件很无聊的事!</p>]]></content>
-    
-    <summary type="html">
-    
-      今天的日记并不一定记录的是今天的事...
     
     </summary>
     
