@@ -40,24 +40,6 @@
 
     
   <url>
-    <loc>https://loremwalker.github.io/note/2018/09-02/c2476d7d.html</loc>
-    <lastmod>2018-09-02T05:46:57.955Z</lastmod>
-    <data>
-        <display>
-        <title>2018年9月2日 星期日 阴</title>
-        <pubTime>2018-09-01T16:13:22.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="日记" url="https://loremwalker.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://loremwalker.github.io/note/2018/08-31/1919bb2d.html</loc>
     <lastmod>2018-09-01T12:35:04.471Z</lastmod>
     <data>
@@ -689,7 +671,6 @@
     </url>
 
     
-    
   <url>
     <loc>https://loremwalker.github.io/note/2018/06-21/d2475f08.html</loc>
     <lastmod>2018-07-26T14:13:56.000Z</lastmod>
@@ -707,4 +688,5 @@
     </data>
     </url>
 
+    
 </urlset>
