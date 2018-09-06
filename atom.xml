@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://loremwalker.github.io/"/>
-  <updated>2018-09-05T19:02:18.205Z</updated>
+  <updated>2018-09-06T13:41:33.034Z</updated>
   <id>https://loremwalker.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>牵着狗溜溜走走</title>
+    <link href="https://loremwalker.github.io/note/2018/09-06/2f9d2e3d.html"/>
+    <id>https://loremwalker.github.io/note/2018/09-06/2f9d2e3d.html</id>
+    <published>2018-09-06T12:06:40.000Z</published>
+    <updated>2018-09-06T13:41:33.034Z</updated>
+    
+    <content type="html"><![CDATA[<p>生命太过潦草，牵着狗溜溜走走，快乐不过只是漠不关心…没心没肺的自嘲<br>唐白苏，她是唯一的，永远的五年级，这么多年了，可能她早忘咯，在我记忆里咯，哈哈哈<br>她可看不到咯，看到了也许会知道我是谁吧？哈哈，执念真是很深的东西呢<br>初恋，梦中情人，我爱你，说的那么直白，不过都转学了…哈哈<br>真的留下了美好的回忆，唉，看不看到无所谓了<br>我就坐在你后边，你在我前面<br>画着漫不经心的画，你我都笑了<br>下课的时候，相互的让这对方在过道，结果相互的拦着，有意思<br>又回到以前些情诗咯，哈哈<br>当然，几个月前，如今真是不是几个月前了<br>没什么多余的滥情，也没什么荒唐可笑咯<br>真要说可笑，恐怕就是我还记着你咯，哈哈哈</p><p><img src="https://p0.cdn.img9.top/ipfs/QmexMz2MhzVzzL1kwbLoRocFu5ZCi1CHwGhi7fD23Wx9Vk?0.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      随便遛它玩玩好了
+    
+    </summary>
+    
+      <category term="漫笔" scheme="https://loremwalker.github.io/categories/%E6%BC%AB%E7%AC%94/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>深夜静谧的公园</title>
     <link href="https://loremwalker.github.io/note/2018/09-06/698539a8.html"/>
     <id>https://loremwalker.github.io/note/2018/09-06/698539a8.html</id>
     <published>2018-09-05T17:50:43.000Z</published>
-    <updated>2018-09-05T19:02:18.205Z</updated>
+    <updated>2018-09-06T12:21:12.009Z</updated>
     
     <content type="html"><![CDATA[<p>深夜时分，灯熄灭的悄然无声，坐在桥边冰凉的大理石凳上，看着没有月色的夜晚。是那么的安静和自然，也习惯了。轻微泛起的湖面，像是一潭死水，也懒得扔几个石子。关上了手机，安静的坐着，呆呆的看着，没有对过往的回忆，这种感觉很不错。</p><p>蛙声虫声分别交替着，点点繁星，枯萎的荷花，很美；微风拂起的柳枝轻轻的划过身上，淡淡的看过，很好。</p>]]></content>
     
@@ -31,7 +51,7 @@
     
     </summary>
     
-      <category term="深夜静谧的公园" scheme="https://loremwalker.github.io/categories/%E6%B7%B1%E5%A4%9C%E9%9D%99%E8%B0%A7%E7%9A%84%E5%85%AC%E5%9B%AD/"/>
+      <category term="漫笔" scheme="https://loremwalker.github.io/categories/%E6%BC%AB%E7%AC%94/"/>
     
     
   </entry>
@@ -105,7 +125,7 @@
     <link href="https://loremwalker.github.io/note/2018/08-30/64605610.html"/>
     <id>https://loremwalker.github.io/note/2018/08-30/64605610.html</id>
     <published>2018-08-30T15:55:19.000Z</published>
-    <updated>2018-08-30T18:14:05.429Z</updated>
+    <updated>2018-09-06T12:20:34.199Z</updated>
     
     <content type="html"><![CDATA[<p>猫狗队列是一个很经典的问题了吧，在书上我也翻看了很久；而网上的答案呢，也是千篇一律的，跟书的代码也是一字不差的，几乎除了照搬似乎都没什么思路可言的，甚至连书上提到注意的点都没有…</p><p>一开始我是没什么思路的，翻来覆去研究书上，发现原来挺简单；但用思路写起来还真不是一回事，挺难的。各个问题涉及到的地方很多，就是如何解决的问题很多，特别是题目的第二点要求。</p><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://p2.cdn.img9.top/ipfs/Qmf5gy6RnNTrt1sqs9MHW5UP24SzGKms16TeLmNSUcMtGQ?2.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://p3.cdn.img9.top/ipfs/QmQJALaKsCZ9fMzJzBeezzW2M9ddqy85uqwbdqAAtAjroM?3.jpg" alt=""></div></div><div class="group-picture-row"></div></div></div><p>以下是我研究书好一会做题的过程，也发现书上一些不太好的问题吧，比如对装载 Pet 实例的类命名为：PetEnterQueue ，真的很容易造成误解以为是个队列；而且我觉得书中所写的这类似乎有些多余了，这并不是说他的实现方式不对，这样的实现思路也的确是要这样做的；但其实只要创建一个由猫和狗组合成的共同的类就好了，实现的方法写在其中也OK，以下是我的解题过程。</p><p>题目：宠物、狗、猫类代码如下<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">package com.pat;</span><br><span class="line"></span><br><span class="line">public class Pet &#123;</span><br><span class="line">    private String type;</span><br><span class="line">    public Pet(String type)&#123;</span><br><span class="line">        this.type = type;</span><br><span class="line">    &#125;</span><br><span class="line">    public String getPetType()&#123;</span><br><span class="line">        return this.type;</span><br><span class="line">    &#125;</span><br><span class="line">    public class Dog extends Pet&#123;</span><br><span class="line">        public Dog()&#123;</span><br><span class="line">            super(&quot;dog&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    public class Cat extends Pet&#123;</span><br><span class="line">        public Cat()&#123;</span><br><span class="line">            super(&quot;cat&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><ul><li>用户可以调用add() ，cat类或dog类的实例放入队列中</li><li>用户可以调用pollAll()，将队列中所有实例按照队列先后顺序依次弹出</li><li>用户可以调用pollDog()、pollCat()，将队列中dog类、cat类的实例按照进队列的先后顺序依次弹出</li><li>用户可以调用isEmpty()，检查队列中是否还有dog、cat的实例</li><li>用户可以调用isDogEmpty()、isCatEmpty()，分别检查队列中是否还有dog、cat的实例</li></ul><p>思路：</p><p>1)  用户可以调用add() ，cat类或dog类的实例放入队列中</p><p>add() 也需要装载一个 Pet 的实例（多态），如何区分继承Pet类的 cat 和 dog 对象<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"> public Cat()&#123;</span><br><span class="line">    super(&quot;cat&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p>由于Cat 和 Dog 的构造方法有 <code>super(&quot;xxx&quot;)</code> 这下可以用 equals 比较字符串区分不同的 cat 和 dog 对象，然后将符合条件的对象加入进 Cat 或 Dog 的队列中。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">//最好避免魔法值，此中仅为示例</span><br><span class="line">boolean bool = pet.getPetType().equal(&quot;cat&quot;);</span><br><span class="line">if(bool)&#123;</span><br><span class="line"> add(pet);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>2) 用户可以调用pollAll()，将队列中所有实例按照队列先后顺序依次弹出</p><p>按照依次按顺序弹出，根据类别的队列中的对象总数或队列的大小，来决定先那个队列使用 poll() 将所有对象出列。比如 Cat 队列的对象少于 Dog 队列，就将 Cat 队列先执行 poll() 。这里将 Cat 队列命名为 catQ，Dog 队列则为 dogQ</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">if(catQ.size() &lt; dogQ.size())&#123;</span><br><span class="line">    this.catQ.poll();</span><br><span class="line">&#125;else&#123;</span><br><span class="line">    this.dogQ.poll();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>当然，在此之前还需要做一个非空的判断<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">  if (this.catQ.isEmpty() &amp;&amp; this.dogQ.isEmpty()) &#123;</span><br><span class="line">      throw new RuntimeException(&quot;empty&quot;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p><p>实现：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br></pre></td><td class="code"><pre><span class="line">package com.pet.dc.queue;</span><br><span class="line"></span><br><span class="line">import com.pet.Pet;</span><br><span class="line">import java.util.LinkedList;</span><br><span class="line">import java.util.Queue;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> * @author lorem</span><br><span class="line"> */</span><br><span class="line">public class CatDogQueue &#123;</span><br><span class="line">    private Queue&lt;Pet&gt; catQ;</span><br><span class="line">    private Queue&lt;Pet&gt; dogQ;</span><br><span class="line"></span><br><span class="line">    String cat = &quot;cat&quot;;</span><br><span class="line">    String dog = &quot;dog&quot;;</span><br><span class="line"></span><br><span class="line">    public CatDogQueue() &#123;</span><br><span class="line">    // linkedList 本质上和queue 是一样的，先进先出</span><br><span class="line">        this.catQ = new LinkedList&lt;Pet&gt;();</span><br><span class="line">        this.dogQ = new LinkedList&lt;Pet&gt;();</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public void add(Pet pet) &#123;</span><br><span class="line">        if (pet.getPetType().equals(cat)) &#123;</span><br><span class="line">            this.catQ.add(pet);</span><br><span class="line">        &#125;else if(pet.getPetType().equals(dog)) &#123;</span><br><span class="line">            this.dogQ.add(pet);</span><br><span class="line">        &#125; else &#123;</span><br><span class="line">            throw new RuntimeException(&quot;err,not cat not dog&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public void pollAll() &#123;</span><br><span class="line">        if (this.catQ.isEmpty() &amp;&amp; this.dogQ.isEmpty()) &#123;</span><br><span class="line">            throw new RuntimeException(&quot;empty&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">        if (this.catQ.size() &gt; this.dogQ.size()) &#123;</span><br><span class="line">            this.dogQ.poll();</span><br><span class="line">        &#125; else &#123;</span><br><span class="line">            this.catQ.poll();</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public void pollDog() &#123;</span><br><span class="line">        if (!this.dogQ.isEmpty()) &#123;</span><br><span class="line">            this.dogQ.poll();</span><br><span class="line">        &#125; else &#123;</span><br><span class="line">            throw new RuntimeException(&quot;dog is empty&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public void pollCat() &#123;</span><br><span class="line">        if (!this.catQ.isEmpty()) &#123;</span><br><span class="line">            this.catQ.poll();</span><br><span class="line">        &#125; else &#123;</span><br><span class="line">            throw new RuntimeException(&quot;cat is empty&quot;);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public boolean isEmpty() &#123;</span><br><span class="line">        if (!this.dogQ.isEmpty() &amp;&amp; !this.catQ.isEmpty()) &#123;</span><br><span class="line">            return false;</span><br><span class="line">        &#125;</span><br><span class="line">        return true;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public boolean isDogEmpty() &#123;</span><br><span class="line">        return this.dogQ.isEmpty();</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public boolean isCatEmpty() &#123;</span><br><span class="line">        return this.catQ.isEmpty();</span><br><span class="line">//       if (this.catQ.isEmpty())&#123;</span><br><span class="line">//           return true;</span><br><span class="line">//       &#125;else&#123;</span><br><span class="line">//           return false;</span><br><span class="line">//       &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>测试：</p><p>测试的话，在 maven 模块配置好 Junit4 再到 test 测试文件夹写好测试类，即可测验了</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line">import com.pet.Pet;</span><br><span class="line">import com.pet.dc.queue.CatDogQueue;</span><br><span class="line">import org.junit.Test;</span><br><span class="line"></span><br><span class="line">public class JTest &#123;</span><br><span class="line">    @Test</span><br><span class="line">    public void test() &#123;</span><br><span class="line">        Pet cat1 = new Pet(&quot;cat&quot;);</span><br><span class="line">        Pet cat2 = new Pet(&quot;cat&quot;);</span><br><span class="line">        Pet dog1 = new Pet(&quot;dog&quot;);</span><br><span class="line">        CatDogQueue cdq = new CatDogQueue();</span><br><span class="line">        cdq.add(cat1);</span><br><span class="line">        cdq.add(cat2);</span><br><span class="line">//      每个人心中都有不一样的城里的月光，悲伤的，欢畅的，逐梦的</span><br><span class="line">//      assert cat1.getPetType().equals(&quot;cat&quot;);</span><br><span class="line">        System.out.println(cdq.isDogEmpty());</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>看了一个照搬书上还不错的例子，<a href="https://www.cnblogs.com/lizhouwei/p/8722945.html" target="_blank" rel="noopener">通过给定的类实现猫狗队列</a>，他的 offer() 挺好的，如果队列已满再插入直接返回 false，不像add() 抛出异常中断执行 。异常尽早暴露原则的话，哦，那真是看情况而定了。</p>]]></content>
     
@@ -115,7 +135,7 @@
     
     </summary>
     
-      <category term="对猫狗队列的再解" scheme="https://loremwalker.github.io/categories/%E5%AF%B9%E7%8C%AB%E7%8B%97%E9%98%9F%E5%88%97%E7%9A%84%E5%86%8D%E8%A7%A3/"/>
+      <category term="漫笔" scheme="https://loremwalker.github.io/categories/%E6%BC%AB%E7%AC%94/"/>
     
     
   </entry>
@@ -125,7 +145,7 @@
     <link href="https://loremwalker.github.io/note/2018/08-29/944b5be.html"/>
     <id>https://loremwalker.github.io/note/2018/08-29/944b5be.html</id>
     <published>2018-08-29T01:44:29.000Z</published>
-    <updated>2018-08-29T04:04:24.272Z</updated>
+    <updated>2018-09-06T12:21:17.119Z</updated>
     
     <content type="html"><![CDATA[<p>初中过后的十年间，我几乎没买过几本书，也没有认真的读完过几本书，而且看书也非常杂乱无章，顶多看了几十页就看不下去了。大致就是这么一个情况，图中也仅是所有书当中的一小部分。</p><p><img src="https://p3.cdn.img9.top/ipfs/QmY953bGuJCk7vRUYm4Hp1wrCA74r4JYvncK76ayMtPs3g?3.jpg" alt=""></p><p>我不否认当我在写这篇日志时，我隐约想和你们比谁看得书之嫌，当然这种想法和攀比心非常愚蠢；因为能把书真正意义上的读完那才是重要的，知行合一，学以致用，这才是真正有效的。当然即使在我那段热诚期间，我也存在很长一段时间的叶公好龙，用现在的话来说就是装逼了，买的书不看做摆设不是装逼是什么？</p><p>说到这里一个很有意思的现象阿，就是当胖子拿出《高中语文基础知识手册》（那时是在初中）给我看时，这本手册很厚，内容挺广的，对概要提炼很到位，但就是不专（什么都知道，那就是具体详情什么都不知道）。感觉像是投机，应付考试而来的，事实也确实如此。毕竟考试嘛也是无法考得那么专一，更多的是广度，概要的提炼。</p><p>从小的读书教育，包括我的父辈的教育层次也的确…（我的学历也烂大街的，主要是他们的认知很有限），他们是不提钱的概念的，教师也同样如此；认为追逐功利和金钱是不当的，在这样的一个影响下，我多是看一些我所感兴趣的书，专业这枯燥乏味的，一概不看，结果…当然很不理想了；现在回过头来看，追名逐利对金钱的追求是正当的，我也总算明白 greed is good 这句话的深刻含义了。</p><p>说回正题，对，当时所要求我看的书多是文学著作，初中推荐阅读，blablabla…一堆，这么多能看完吗？一本《安娜卡列宁娜》这么厚，我那时也没有条件去接触一些在职上班的。看得也是文学著作，当然买了也仅仅只是几十页的样子，这也说明我也没这恒心以及兴趣看下去，有很大程度的原因是被一些外在因素，主导了我的选择。</p><p>我为什么要读这些书，目的是什么？好的，我现在可以回答你了也算是给自己的一个交代。对于以前的我来说：仅仅是他人推荐或是我所感兴趣，至于这本书是否对我有什么帮助，能获得到什么，这是我不会去考虑的，一直在用感觉主导我的兴趣；对于现在的来说：读这些说明我需要它，我急切的尽快的能够得到它，让它能够改变自己的一些思想行为，更好的完善自己。因为作者的人生经验、专业知识相对来说都比我要丰富的多得多，通过他的书让自己少些磕磕绊绊（就可避免来说）这也是意义之所在吧，man’s search 4 meanin’。</p><p>比对过去，我更多的开始带有思考和质疑去看了，我有我的观点，不一定存在清晰的谁对谁错的楚河汉界，作者出书是为了分享知识心得呢？还是为了职称来糊弄两下收取智商税呢？当开始知道对方的目动机、以及了解他做出此事的回报，一切将变得简单了，确实如此。</p><p>btw，漫画书也是存在能缓解疲劳保持兴趣的价值的，这是我在火车上所体会到的，提前准备一本全新的漫画书是能度过5小时的长途跋涉。看专业书的话，且不说装不装逼的事，只要自己能够有效提高那么做出的选择即是对的，在意旁人的看法干什么，庸人自扰之；看专业书的确很耗精力，本来火车上的条件也确实不适合。</p><p>此外，说一下我从纸质书-&gt;kindle-&gt;纸质书的过程，现在对此一个认知吧，纸质书确实有很多不便，但好处是很容易记笔记，印象会比电子书深刻，也没有看同一本电子书而言的快速疲劳，而且纸质书内容也是比电子书实际上是要多些的，电子书特别是涉及专业的一些图、代码示例要考虑到屏幕适配的问题，体验确实不好；当然，kindle也有它的优点，方便携带，非常适合看小说方面的书籍。</p><p>以及，我在 <a href="https://www.quora.com/profile/Joseph-Cho-9" target="_blank" rel="noopener">quora</a> 看到一个非常有启发性的几句话：</p><ul><li>If the world is giving you pain, learn to not pass that pain to others.</li><li>Not everyone is a good fit for you. You’re certain to get the worse end of the bargain if you exchange ideas with the wrong person.</li><li>Wealth is ideas turned into action.</li><li>Learn to read content on the internet with a critical eye (including this post).</li></ul><p>这也是我的一个 INWL 准则吧，现在就是，不断保持唤醒它，这也是我要做的事 DOIT.</p><!-- 我很感谢曾经拥有这样的历史、数学、语文、英语、专业的老师，他们至少培养我的兴趣；虽然他们是他们，但我是我，做出的选择优解才是最重要的。 -->]]></content>
     
@@ -135,7 +155,7 @@
     
     </summary>
     
-      <category term="再谈读书时" scheme="https://loremwalker.github.io/categories/%E5%86%8D%E8%B0%88%E8%AF%BB%E4%B9%A6%E6%97%B6/"/>
+      <category term="漫笔" scheme="https://loremwalker.github.io/categories/%E6%BC%AB%E7%AC%94/"/>
     
     
   </entry>
@@ -165,7 +185,7 @@
     <link href="https://loremwalker.github.io/note/2018/08-27/dd84a5a3.html"/>
     <id>https://loremwalker.github.io/note/2018/08-27/dd84a5a3.html</id>
     <published>2018-08-27T15:10:59.000Z</published>
-    <updated>2018-08-27T17:38:27.877Z</updated>
+    <updated>2018-09-06T12:21:09.130Z</updated>
     
     <content type="html"><![CDATA[<p>一个人的时候，下起了雨，困了也会把书放在一边；八月已渐进尾声，当价值耗尽时，存在不相关的多余情感是多么的无聊…往往只会同情有价值的人，可不会怜悯一无是处且无利可图的人；死性不改，偏偏又难以狠下心来，时常忘记找寻意义需要做的，试试不爽的折腾也比闲适要来的爽快。</p><p>是否感到孤独？可以说当有人说到我是孤独的时候，可以说是的，以前没意识到我是孤独的，也一个人看看风景也很舒心，一个人坐在公园里喂鸽子也很有趣。当自己意识到孤独的时候，内心的确空虚少什么的东西似的，持续了好一段时间。</p><p>我有我自己对待事物态度的理解，这种他人见解让我庸人自扰是很无聊的，难道我就真的孤独吗？不，我还有你们，生命中真正重要的人，儿时的玩伴学长、以及我的亲表妹。一个不断的唤醒我的意识，一个是我的寄托，不会重蹈我的覆辙吧。</p><p>这父辈文化程度极低，他们意识极度落后给我带来现状的痛苦，我也曾直接或间接的向我身边最近为数不多的好友倾述过，大倒苦水；当他们向我倾诉时，我不是ta，也难以去理解当时处境下ta的痛苦，把ta当作耳旁风，甚至是烦人苍蝇；也渐渐明白原来这不是参加感动中国的，这是一个充满讥笑红朝核心价值观的社会。</p><p>所以，我也开始不再把这无聊的痛苦传递给别人，带来的也仅是毫无意义的，双方各自发泄令人厌烦的负面情绪，或是对方替你发泄负面情绪图一时爽快，最糟的也就是我可不想听你这垃圾情绪扰乱我的心情，滚远点！除此之外起不到任何真正的抉择性改善作用。</p><p>带着感情凭着感觉做事，始终都是那么荒诞，那么可笑；如果强制自己冷静下来，客观的分析各方面，也许那个就是接近答案的最大概率；我也就不会觉得曾经的自己是多么的可笑以及愚蠢。</p><!-- 外向->内向->有选择的外向 这是我的过程-->]]></content>
     
@@ -175,7 +195,7 @@
     
     </summary>
     
-      <category term="一个人的时候" scheme="https://loremwalker.github.io/categories/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%97%B6%E5%80%99/"/>
+      <category term="漫笔" scheme="https://loremwalker.github.io/categories/%E6%BC%AB%E7%AC%94/"/>
     
     
   </entry>
@@ -207,7 +227,7 @@
     <published>2018-08-23T07:18:18.000Z</published>
     <updated>2018-08-25T00:36:04.645Z</updated>
     
-    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="security">  <div class="input-container">  <input type="password" class="form-control" id="pass" placeholder="勇敢面对现在的事实去改变吧 相信你能做到" />    <label for="pass">勇敢面对现在的事实去改变吧 相信你能做到</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+fa+tWnmeNPwUMEiptHIptVqyAeOw7aeSbsAYAHW+E/hRIz79BIVdFfHSQZA1np2l09RhLvrLw4gEPcnO/oDdK20A/L5GkJkB7fEWyTFf1u91at4fjgTxTnDMeBN0T6SU2Gkpd0KRfLlecgys0oariU3fSGzg7t0bIQ0d5a7kPnAOXUK07e8DK7Ngo0n+YxaDjOlaa5/LEuhUIt1nWn0PI52qEE1SMZsNvsOJAjfBUMeox0Flmwffeu7AxNoAFA/KRBxxk6OQie2RZIap61tISPlveDPoBsVyukrO7FmolDtTfxhIVnnaoJs0iO6CJrN96mpV0mhrLHzzOyaWcHxw3w772Df1DnIZ5yoyXKx9pziOmaKJyQ6p5KjgoG8cjs+hYUfF0HL6co/EslY1jn9kkvodXdgekzERByFan1VoQP/oB9lEEmi8J2HgKc4oOoFPTH5TfGyJ04U4NlYJKpOCsSJA4ai/UQELW/64MWicPgGoFSpVUCdKIwMIrVF8iDtI3mtaWI3RVGpHg3dEfy8qS3D2Jj6nVEhZXcQ6YU5+usWHIfSJC3I2iHGGMsac5wqhz0BfsRiRq6px5zQ1+Z85wbRIrzI5un6wX3OoBEaGGoMsZmPFXNCJ1fJpP5ttKudrRdpxLqd/laaJz2jkxuaGMw2lD6OK/9e4OgnyNQ76lsRIekRR+6/19GTmpp/J6LksRGG7rRUyGiy/4wTBzZpDK369aawILtT75TT1LCNqg7OfJ+IQ//6H0vB/7cVwV1iSeQ2tyjXpCa9p5Czn+Ac0MOaQV08oa4plPUu4rRQGF76k+mkTXNpuISeyVmea03nbFzDT5TMFaJOYUAmefKrvbPyR6OwhDs0291EKm4V9chEnP47N3m4LJ9k6mFqvU7GIubxkrhS0VPNPPgaqnqtjNZpLlHvzHcYGmz23SU2jtjk/yM4fMpM3mhLMoVIhynLIcULXftY8rOL3A/vh21rOj5S/v3TEQzxCvfknTj4TW5Q7GDdI3pKZVGYV8BZSfcuvfQDksNhROs6/ZGAd8hPfuXCBPvbMO8xLFHITO4Sc6XJ9Zoo/6gLzt7Frywt6+ltxGzqVruNB7+//HH88QEcgpZ3dH/v9TbdiDew8q30L9yFj3b/oJJppIT/CbyPwWKhMwrLXlZaTwbSvQrQ+vlDmc5VsMlaHZImz9JMzIAJ6W3xuyioDWxh5Lgu+u2rko9ZWQ1ZYRVLqt4r21dQENX8ZUS3QkDirhYKKBY6Z9pWtBo+BYp3/Dwc3k</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="security">  <div class="input-container">  <input type="password" class="form-control" id="pass" placeholder="勇敢面对现在的事实去改变吧 相信你能做到" />    <label for="pass">勇敢面对现在的事实去改变吧 相信你能做到</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX18y1LMRwiOcWgaCqDbQeXTcRfK8tFXHxGNNKEKw6HQ1bDnQvkzTWVURRaF1qFZ/HNmbCBunIaww+ow53eo7o+J0U+BosW+NapBH1eJUb8cQZ8kKowmX7VgEhfm59uypcgdWqoc0boPaEJIXktzmOsz3ZhRTROKvXylHJMB6yuzNcpFCjpZxBpASxQWhZCst8F6ouADr8YifqWaLjjmbgUCKBu46YhdZKvMdt4TsUZ3sElpFGCmGWVgS7pSHRYCCgtV0pKAh29eVK1z8KdNS0YVdfY6RXZ4LexPgIbKWOu9U3ZzoilNGMkGyQM4JraxiXYvlLHBFxXwxItZBgmMdB6OgrbFRkgLepiF3DoC32k6Q5ceP80tv/75dmbQUxygc3bAWlbTlY4lE6WPk/WbdqSbEwFc4U6C5kaPNVjlyHwtNm/aI7JWtNd1q0KVfns2M5+BtoqgWf8mf3HZpeg5ZrBghMR5t9UMce47IITF3AXZr+J8yudDkaiaB8pVeAgGuohW+ns/yycpAH4f56UAJgWLoeC4/Q4ti7hUZC/ZGbFW0FS8iOcc92IGAgSgFWNyxdmzY25DOi+gCB8drRpLDh9Z/6aAUAghECpTn7/UKJfc2BmXtjK4n1N0MWrX8f0Y4tq6B5Q/Lt2St136yE1CHnTpstidEKvMWLv+5KiZJk06xR29OWHdA91HNUqIJY8NAC11pn9FiuiOK3w23lnVmWqWfev3cDT2kJ+7yxtk8/g4Lk36jCuCPsiSKXI5S2IDQnxndg/6n1ytsYhxLZLj+JfoWPqoqAcE8gsoZWZQsRfa9W3yt6w6DrH5MvM9NoIFHy+6S4rGVFlu5usHHPEYGYGzynDt3pDgEThMJTZiDMnrgkbqcs8rRP8f11p/m8WpFRYAm1g3bzS1OkrcPk2Oh4xy6wQwKtT+cfM8u9X1JqRhEJ/EvZ/YhgH6ngOw+4CUNIib+n9Mc0a8F54hLqTCpWsnZAi0aghNph/mAEslC1d8PtmySehhVqpjhoJGWpRhlcoeAZPSh1OlUhU7Ewtxe8xZ0TSbc4xelSPwgkkIiiognnVJhPJgzWLU4aK8WKKbTnPDiMQKRK8eEDxCZwEEwkPrpfiVDH0WaEEtiGl+ikk/NDde9FP5J+PL0G9d1469CuB51ZSEIKxl+6rpuRnGJS26/+L26bLduhPTjT25tbMLmsn0Z+J7bHGUZ6L/SY1QNCQ8FhZoXKJ+riJEyuPBAj+nZDlRkVqaJg18UMCyayjyWGrjrUlnOwQS0</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
@@ -392,26 +412,6 @@
     <summary type="html">
     
       深更半夜跟人讨论海鲜烧烤，打开手机是充满垃圾的无聊朋友圈，看着空间好友动态又是失恋的人发的说说...
-    
-    </summary>
-    
-      <category term="日记" scheme="https://loremwalker.github.io/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2018年8月12日 星期日 晴</title>
-    <link href="https://loremwalker.github.io/note/2018/08-11/3ea57153.html"/>
-    <id>https://loremwalker.github.io/note/2018/08-11/3ea57153.html</id>
-    <published>2018-08-11T15:59:12.000Z</published>
-    <updated>2018-08-11T16:59:01.276Z</updated>
-    
-    <content type="html"><![CDATA[<p>想不到qq空间关闭以后，还是能够发消息的，个人中心对于现在（可能将来）的我来说是已经用不上了。</p><p><img src="http://p3.cdn.img9.top/ipfs/Qmc1LyPUukwAtACWs9CANk9qeC58UR52ouRuFxHU4wjZpj?3.png" alt=""></p><p>人和事物是独立存在的个体，但总会把散发消息的人和散发消息的事物关联起来，而去肯定这必定是“你”本身所发生的事，并不会质疑这真的是“你”吗？除了你还有谁与这个事物相关联呢？这个真正与事物相关联的人是否与“你”有直接的联系？</p><p>假定是“你”，根据“你”的条件以及当前所处的环境符合“你”发送消息上的事物可能性有多大？当然，在不了解对方的情况下（掌握对方的信息较少），消息人和事物并不发生在这个消息人身上的可能性非常高。假若他肯定，那也不能直接认定就是他所发生的事，因为仅通过一张图的信息证明还是太少了。</p><p>如果不去思考的话，信息真会误导我们，就像这篇日记，表面上看是8月11日，但在编辑的时候已经是12日1点左右了，事物的发展真的，永远是动态的，用静态的思维及定性的词汇去描述一个动态的事物永远是错误的，也仅在当前有效，并不保证以后有效。</p>]]></content>
-    
-    <summary type="html">
-    
-      不知不觉，此一时，彼一时
     
     </summary>
     
